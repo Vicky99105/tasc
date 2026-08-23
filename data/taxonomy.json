@@ -1,0 +1,992 @@
+{
+  "version": "v1-2026-08-23",
+  "terms": [
+    {
+      "id": "PYTHON",
+      "pillar": "skill",
+      "label": "Python",
+      "surfaces": [
+        "Python",
+        "Pandas",
+        "Django"
+      ],
+      "related": {},
+      "from_requirements": [
+        "Python",
+        "Python/R"
+      ]
+    },
+    {
+      "id": "R",
+      "pillar": "skill",
+      "label": "R",
+      "surfaces": [
+        "R"
+      ],
+      "related": {},
+      "from_requirements": [
+        "Python/R"
+      ]
+    },
+    {
+      "id": "REST_APIS",
+      "pillar": "skill",
+      "label": "REST APIs",
+      "surfaces": [
+        "REST APIs",
+        "REST API design"
+      ],
+      "related": {
+        "Microservices": 0.6
+      },
+      "from_requirements": [
+        "REST APIs"
+      ]
+    },
+    {
+      "id": "POSTGRESQL",
+      "pillar": "skill",
+      "label": "PostgreSQL",
+      "surfaces": [
+        "PostgreSQL"
+      ],
+      "related": {},
+      "from_requirements": [
+        "PostgreSQL"
+      ]
+    },
+    {
+      "id": "SQL",
+      "pillar": "skill",
+      "label": "SQL",
+      "surfaces": [
+        "SQL",
+        "MySQL"
+      ],
+      "related": {},
+      "from_requirements": [
+        "SQL"
+      ]
+    },
+    {
+      "id": "AWS",
+      "pillar": "skill",
+      "label": "AWS",
+      "surfaces": [
+        "AWS",
+        "AWS Lambda"
+      ],
+      "related": {},
+      "from_requirements": [
+        "AWS",
+        "AWS/Azure"
+      ]
+    },
+    {
+      "id": "AZURE",
+      "pillar": "skill",
+      "label": "Azure",
+      "surfaces": [
+        "Azure"
+      ],
+      "related": {},
+      "from_requirements": [
+        "AWS/Azure"
+      ]
+    },
+    {
+      "id": "KUBERNETES",
+      "pillar": "skill",
+      "label": "Kubernetes",
+      "surfaces": [
+        "Kubernetes"
+      ],
+      "related": {},
+      "from_requirements": [
+        "Kubernetes"
+      ]
+    },
+    {
+      "id": "DOCKER",
+      "pillar": "skill",
+      "label": "Docker",
+      "surfaces": [
+        "Docker"
+      ],
+      "related": {},
+      "from_requirements": [
+        "Docker"
+      ]
+    },
+    {
+      "id": "KAFKA",
+      "pillar": "skill",
+      "label": "Kafka",
+      "surfaces": [
+        "Kafka"
+      ],
+      "related": {},
+      "from_requirements": [
+        "Kafka"
+      ]
+    },
+    {
+      "id": "CI_CD",
+      "pillar": "skill",
+      "label": "CI/CD pipelines",
+      "surfaces": [
+        "CI/CD pipelines",
+        "CI/CD",
+        "Jenkins"
+      ],
+      "related": {},
+      "from_requirements": [
+        "CI/CD pipelines"
+      ]
+    },
+    {
+      "id": "TERRAFORM",
+      "pillar": "skill",
+      "label": "Terraform",
+      "surfaces": [
+        "Terraform"
+      ],
+      "related": {},
+      "from_requirements": [
+        "Terraform"
+      ]
+    },
+    {
+      "id": "MONITORING_TOOLS",
+      "pillar": "skill",
+      "label": "Monitoring tools",
+      "surfaces": [
+        "Monitoring tools",
+        "Monitoring (Datadog/Prometheus)",
+        "Datadog",
+        "Prometheus"
+      ],
+      "related": {},
+      "from_requirements": [
+        "monitoring tools (Datadog/Prometheus)"
+      ]
+    },
+    {
+      "id": "CRM_TOOLS",
+      "pillar": "skill",
+      "label": "CRM tools",
+      "surfaces": [
+        "CRM tools",
+        "Salesforce",
+        "HubSpot",
+        "CRM (Salesforce)"
+      ],
+      "related": {},
+      "from_requirements": [
+        "CRM tools (Salesforce/HubSpot)"
+      ]
+    },
+    {
+      "id": "B2B_OUTREACH",
+      "pillar": "skill",
+      "label": "B2B outreach",
+      "surfaces": [
+        "B2B outreach"
+      ],
+      "related": {
+        "Outbound prospecting": 0.7,
+        "Lead generation": 0.7
+      },
+      "from_requirements": [
+        "B2B outreach"
+      ]
+    },
+    {
+      "id": "COLD_CALLING",
+      "pillar": "skill",
+      "label": "Cold calling",
+      "surfaces": [
+        "Cold calling",
+        "cold calling"
+      ],
+      "related": {
+        "Objection handling": 0.6
+      },
+      "from_requirements": [
+        "cold calling"
+      ]
+    },
+    {
+      "id": "SAAS_SALES",
+      "pillar": "skill",
+      "label": "SaaS sales",
+      "surfaces": [
+        "SaaS sales",
+        "SaaS sales experience"
+      ],
+      "related": {
+        "B2B sales": 0.7,
+        "Pipeline management": 0.6,
+        "Territory management": 0.6
+      },
+      "from_requirements": [
+        "SaaS sales experience"
+      ]
+    },
+    {
+      "id": "B2B_SAAS_EXPERIENCE",
+      "pillar": "skill",
+      "label": "B2B SaaS experience",
+      "surfaces": [
+        "B2B SaaS experience"
+      ],
+      "related": {},
+      "from_requirements": [
+        "B2B SaaS experience"
+      ]
+    },
+    {
+      "id": "SAAS_PRODUCT_EXPERIENCE",
+      "pillar": "skill",
+      "label": "SaaS product experience",
+      "surfaces": [
+        "SaaS product experience"
+      ],
+      "related": {},
+      "from_requirements": [
+        "SaaS product experience"
+      ]
+    },
+    {
+      "id": "ARABIC_LANGUAGE",
+      "pillar": "skill",
+      "label": "Arabic fluency",
+      "surfaces": [
+        "Arabic fluency",
+        "Arabic + English bilingual",
+        "bilingual Arabic/English",
+        "Bilingual Arabic/English",
+        "Fluent Arabic & English"
+      ],
+      "related": {},
+      "from_requirements": [
+        "Arabic fluency",
+        "Arabic + English bilingual",
+        "bilingual Arabic/English"
+      ]
+    },
+    {
+      "id": "FINANCIAL_MODELING",
+      "pillar": "skill",
+      "label": "Financial modeling",
+      "surfaces": [
+        "Financial modeling",
+        "Financial Modeling"
+      ],
+      "related": {
+        "Financial analysis": 0.6,
+        "Cash flow forecasting": 0.7
+      },
+      "from_requirements": [
+        "Financial modeling"
+      ]
+    },
+    {
+      "id": "IFRS",
+      "pillar": "skill",
+      "label": "IFRS",
+      "surfaces": [
+        "IFRS",
+        "IFRS 9"
+      ],
+      "related": {},
+      "from_requirements": [
+        "IFRS"
+      ]
+    },
+    {
+      "id": "BUDGETING",
+      "pillar": "skill",
+      "label": "Budgeting",
+      "surfaces": [
+        "Budgeting",
+        "budgeting",
+        "Budgeting & Forecasting"
+      ],
+      "related": {
+        "Variance analysis": 0.7
+      },
+      "from_requirements": [
+        "budgeting"
+      ]
+    },
+    {
+      "id": "EXCEL",
+      "pillar": "skill",
+      "label": "Excel (advanced)",
+      "surfaces": [
+        "Excel (advanced)",
+        "Excel/advanced"
+      ],
+      "related": {},
+      "from_requirements": [
+        "Excel/advanced"
+      ]
+    },
+    {
+      "id": "POWER_BI",
+      "pillar": "skill",
+      "label": "Power BI",
+      "surfaces": [
+        "Power BI"
+      ],
+      "related": {},
+      "from_requirements": [
+        "Power BI"
+      ]
+    },
+    {
+      "id": "TABLEAU",
+      "pillar": "skill",
+      "label": "Tableau",
+      "surfaces": [
+        "Tableau"
+      ],
+      "related": {},
+      "from_requirements": [
+        "Tableau"
+      ]
+    },
+    {
+      "id": "DATA_VISUALIZATION",
+      "pillar": "skill",
+      "label": "Data visualization",
+      "surfaces": [
+        "Data visualization",
+        "data visualization",
+        "Looker"
+      ],
+      "related": {},
+      "from_requirements": [
+        "data visualization"
+      ]
+    },
+    {
+      "id": "ERP_SYSTEMS",
+      "pillar": "skill",
+      "label": "ERP systems",
+      "surfaces": [
+        "ERP systems",
+        "ERP systems (SAP/Oracle)",
+        "Oracle ERP",
+        "SAP FICO",
+        "SAP",
+        "Oracle"
+      ],
+      "related": {},
+      "from_requirements": [
+        "ERP systems (SAP/Oracle)"
+      ]
+    },
+    {
+      "id": "STATISTICS",
+      "pillar": "skill",
+      "label": "Statistics",
+      "surfaces": [
+        "Statistics",
+        "statistics"
+      ],
+      "related": {},
+      "from_requirements": [
+        "statistics"
+      ]
+    },
+    {
+      "id": "AB_TESTING",
+      "pillar": "skill",
+      "label": "A/B testing",
+      "surfaces": [
+        "A/B testing",
+        "A/B testing experience"
+      ],
+      "related": {},
+      "from_requirements": [
+        "A/B testing experience"
+      ]
+    },
+    {
+      "id": "EMPLOYEE_RELATIONS",
+      "pillar": "skill",
+      "label": "Employee relations",
+      "surfaces": [
+        "Employee relations"
+      ],
+      "related": {
+        "Employee engagement": 0.7,
+        "Policy design": 0.6
+      },
+      "from_requirements": [
+        "Employee relations"
+      ]
+    },
+    {
+      "id": "UAE_LABOR_LAW",
+      "pillar": "skill",
+      "label": "UAE labor law",
+      "surfaces": [
+        "UAE labor law"
+      ],
+      "related": {},
+      "from_requirements": [
+        "UAE labor law"
+      ]
+    },
+    {
+      "id": "PERFORMANCE_MANAGEMENT",
+      "pillar": "skill",
+      "label": "Performance management",
+      "surfaces": [
+        "Performance management",
+        "performance management"
+      ],
+      "related": {},
+      "from_requirements": [
+        "performance management"
+      ]
+    },
+    {
+      "id": "HRIS",
+      "pillar": "skill",
+      "label": "HRIS systems",
+      "surfaces": [
+        "HRIS systems",
+        "HRIS systems (Workday/SAP SuccessFactors)",
+        "HRIS",
+        "Workday",
+        "SAP SuccessFactors"
+      ],
+      "related": {},
+      "from_requirements": [
+        "HRIS systems (Workday/SAP SuccessFactors)"
+      ]
+    },
+    {
+      "id": "GO_TO_MARKET_STRATEGY",
+      "pillar": "skill",
+      "label": "Go-to-market strategy",
+      "surfaces": [
+        "Go-to-market strategy"
+      ],
+      "related": {},
+      "from_requirements": [
+        "Go-to-market strategy"
+      ]
+    },
+    {
+      "id": "POSITIONING",
+      "pillar": "skill",
+      "label": "Product positioning",
+      "surfaces": [
+        "Product positioning",
+        "positioning",
+        "Positioning"
+      ],
+      "related": {
+        "Brand strategy": 0.6
+      },
+      "from_requirements": [
+        "positioning"
+      ]
+    },
+    {
+      "id": "CONTENT_CREATION",
+      "pillar": "skill",
+      "label": "Content creation",
+      "surfaces": [
+        "Content creation",
+        "content creation"
+      ],
+      "related": {},
+      "from_requirements": [
+        "content creation"
+      ]
+    },
+    {
+      "id": "FIGMA",
+      "pillar": "skill",
+      "label": "Figma",
+      "surfaces": [
+        "Figma"
+      ],
+      "related": {},
+      "from_requirements": [
+        "Figma"
+      ]
+    },
+    {
+      "id": "TICKETING_SYSTEMS",
+      "pillar": "skill",
+      "label": "Ticketing systems",
+      "surfaces": [
+        "Ticketing systems",
+        "Ticketing systems (Zendesk)",
+        "Zendesk"
+      ],
+      "related": {
+        "Escalation handling": 0.6
+      },
+      "from_requirements": [
+        "Ticketing systems (Zendesk)"
+      ]
+    },
+    {
+      "id": "TROUBLESHOOTING",
+      "pillar": "skill",
+      "label": "Troubleshooting",
+      "surfaces": [
+        "Troubleshooting",
+        "troubleshooting"
+      ],
+      "related": {},
+      "from_requirements": [
+        "troubleshooting"
+      ]
+    },
+    {
+      "id": "WRITTEN_COMMUNICATION",
+      "pillar": "skill",
+      "label": "Written communication",
+      "surfaces": [
+        "Written communication",
+        "written communication"
+      ],
+      "related": {},
+      "from_requirements": [
+        "written communication"
+      ]
+    },
+    {
+      "id": "FULL_CYCLE_RECRUITING",
+      "pillar": "skill",
+      "label": "Full-cycle recruiting",
+      "surfaces": [
+        "Full-cycle recruiting"
+      ],
+      "related": {
+        "Interview coordination": 0.6
+      },
+      "from_requirements": [
+        "Full-cycle recruiting"
+      ]
+    },
+    {
+      "id": "ATS_TOOLS",
+      "pillar": "skill",
+      "label": "ATS tools",
+      "surfaces": [
+        "ATS tools",
+        "Greenhouse/Lever"
+      ],
+      "related": {},
+      "from_requirements": [
+        "ATS tools"
+      ]
+    },
+    {
+      "id": "SOURCING",
+      "pillar": "skill",
+      "label": "Sourcing",
+      "surfaces": [
+        "Sourcing",
+        "sourcing"
+      ],
+      "related": {
+        "Boolean search": 0.7
+      },
+      "from_requirements": [
+        "sourcing"
+      ]
+    },
+    {
+      "id": "TECH_HIRING",
+      "pillar": "skill",
+      "label": "Technical hiring",
+      "surfaces": [
+        "Technical hiring",
+        "Tech hiring experience"
+      ],
+      "related": {},
+      "from_requirements": [
+        "Tech hiring experience"
+      ]
+    },
+    {
+      "id": "LINKEDIN_RECRUITER",
+      "pillar": "skill",
+      "label": "LinkedIn Recruiter",
+      "surfaces": [
+        "LinkedIn Recruiter"
+      ],
+      "related": {},
+      "from_requirements": [
+        "LinkedIn Recruiter"
+      ]
+    },
+    {
+      "id": "CONTRACT_DRAFTING",
+      "pillar": "skill",
+      "label": "Contract drafting",
+      "surfaces": [
+        "Contract drafting",
+        "Commercial contracts"
+      ],
+      "related": {},
+      "from_requirements": [
+        "Contract drafting"
+      ]
+    },
+    {
+      "id": "UAE_COMMERCIAL_LAW",
+      "pillar": "skill",
+      "label": "UAE commercial law",
+      "surfaces": [
+        "UAE commercial law"
+      ],
+      "related": {},
+      "from_requirements": [
+        "UAE commercial law"
+      ]
+    },
+    {
+      "id": "COMPLIANCE",
+      "pillar": "skill",
+      "label": "Compliance",
+      "surfaces": [
+        "Compliance",
+        "compliance",
+        "Regulatory compliance"
+      ],
+      "related": {
+        "Corporate governance": 0.6
+      },
+      "from_requirements": [
+        "compliance"
+      ]
+    },
+    {
+      "id": "GCC_CROSS_BORDER",
+      "pillar": "skill",
+      "label": "GCC cross-border experience",
+      "surfaces": [
+        "GCC cross-border experience"
+      ],
+      "related": {
+        "GCC regulatory frameworks": 0.7
+      },
+      "from_requirements": [
+        "GCC cross-border experience"
+      ]
+    },
+    {
+      "id": "BACKEND_ENGINEER",
+      "pillar": "occupation",
+      "label": "Backend Engineer",
+      "surfaces": [
+        "Backend Engineer"
+      ],
+      "related": {
+        "Software Engineer": 0.7
+      },
+      "from_requirements": [
+        "Backend Engineer"
+      ]
+    },
+    {
+      "id": "SALES_DEVELOPMENT_REPRESENTATIVE",
+      "pillar": "occupation",
+      "label": "Sales Development Representative",
+      "surfaces": [
+        "Sales Development Representative",
+        "Business Development Rep",
+        "Telesales Agent"
+      ],
+      "related": {
+        "Sales Executive": 0.7,
+        "Account Executive": 0.7
+      },
+      "from_requirements": [
+        "Sales Development Representative"
+      ]
+    },
+    {
+      "id": "FINANCE_MANAGER",
+      "pillar": "occupation",
+      "label": "Finance Manager",
+      "surfaces": [
+        "Finance Manager",
+        "Financial Controller",
+        "Senior Financial Analyst"
+      ],
+      "related": {},
+      "from_requirements": [
+        "Finance Manager"
+      ]
+    },
+    {
+      "id": "DATA_ANALYST",
+      "pillar": "occupation",
+      "label": "Data Analyst",
+      "surfaces": [
+        "Data Analyst",
+        "Business Intelligence Analyst",
+        "Reporting Analyst"
+      ],
+      "related": {},
+      "from_requirements": [
+        "Data Analyst"
+      ]
+    },
+    {
+      "id": "HR_BUSINESS_PARTNER",
+      "pillar": "occupation",
+      "label": "HR Business Partner",
+      "surfaces": [
+        "HR Business Partner",
+        "HR Generalist"
+      ],
+      "related": {},
+      "from_requirements": [
+        "HR Business Partner"
+      ]
+    },
+    {
+      "id": "PRODUCT_MARKETING_MANAGER",
+      "pillar": "occupation",
+      "label": "Product Marketing Manager",
+      "surfaces": [
+        "Product Marketing Manager"
+      ],
+      "related": {
+        "Marketing Manager": 0.6,
+        "Growth Marketing Specialist": 0.6
+      },
+      "from_requirements": [
+        "Product Marketing Manager"
+      ]
+    },
+    {
+      "id": "CUSTOMER_SUPPORT_SPECIALIST",
+      "pillar": "occupation",
+      "label": "Customer Support Specialist",
+      "surfaces": [
+        "Customer Support Specialist",
+        "Support Agent"
+      ],
+      "related": {
+        "Customer Success Associate": 0.7
+      },
+      "from_requirements": [
+        "Customer Support Specialist"
+      ]
+    },
+    {
+      "id": "DEVOPS_ENGINEER",
+      "pillar": "occupation",
+      "label": "DevOps Engineer",
+      "surfaces": [
+        "DevOps Engineer",
+        "Cloud Infrastructure Engineer",
+        "Platform Engineer",
+        "Site Reliability Engineer"
+      ],
+      "related": {},
+      "from_requirements": [
+        "DevOps Engineer"
+      ]
+    },
+    {
+      "id": "TECHNICAL_RECRUITER",
+      "pillar": "occupation",
+      "label": "Technical Recruiter",
+      "surfaces": [
+        "Technical Recruiter",
+        "Recruiter",
+        "Talent Acquisition Specialist"
+      ],
+      "related": {},
+      "from_requirements": [
+        "Technical Recruiter"
+      ]
+    },
+    {
+      "id": "LEGAL_COUNSEL",
+      "pillar": "occupation",
+      "label": "Legal Counsel",
+      "surfaces": [
+        "Legal Counsel",
+        "Corporate Lawyer",
+        "Legal Advisor"
+      ],
+      "related": {},
+      "from_requirements": [
+        "Legal Counsel"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "pillar": "skill",
+      "src": "PYTHON",
+      "dst": "R",
+      "kind": "adjacent",
+      "weight": 0.6
+    },
+    {
+      "pillar": "skill",
+      "src": "AWS",
+      "dst": "AZURE",
+      "kind": "adjacent",
+      "weight": 0.6
+    },
+    {
+      "pillar": "skill",
+      "src": "DOCKER",
+      "dst": "KUBERNETES",
+      "kind": "adjacent",
+      "weight": 0.6
+    },
+    {
+      "pillar": "skill",
+      "src": "B2B_OUTREACH",
+      "dst": "COLD_CALLING",
+      "kind": "adjacent",
+      "weight": 0.6
+    },
+    {
+      "pillar": "skill",
+      "src": "B2B_SAAS_EXPERIENCE",
+      "dst": "SAAS_SALES",
+      "kind": "adjacent",
+      "weight": 0.6
+    },
+    {
+      "pillar": "skill",
+      "src": "B2B_SAAS_EXPERIENCE",
+      "dst": "SAAS_PRODUCT_EXPERIENCE",
+      "kind": "adjacent",
+      "weight": 0.6
+    },
+    {
+      "pillar": "skill",
+      "src": "BUDGETING",
+      "dst": "FINANCIAL_MODELING",
+      "kind": "adjacent",
+      "weight": 0.6
+    },
+    {
+      "pillar": "skill",
+      "src": "POWER_BI",
+      "dst": "TABLEAU",
+      "kind": "adjacent",
+      "weight": 0.6
+    },
+    {
+      "pillar": "skill",
+      "src": "DATA_VISUALIZATION",
+      "dst": "POWER_BI",
+      "kind": "adjacent",
+      "weight": 0.6
+    },
+    {
+      "pillar": "skill",
+      "src": "DATA_VISUALIZATION",
+      "dst": "TABLEAU",
+      "kind": "adjacent",
+      "weight": 0.6
+    },
+    {
+      "pillar": "skill",
+      "src": "AB_TESTING",
+      "dst": "STATISTICS",
+      "kind": "adjacent",
+      "weight": 0.6
+    },
+    {
+      "pillar": "skill",
+      "src": "EMPLOYEE_RELATIONS",
+      "dst": "UAE_LABOR_LAW",
+      "kind": "adjacent",
+      "weight": 0.6
+    },
+    {
+      "pillar": "skill",
+      "src": "UAE_COMMERCIAL_LAW",
+      "dst": "UAE_LABOR_LAW",
+      "kind": "adjacent",
+      "weight": 0.6
+    },
+    {
+      "pillar": "skill",
+      "src": "GO_TO_MARKET_STRATEGY",
+      "dst": "POSITIONING",
+      "kind": "adjacent",
+      "weight": 0.6
+    },
+    {
+      "pillar": "skill",
+      "src": "TICKETING_SYSTEMS",
+      "dst": "TROUBLESHOOTING",
+      "kind": "adjacent",
+      "weight": 0.6
+    },
+    {
+      "pillar": "skill",
+      "src": "FULL_CYCLE_RECRUITING",
+      "dst": "TECH_HIRING",
+      "kind": "adjacent",
+      "weight": 0.6
+    },
+    {
+      "pillar": "skill",
+      "src": "FULL_CYCLE_RECRUITING",
+      "dst": "SOURCING",
+      "kind": "adjacent",
+      "weight": 0.6
+    },
+    {
+      "pillar": "skill",
+      "src": "LINKEDIN_RECRUITER",
+      "dst": "SOURCING",
+      "kind": "adjacent",
+      "weight": 0.6
+    },
+    {
+      "pillar": "skill",
+      "src": "CONTRACT_DRAFTING",
+      "dst": "UAE_COMMERCIAL_LAW",
+      "kind": "adjacent",
+      "weight": 0.6
+    },
+    {
+      "pillar": "skill",
+      "src": "GCC_CROSS_BORDER",
+      "dst": "UAE_COMMERCIAL_LAW",
+      "kind": "adjacent",
+      "weight": 0.6
+    },
+    {
+      "pillar": "skill",
+      "src": "POSTGRESQL",
+      "dst": "SQL",
+      "kind": "narrower",
+      "weight": 1.0
+    },
+    {
+      "pillar": "occupation",
+      "src": "BACKEND_ENGINEER",
+      "dst": "DEVOPS_ENGINEER",
+      "kind": "adjacent",
+      "weight": 0.6
+    }
+  ]
+}

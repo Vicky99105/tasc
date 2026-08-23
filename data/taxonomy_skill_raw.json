@@ -1,0 +1,1151 @@
+{
+ "terms": [
+  {
+   "id": "PYTHON",
+   "canonical": "Python",
+   "aliases": [
+    "Python"
+   ],
+   "narrower": [
+    "Pandas",
+    "Django"
+   ],
+   "adjacent": [
+    {
+     "term": "R",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "Python",
+    "Python/R"
+   ]
+  },
+  {
+   "id": "R",
+   "canonical": "R",
+   "aliases": [
+    "R"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "PYTHON",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "Python/R"
+   ]
+  },
+  {
+   "id": "REST_APIS",
+   "canonical": "REST APIs",
+   "aliases": [
+    "REST APIs",
+    "REST API design"
+   ],
+   "narrower": [],
+   "adjacent": [],
+   "related": [
+    {
+     "phrase": "Microservices",
+     "weight": 0.6
+    }
+   ],
+   "from_requirements": [
+    "REST APIs"
+   ]
+  },
+  {
+   "id": "POSTGRESQL",
+   "canonical": "PostgreSQL",
+   "aliases": [
+    "PostgreSQL"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "SQL",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "PostgreSQL"
+   ]
+  },
+  {
+   "id": "SQL",
+   "canonical": "SQL",
+   "aliases": [
+    "SQL"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "POSTGRESQL",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "SQL"
+   ]
+  },
+  {
+   "id": "AWS",
+   "canonical": "AWS",
+   "aliases": [
+    "AWS"
+   ],
+   "narrower": [
+    "AWS Lambda"
+   ],
+   "adjacent": [
+    {
+     "term": "AZURE",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "AWS",
+    "AWS/Azure"
+   ]
+  },
+  {
+   "id": "AZURE",
+   "canonical": "Azure",
+   "aliases": [
+    "Azure"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "AWS",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "AWS/Azure"
+   ]
+  },
+  {
+   "id": "KUBERNETES",
+   "canonical": "Kubernetes",
+   "aliases": [
+    "Kubernetes"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "DOCKER",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "Kubernetes"
+   ]
+  },
+  {
+   "id": "DOCKER",
+   "canonical": "Docker",
+   "aliases": [
+    "Docker"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "KUBERNETES",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "Docker"
+   ]
+  },
+  {
+   "id": "KAFKA",
+   "canonical": "Kafka",
+   "aliases": [
+    "Kafka"
+   ],
+   "narrower": [],
+   "adjacent": [],
+   "related": [],
+   "from_requirements": [
+    "Kafka"
+   ]
+  },
+  {
+   "id": "CI_CD",
+   "canonical": "CI/CD pipelines",
+   "aliases": [
+    "CI/CD pipelines",
+    "CI/CD"
+   ],
+   "narrower": [
+    "Jenkins"
+   ],
+   "adjacent": [],
+   "related": [],
+   "from_requirements": [
+    "CI/CD pipelines"
+   ]
+  },
+  {
+   "id": "TERRAFORM",
+   "canonical": "Terraform",
+   "aliases": [
+    "Terraform"
+   ],
+   "narrower": [],
+   "adjacent": [],
+   "related": [],
+   "from_requirements": [
+    "Terraform"
+   ]
+  },
+  {
+   "id": "MONITORING_TOOLS",
+   "canonical": "Monitoring tools",
+   "aliases": [
+    "Monitoring (Datadog/Prometheus)"
+   ],
+   "narrower": [
+    "Datadog",
+    "Prometheus"
+   ],
+   "adjacent": [],
+   "related": [],
+   "from_requirements": [
+    "monitoring tools (Datadog/Prometheus)"
+   ]
+  },
+  {
+   "id": "CRM_TOOLS",
+   "canonical": "CRM tools",
+   "aliases": [
+    "CRM tools"
+   ],
+   "narrower": [
+    "Salesforce",
+    "HubSpot",
+    "CRM (Salesforce)"
+   ],
+   "adjacent": [],
+   "related": [],
+   "from_requirements": [
+    "CRM tools (Salesforce/HubSpot)"
+   ]
+  },
+  {
+   "id": "B2B_OUTREACH",
+   "canonical": "B2B outreach",
+   "aliases": [
+    "B2B outreach"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "COLD_CALLING",
+     "weight": 0.6
+    }
+   ],
+   "related": [
+    {
+     "phrase": "Outbound prospecting",
+     "weight": 0.7
+    },
+    {
+     "phrase": "Lead generation",
+     "weight": 0.7
+    }
+   ],
+   "from_requirements": [
+    "B2B outreach"
+   ]
+  },
+  {
+   "id": "COLD_CALLING",
+   "canonical": "Cold calling",
+   "aliases": [
+    "cold calling",
+    "Cold calling"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "B2B_OUTREACH",
+     "weight": 0.6
+    }
+   ],
+   "related": [
+    {
+     "phrase": "Objection handling",
+     "weight": 0.6
+    }
+   ],
+   "from_requirements": [
+    "cold calling"
+   ]
+  },
+  {
+   "id": "SAAS_SALES",
+   "canonical": "SaaS sales",
+   "aliases": [
+    "SaaS sales experience"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "B2B_SAAS_EXPERIENCE",
+     "weight": 0.6
+    }
+   ],
+   "related": [
+    {
+     "phrase": "B2B sales",
+     "weight": 0.7
+    },
+    {
+     "phrase": "Pipeline management",
+     "weight": 0.6
+    },
+    {
+     "phrase": "Territory management",
+     "weight": 0.6
+    }
+   ],
+   "from_requirements": [
+    "SaaS sales experience"
+   ]
+  },
+  {
+   "id": "B2B_SAAS_EXPERIENCE",
+   "canonical": "B2B SaaS experience",
+   "aliases": [
+    "B2B SaaS experience"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "SAAS_SALES",
+     "weight": 0.6
+    },
+    {
+     "term": "SAAS_PRODUCT_EXPERIENCE",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "B2B SaaS experience"
+   ]
+  },
+  {
+   "id": "SAAS_PRODUCT_EXPERIENCE",
+   "canonical": "SaaS product experience",
+   "aliases": [
+    "SaaS product experience"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "B2B_SAAS_EXPERIENCE",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "SaaS product experience"
+   ]
+  },
+  {
+   "id": "ARABIC_LANGUAGE",
+   "canonical": "Arabic fluency",
+   "aliases": [
+    "Arabic fluency"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "BILINGUAL_ARABIC_ENGLISH",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "Arabic fluency"
+   ]
+  },
+  {
+   "id": "BILINGUAL_ARABIC_ENGLISH",
+   "canonical": "Arabic and English bilingual",
+   "aliases": [
+    "Arabic + English bilingual",
+    "bilingual Arabic/English",
+    "Bilingual Arabic/English",
+    "Fluent Arabic & English"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "ARABIC_LANGUAGE",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "Arabic + English bilingual",
+    "bilingual Arabic/English"
+   ]
+  },
+  {
+   "id": "FINANCIAL_MODELING",
+   "canonical": "Financial modeling",
+   "aliases": [
+    "Financial modeling",
+    "Financial Modeling"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "BUDGETING",
+     "weight": 0.6
+    }
+   ],
+   "related": [
+    {
+     "phrase": "Financial analysis",
+     "weight": 0.6
+    },
+    {
+     "phrase": "Cash flow forecasting",
+     "weight": 0.7
+    }
+   ],
+   "from_requirements": [
+    "Financial modeling"
+   ]
+  },
+  {
+   "id": "IFRS",
+   "canonical": "IFRS",
+   "aliases": [
+    "IFRS"
+   ],
+   "narrower": [
+    "IFRS 9"
+   ],
+   "adjacent": [],
+   "related": [],
+   "from_requirements": [
+    "IFRS"
+   ]
+  },
+  {
+   "id": "BUDGETING",
+   "canonical": "Budgeting",
+   "aliases": [
+    "budgeting",
+    "Budgeting & Forecasting"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "FINANCIAL_MODELING",
+     "weight": 0.6
+    }
+   ],
+   "related": [
+    {
+     "phrase": "Variance analysis",
+     "weight": 0.7
+    }
+   ],
+   "from_requirements": [
+    "budgeting"
+   ]
+  },
+  {
+   "id": "EXCEL",
+   "canonical": "Excel (advanced)",
+   "aliases": [
+    "Excel/advanced"
+   ],
+   "narrower": [],
+   "adjacent": [],
+   "related": [],
+   "from_requirements": [
+    "Excel/advanced"
+   ]
+  },
+  {
+   "id": "POWER_BI",
+   "canonical": "Power BI",
+   "aliases": [
+    "Power BI"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "TABLEAU",
+     "weight": 0.6
+    },
+    {
+     "term": "DATA_VISUALIZATION",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "Power BI"
+   ]
+  },
+  {
+   "id": "TABLEAU",
+   "canonical": "Tableau",
+   "aliases": [
+    "Tableau"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "POWER_BI",
+     "weight": 0.6
+    },
+    {
+     "term": "DATA_VISUALIZATION",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "Tableau"
+   ]
+  },
+  {
+   "id": "DATA_VISUALIZATION",
+   "canonical": "Data visualization",
+   "aliases": [
+    "data visualization",
+    "Data visualization"
+   ],
+   "narrower": [
+    "Looker"
+   ],
+   "adjacent": [
+    {
+     "term": "POWER_BI",
+     "weight": 0.6
+    },
+    {
+     "term": "TABLEAU",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "data visualization"
+   ]
+  },
+  {
+   "id": "ERP_SYSTEMS",
+   "canonical": "ERP systems",
+   "aliases": [
+    "ERP systems (SAP/Oracle)"
+   ],
+   "narrower": [
+    "Oracle ERP",
+    "SAP FICO",
+    "SAP",
+    "Oracle"
+   ],
+   "adjacent": [],
+   "related": [],
+   "from_requirements": [
+    "ERP systems (SAP/Oracle)"
+   ]
+  },
+  {
+   "id": "STATISTICS",
+   "canonical": "Statistics",
+   "aliases": [
+    "statistics",
+    "Statistics"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "AB_TESTING",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "statistics"
+   ]
+  },
+  {
+   "id": "AB_TESTING",
+   "canonical": "A/B testing",
+   "aliases": [
+    "A/B testing experience",
+    "A/B testing"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "STATISTICS",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "A/B testing experience"
+   ]
+  },
+  {
+   "id": "EMPLOYEE_RELATIONS",
+   "canonical": "Employee relations",
+   "aliases": [
+    "Employee relations"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "UAE_LABOR_LAW",
+     "weight": 0.6
+    }
+   ],
+   "related": [
+    {
+     "phrase": "Employee engagement",
+     "weight": 0.7
+    },
+    {
+     "phrase": "Policy design",
+     "weight": 0.6
+    }
+   ],
+   "from_requirements": [
+    "Employee relations"
+   ]
+  },
+  {
+   "id": "UAE_LABOR_LAW",
+   "canonical": "UAE labor law",
+   "aliases": [
+    "UAE labor law"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "EMPLOYEE_RELATIONS",
+     "weight": 0.6
+    },
+    {
+     "term": "UAE_COMMERCIAL_LAW",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "UAE labor law"
+   ]
+  },
+  {
+   "id": "PERFORMANCE_MANAGEMENT",
+   "canonical": "Performance management",
+   "aliases": [
+    "performance management",
+    "Performance management"
+   ],
+   "narrower": [],
+   "adjacent": [],
+   "related": [],
+   "from_requirements": [
+    "performance management"
+   ]
+  },
+  {
+   "id": "HRIS",
+   "canonical": "HRIS systems",
+   "aliases": [
+    "HRIS systems (Workday/SAP SuccessFactors)",
+    "HRIS"
+   ],
+   "narrower": [
+    "Workday",
+    "SAP SuccessFactors"
+   ],
+   "adjacent": [],
+   "related": [],
+   "from_requirements": [
+    "HRIS systems (Workday/SAP SuccessFactors)"
+   ]
+  },
+  {
+   "id": "GO_TO_MARKET_STRATEGY",
+   "canonical": "Go-to-market strategy",
+   "aliases": [
+    "Go-to-market strategy"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "POSITIONING",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "Go-to-market strategy"
+   ]
+  },
+  {
+   "id": "POSITIONING",
+   "canonical": "Product positioning",
+   "aliases": [
+    "positioning",
+    "Positioning"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "GO_TO_MARKET_STRATEGY",
+     "weight": 0.6
+    }
+   ],
+   "related": [
+    {
+     "phrase": "Brand strategy",
+     "weight": 0.6
+    }
+   ],
+   "from_requirements": [
+    "positioning"
+   ]
+  },
+  {
+   "id": "CONTENT_CREATION",
+   "canonical": "Content creation",
+   "aliases": [
+    "content creation",
+    "Content creation"
+   ],
+   "narrower": [],
+   "adjacent": [],
+   "related": [],
+   "from_requirements": [
+    "content creation"
+   ]
+  },
+  {
+   "id": "FIGMA",
+   "canonical": "Figma",
+   "aliases": [
+    "Figma"
+   ],
+   "narrower": [],
+   "adjacent": [],
+   "related": [],
+   "from_requirements": [
+    "Figma"
+   ]
+  },
+  {
+   "id": "TICKETING_SYSTEMS",
+   "canonical": "Ticketing systems",
+   "aliases": [
+    "Ticketing systems (Zendesk)",
+    "Ticketing systems"
+   ],
+   "narrower": [
+    "Zendesk"
+   ],
+   "adjacent": [
+    {
+     "term": "TROUBLESHOOTING",
+     "weight": 0.6
+    }
+   ],
+   "related": [
+    {
+     "phrase": "Escalation handling",
+     "weight": 0.6
+    }
+   ],
+   "from_requirements": [
+    "Ticketing systems (Zendesk)"
+   ]
+  },
+  {
+   "id": "TROUBLESHOOTING",
+   "canonical": "Troubleshooting",
+   "aliases": [
+    "troubleshooting",
+    "Troubleshooting"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "TICKETING_SYSTEMS",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "troubleshooting"
+   ]
+  },
+  {
+   "id": "WRITTEN_COMMUNICATION",
+   "canonical": "Written communication",
+   "aliases": [
+    "written communication",
+    "Written communication"
+   ],
+   "narrower": [],
+   "adjacent": [],
+   "related": [],
+   "from_requirements": [
+    "written communication"
+   ]
+  },
+  {
+   "id": "FULL_CYCLE_RECRUITING",
+   "canonical": "Full-cycle recruiting",
+   "aliases": [
+    "Full-cycle recruiting"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "TECH_HIRING",
+     "weight": 0.6
+    },
+    {
+     "term": "SOURCING",
+     "weight": 0.6
+    }
+   ],
+   "related": [
+    {
+     "phrase": "Interview coordination",
+     "weight": 0.6
+    }
+   ],
+   "from_requirements": [
+    "Full-cycle recruiting"
+   ]
+  },
+  {
+   "id": "ATS_TOOLS",
+   "canonical": "ATS tools",
+   "aliases": [
+    "ATS tools"
+   ],
+   "narrower": [
+    "Greenhouse/Lever"
+   ],
+   "adjacent": [],
+   "related": [],
+   "from_requirements": [
+    "ATS tools"
+   ]
+  },
+  {
+   "id": "SOURCING",
+   "canonical": "Sourcing",
+   "aliases": [
+    "sourcing",
+    "Sourcing"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "LINKEDIN_RECRUITER",
+     "weight": 0.6
+    },
+    {
+     "term": "FULL_CYCLE_RECRUITING",
+     "weight": 0.6
+    }
+   ],
+   "related": [
+    {
+     "phrase": "Boolean search",
+     "weight": 0.7
+    }
+   ],
+   "from_requirements": [
+    "sourcing"
+   ]
+  },
+  {
+   "id": "TECH_HIRING",
+   "canonical": "Technical hiring",
+   "aliases": [
+    "Tech hiring experience",
+    "Technical hiring"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "FULL_CYCLE_RECRUITING",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "Tech hiring experience"
+   ]
+  },
+  {
+   "id": "LINKEDIN_RECRUITER",
+   "canonical": "LinkedIn Recruiter",
+   "aliases": [
+    "LinkedIn Recruiter"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "SOURCING",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "LinkedIn Recruiter"
+   ]
+  },
+  {
+   "id": "CONTRACT_DRAFTING",
+   "canonical": "Contract drafting",
+   "aliases": [
+    "Contract drafting"
+   ],
+   "narrower": [
+    "Commercial contracts"
+   ],
+   "adjacent": [
+    {
+     "term": "UAE_COMMERCIAL_LAW",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "Contract drafting"
+   ]
+  },
+  {
+   "id": "UAE_COMMERCIAL_LAW",
+   "canonical": "UAE commercial law",
+   "aliases": [
+    "UAE commercial law"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "UAE_LABOR_LAW",
+     "weight": 0.6
+    },
+    {
+     "term": "CONTRACT_DRAFTING",
+     "weight": 0.6
+    },
+    {
+     "term": "GCC_CROSS_BORDER",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "UAE commercial law"
+   ]
+  },
+  {
+   "id": "COMPLIANCE",
+   "canonical": "Compliance",
+   "aliases": [
+    "compliance",
+    "Compliance"
+   ],
+   "narrower": [
+    "Regulatory compliance"
+   ],
+   "adjacent": [],
+   "related": [
+    {
+     "phrase": "Corporate governance",
+     "weight": 0.6
+    }
+   ],
+   "from_requirements": [
+    "compliance"
+   ]
+  },
+  {
+   "id": "GCC_CROSS_BORDER",
+   "canonical": "GCC cross-border experience",
+   "aliases": [
+    "GCC cross-border experience"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "UAE_COMMERCIAL_LAW",
+     "weight": 0.6
+    }
+   ],
+   "related": [
+    {
+     "phrase": "GCC regulatory frameworks",
+     "weight": 0.7
+    }
+   ],
+   "from_requirements": [
+    "GCC cross-border experience"
+   ]
+  }
+ ],
+ "unmapped": [
+  {
+   "string": "Digital marketing",
+   "reason": "No matching requirement term for general digital marketing."
+  },
+  {
+   "string": "SEO/SEM",
+   "reason": "No matching requirement term for search engine optimization or marketing."
+  },
+  {
+   "string": "Campaign management",
+   "reason": "No matching requirement term for marketing campaign management."
+  },
+  {
+   "string": "Corporate finance",
+   "reason": "No matching requirement term for general corporate finance."
+  },
+  {
+   "string": "Treasury",
+   "reason": "No matching requirement term for treasury management."
+  },
+  {
+   "string": "Node.js",
+   "reason": "No matching requirement term for Node.js."
+  },
+  {
+   "string": "Express",
+   "reason": "No matching requirement term for Express framework."
+  },
+  {
+   "string": "MongoDB",
+   "reason": "No matching requirement term for MongoDB / NoSQL databases."
+  },
+  {
+   "string": "GraphQL",
+   "reason": "No matching requirement term for GraphQL."
+  },
+  {
+   "string": "Live chat support",
+   "reason": "No matching requirement term for live chat customer support channels."
+  },
+  {
+   "string": "Social media",
+   "reason": "No matching requirement term for social media management."
+  },
+  {
+   "string": "Analytics",
+   "reason": "No matching requirement term for generic analytics."
+  },
+  {
+   "string": "Adobe Creative Suite",
+   "reason": "No matching requirement term for Adobe Creative Suite."
+  },
+  {
+   "string": "Negotiation",
+   "reason": "No matching requirement term for general negotiation."
+  },
+  {
+   "string": "Account management",
+   "reason": "No matching requirement term for account management."
+  },
+  {
+   "string": "Recruitment",
+   "reason": "Generic recruitment; full-cycle recruiting and tech hiring are tracked specifically."
+  },
+  {
+   "string": "Onboarding",
+   "reason": "No matching requirement term for employee onboarding."
+  },
+  {
+   "string": "Customer support",
+   "reason": "No matching requirement term for general customer support."
+  },
+  {
+   "string": "Product knowledge",
+   "reason": "No matching requirement term for generic product knowledge."
+  },
+  {
+   "string": "Empathy",
+   "reason": "Soft skill / personality trait, outside skill taxonomy scope."
+  },
+  {
+   "string": "Employer branding",
+   "reason": "No matching requirement term for employer branding."
+  },
+  {
+   "string": "M&A support",
+   "reason": "No matching requirement term for mergers and acquisitions support."
+  },
+  {
+   "string": "Ansible",
+   "reason": "No matching requirement term for Ansible / configuration management."
+  },
+  {
+   "string": "Java",
+   "reason": "No matching requirement term for Java."
+  },
+  {
+   "string": "Spring Boot",
+   "reason": "No matching requirement term for Spring Boot."
+  },
+  {
+   "string": "MySQL",
+   "reason": "No matching requirement term for MySQL."
+  },
+  {
+   "string": "Team Leadership",
+   "reason": "No matching requirement term for leadership / team management."
+  },
+  {
+   "string": "Google Analytics",
+   "reason": "No matching requirement term for Google Analytics."
+  },
+  {
+   "string": "Dispute resolution",
+   "reason": "No matching requirement term for dispute resolution / litigation."
+  },
+  {
+   "string": "Git",
+   "reason": "No matching requirement term for version control / Git."
+  },
+  {
+   "string": "Client relationship building",
+   "reason": "No matching requirement term for client relationship building."
+  },
+  {
+   "string": "Compensation & benefits",
+   "reason": "No matching requirement term for compensation and benefits."
+  }
+ ]
+}

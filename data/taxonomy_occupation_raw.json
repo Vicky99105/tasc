@@ -1,0 +1,200 @@
+{
+ "terms": [
+  {
+   "id": "BACKEND_ENGINEER",
+   "canonical": "Backend Engineer",
+   "aliases": [
+    "Backend Engineer"
+   ],
+   "narrower": [],
+   "adjacent": [
+    {
+     "term": "DEVOPS_ENGINEER",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "Backend Engineer"
+   ]
+  },
+  {
+   "id": "SALES_DEVELOPMENT_REPRESENTATIVE",
+   "canonical": "Sales Development Representative",
+   "aliases": [
+    "Sales Development Representative",
+    "Business Development Rep"
+   ],
+   "narrower": [],
+   "adjacent": [],
+   "related": [],
+   "from_requirements": [
+    "Sales Development Representative"
+   ]
+  },
+  {
+   "id": "FINANCE_MANAGER",
+   "canonical": "Finance Manager",
+   "aliases": [
+    "Finance Manager"
+   ],
+   "narrower": [
+    "Financial Controller",
+    "Senior Financial Analyst"
+   ],
+   "adjacent": [],
+   "related": [],
+   "from_requirements": [
+    "Finance Manager"
+   ]
+  },
+  {
+   "id": "DATA_ANALYST",
+   "canonical": "Data Analyst",
+   "aliases": [
+    "Data Analyst"
+   ],
+   "narrower": [
+    "Business Intelligence Analyst",
+    "Reporting Analyst"
+   ],
+   "adjacent": [],
+   "related": [],
+   "from_requirements": [
+    "Data Analyst"
+   ]
+  },
+  {
+   "id": "HR_BUSINESS_PARTNER",
+   "canonical": "HR Business Partner",
+   "aliases": [
+    "HR Business Partner"
+   ],
+   "narrower": [],
+   "adjacent": [],
+   "related": [],
+   "from_requirements": [
+    "HR Business Partner"
+   ]
+  },
+  {
+   "id": "PRODUCT_MARKETING_MANAGER",
+   "canonical": "Product Marketing Manager",
+   "aliases": [
+    "Product Marketing Manager"
+   ],
+   "narrower": [],
+   "adjacent": [],
+   "related": [],
+   "from_requirements": [
+    "Product Marketing Manager"
+   ]
+  },
+  {
+   "id": "CUSTOMER_SUPPORT_SPECIALIST",
+   "canonical": "Customer Support Specialist",
+   "aliases": [
+    "Customer Support Specialist",
+    "Support Agent"
+   ],
+   "narrower": [],
+   "adjacent": [],
+   "related": [],
+   "from_requirements": [
+    "Customer Support Specialist"
+   ]
+  },
+  {
+   "id": "DEVOPS_ENGINEER",
+   "canonical": "DevOps Engineer",
+   "aliases": [
+    "DevOps Engineer"
+   ],
+   "narrower": [
+    "Cloud Infrastructure Engineer",
+    "Platform Engineer",
+    "Site Reliability Engineer"
+   ],
+   "adjacent": [
+    {
+     "term": "BACKEND_ENGINEER",
+     "weight": 0.6
+    }
+   ],
+   "related": [],
+   "from_requirements": [
+    "DevOps Engineer"
+   ]
+  },
+  {
+   "id": "TECHNICAL_RECRUITER",
+   "canonical": "Technical Recruiter",
+   "aliases": [
+    "Technical Recruiter"
+   ],
+   "narrower": [],
+   "adjacent": [],
+   "related": [],
+   "from_requirements": [
+    "Technical Recruiter"
+   ]
+  },
+  {
+   "id": "LEGAL_COUNSEL",
+   "canonical": "Legal Counsel",
+   "aliases": [
+    "Corporate Lawyer",
+    "Legal Advisor",
+    "Legal Counsel"
+   ],
+   "narrower": [],
+   "adjacent": [],
+   "related": [],
+   "from_requirements": [
+    "Legal Counsel"
+   ]
+  }
+ ],
+ "unmapped": [
+  {
+   "string": "Account Executive",
+   "reason": "Distinct sales role focused on closing deals rather than outbound qualification/SDR prospecting."
+  },
+  {
+   "string": "Customer Success Associate",
+   "reason": "Customer success focuses on relationship management and retention rather than reactive customer support."
+  },
+  {
+   "string": "Growth Marketing Specialist",
+   "reason": "Distinct marketing role focused on acquisition funnels and experimentation, outside the scope of product marketing management."
+  },
+  {
+   "string": "HR Generalist",
+   "reason": "Operational HR generalist role distinct from strategic HR business partnering."
+  },
+  {
+   "string": "Marketing Manager",
+   "reason": "Broader marketing title that encompasses disciplines beyond product marketing."
+  },
+  {
+   "string": "Recruiter",
+   "reason": "General recruiting occupation broader than technical recruiting."
+  },
+  {
+   "string": "Sales Executive",
+   "reason": "Quota-carrying closing sales role distinct from sales development representation."
+  },
+  {
+   "string": "Software Engineer",
+   "reason": "General engineering occupation broader than backend engineering."
+  },
+  {
+   "string": "Talent Acquisition Specialist",
+   "reason": "General talent acquisition role broader than technical recruiting."
+  },
+  {
+   "string": "Telesales Agent",
+   "reason": "Direct telemarketing sales role distinct from B2B sales development representation."
+  }
+ ]
+}
