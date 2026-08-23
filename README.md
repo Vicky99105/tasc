@@ -208,15 +208,65 @@ Full detail, including what verification caught and what it changed, is in `docs
 
 ---
 
+## Evaluating match quality at scale
+
+Matching is subjective, so "is this a good match" splits into two different questions that need
+different tools: **is the pipeline itself working correctly** (a QA problem, answerable before launch),
+and **are the matches actually good** (a product problem, answerable only in production, continuously).
+
+### Before launch: three harnesses, because the failures are at three different layers
+
+A single end-to-end accuracy number hides where a bug actually lives. `eval/` has three separate
+checks, one per layer, and **the grading rubric for each is written before any output is read** — grading
+after seeing the ranking is how a golden set quietly becomes a description of what the system already
+does, not an independent check on it.
+
+| harness | what it checks | real result on this build |
+|---|---|---|
+| `eval/linking.py` | Does a candidate string resolve to the right taxonomy term, and — just as important — do the strings the taxonomy says *shouldn't* resolve stay unresolved? The golden set (494 cases) is built from `taxonomy.json` and the real corpus, without ever running extraction, so it can't drift toward describing the linker's own behaviour. | precision 1.0, recall 1.0, 0/22 duplicate-content groups link inconsistently |
+| `eval/steering.py` | Does a natural-language rubric instruction change the *right* knob? 8 fixed utterances against the real model. This harness exists directly because a live browser test in P8 found the model narrating a change ("moved Docker and Kubernetes to preferred") that didn't match what it actually did (only moved Docker, and moved AWS/Azure unprompted) — no scripted unit test could have caught that, because scripted tests script the model's answer. | 8/8 passed, including the exact scenario that surfaced the bug |
+| `eval/matching.py` | precision@5 / nDCG@10 against a hand-graded sample taken across the **whole** ranking, not just the top — a top-only sample can't see a wrongly-excluded candidate, only a wrong shortlist. 22 candidates read blind to the system's own score breakdown, graded 0–3 against the role's raw requirements. | nDCG@10 of 0.86 (R001) and 0.79 (R008); grades tracked score order almost perfectly (3→87–90, 2→69, 1→42, 0→≤10) |
+
+Two things worth being honest about, not glossing over: the `eval/linking.py` golden set is
+self-graded (built from the same taxonomy the linker uses, not an independent labeller — see
+"No human has labelled anything" above), and `eval/matching.py`'s sample is scaled down from
+what a production version would run (22 candidates across 2 roles here; production would want
+30 per role across all 10). Both are stated limits, not hidden ones.
+
+**Regression gate**: `eval/linking.py` also exposes `check_regression()` — a prompt or model change
+must not drop precision, recall, or consistency below the checked-in baseline
+(`data/eval_linking_baseline.json`). That is what turns "is the cheaper model good enough?" from an
+opinion into a number that either moves or doesn't.
+
+### At real scale, none of the above is the primary signal
+
+Once the system is actually being used, the harnesses above only re-run as a pre-deploy gate. The
+signal that actually matters in production:
+
+- **Override rate** — how often a recruiter rejects someone the system shortlisted, or manually adds
+  someone it didn't surface. It needs no labelling, arrives continuously from real usage, and measures
+  the only thing that matters: does the shortlist match what a recruiter would have picked. This is the
+  metric to actually optimise once the system is live.
+- **Measure inter-rater agreement between recruiters first.** If two human recruiters disagree with each
+  other more than the system disagrees with either of them, the ceiling on "match quality" is the task's
+  inherent subjectivity, not the model — and no amount of prompt tuning fixes that. This number should be
+  gathered *before* concluding the system needs to improve.
+- Every accuracy number this repo reports is self-consistency between independent readings of the same
+  records, stated plainly above — not ground truth. At scale, override rate against real hiring outcomes
+  is the closest thing to ground truth this problem has.
+
+---
+
 ## Repo
 
 ```
 data/           the two CSVs
                 taxonomy.json — the artifact worth reading first, reviewed in PRs
                 taxonomy.db   — built from it, queried by the engine, never hand-edited
-engine/         ingest, taxonomy, extract, rubric, match, brief, render
-agent/          the LangGraph graph, its state, the five tools, Slack delivery
-prompts/        the four prompts, as Markdown, versioned
+engine/         ingest, taxonomy, extract, rubric, steering, match, brief, render
+agent/          the LangGraph graph, its state, the six tools, intent classification,
+                Slack delivery, the FastAPI + SSE chat server, a minimal CLI
+prompts/        the four named prompts plus intent classification, as Markdown/inline
 observability/  docker-compose.yml for Langfuse
 eval/           linking, matching and steering harnesses
 docs/           the build plan and the verification write-ups

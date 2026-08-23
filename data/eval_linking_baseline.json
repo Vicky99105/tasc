@@ -1,0 +1,11 @@
+{
+ "true_positive": 389,
+ "false_positive": 0,
+ "false_negative": 0,
+ "true_negative": 105,
+ "precision": 1.0,
+ "recall": 1.0,
+ "n": 494,
+ "consistency_inconsistent": 0,
+ "consistency_checked": 22
+}

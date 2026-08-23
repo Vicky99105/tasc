@@ -1,0 +1,312 @@
+[
+ {
+  "utterance": "containers aren't a big deal for us, make those less important",
+  "passed": true,
+  "reason": "ok",
+  "retier": [
+   [
+    "CI/CD pipelines",
+    "required"
+   ],
+   [
+    "Docker",
+    "preferred"
+   ],
+   [
+    "Kubernetes",
+    "preferred"
+   ],
+   [
+    "AWS/Azure",
+    "required"
+   ],
+   [
+    "Terraform",
+    "preferred"
+   ],
+   [
+    "monitoring tools (Datadog/Prometheus)",
+    "preferred"
+   ]
+  ],
+  "weights": {
+   "required": 80.0,
+   "preferred": 10.0,
+   "availability": 5.0,
+   "location": 5.0
+  },
+  "unsupported": []
+ },
+ {
+  "utterance": "Docker and Kubernetes experience is not essential, drop them entirely",
+  "passed": true,
+  "reason": "ok",
+  "retier": [
+   [
+    "CI/CD pipelines",
+    "required"
+   ],
+   [
+    "Docker",
+    "dropped"
+   ],
+   [
+    "Kubernetes",
+    "dropped"
+   ],
+   [
+    "AWS/Azure",
+    "required"
+   ],
+   [
+    "Terraform",
+    "preferred"
+   ],
+   [
+    "monitoring tools (Datadog/Prometheus)",
+    "preferred"
+   ]
+  ],
+  "weights": {
+   "required": 80.0,
+   "preferred": 10.0,
+   "availability": 5.0,
+   "location": 5.0
+  },
+  "unsupported": []
+ },
+ {
+  "utterance": "weight availability much higher, it matters most for this hire",
+  "passed": true,
+  "reason": "ok",
+  "retier": [
+   [
+    "CI/CD pipelines",
+    "required"
+   ],
+   [
+    "Docker",
+    "required"
+   ],
+   [
+    "Kubernetes",
+    "required"
+   ],
+   [
+    "AWS/Azure",
+    "required"
+   ],
+   [
+    "Terraform",
+    "preferred"
+   ],
+   [
+    "monitoring tools (Datadog/Prometheus)",
+    "preferred"
+   ]
+  ],
+  "weights": {
+   "required": 45.0,
+   "preferred": 10.0,
+   "availability": 40.0,
+   "location": 5.0
+  },
+  "unsupported": []
+ },
+ {
+  "utterance": "we care more about location than availability",
+  "passed": true,
+  "reason": "ok",
+  "retier": [
+   [
+    "CI/CD pipelines",
+    "required"
+   ],
+   [
+    "Docker",
+    "required"
+   ],
+   [
+    "Kubernetes",
+    "required"
+   ],
+   [
+    "AWS/Azure",
+    "required"
+   ],
+   [
+    "Terraform",
+    "preferred"
+   ],
+   [
+    "monitoring tools (Datadog/Prometheus)",
+    "preferred"
+   ]
+  ],
+  "weights": {
+   "required": 80.0,
+   "preferred": 10.0,
+   "availability": 2.0,
+   "location": 8.0
+  },
+  "unsupported": []
+ },
+ {
+  "utterance": "lower the bar a bit, we're struggling to fill this role",
+  "passed": true,
+  "reason": "ok",
+  "retier": [
+   [
+    "CI/CD pipelines",
+    "required"
+   ],
+   [
+    "Docker",
+    "required"
+   ],
+   [
+    "Kubernetes",
+    "required"
+   ],
+   [
+    "AWS/Azure",
+    "required"
+   ],
+   [
+    "Terraform",
+    "preferred"
+   ],
+   [
+    "monitoring tools (Datadog/Prometheus)",
+    "preferred"
+   ]
+  ],
+  "weights": {
+   "required": 80.0,
+   "preferred": 10.0,
+   "availability": 5.0,
+   "location": 5.0
+  },
+  "unsupported": []
+ },
+ {
+  "utterance": "prioritise candidates who interview well",
+  "passed": true,
+  "reason": "ok",
+  "retier": [
+   [
+    "CI/CD pipelines",
+    "required"
+   ],
+   [
+    "Docker",
+    "required"
+   ],
+   [
+    "Kubernetes",
+    "required"
+   ],
+   [
+    "AWS/Azure",
+    "required"
+   ],
+   [
+    "Terraform",
+    "preferred"
+   ],
+   [
+    "monitoring tools (Datadog/Prometheus)",
+    "preferred"
+   ]
+  ],
+  "weights": {
+   "required": 80.0,
+   "preferred": 10.0,
+   "availability": 5.0,
+   "location": 5.0
+  },
+  "unsupported": [
+   "prioritise candidates who interview well"
+  ]
+ },
+ {
+  "utterance": "weight CI/CD twice as much as the other required skills",
+  "passed": true,
+  "reason": "ok",
+  "retier": [
+   [
+    "CI/CD pipelines",
+    "required"
+   ],
+   [
+    "Docker",
+    "required"
+   ],
+   [
+    "Kubernetes",
+    "required"
+   ],
+   [
+    "AWS/Azure",
+    "required"
+   ],
+   [
+    "Terraform",
+    "preferred"
+   ],
+   [
+    "monitoring tools (Datadog/Prometheus)",
+    "preferred"
+   ]
+  ],
+  "weights": {
+   "required": 80.0,
+   "preferred": 10.0,
+   "availability": 5.0,
+   "location": 5.0
+  },
+  "unsupported": [
+   "weight CI/CD twice as much as the other required skills"
+  ]
+ },
+ {
+  "utterance": "only consider candidates who went to a top-tier university",
+  "passed": true,
+  "reason": "ok",
+  "retier": [
+   [
+    "CI/CD pipelines",
+    "required"
+   ],
+   [
+    "Docker",
+    "required"
+   ],
+   [
+    "Kubernetes",
+    "required"
+   ],
+   [
+    "AWS/Azure",
+    "required"
+   ],
+   [
+    "Terraform",
+    "preferred"
+   ],
+   [
+    "monitoring tools (Datadog/Prometheus)",
+    "preferred"
+   ]
+  ],
+  "weights": {
+   "required": 80.0,
+   "preferred": 10.0,
+   "availability": 5.0,
+   "location": 5.0
+  },
+  "unsupported": [
+   "only consider candidates who went to a top-tier university"
+  ]
+ }
+]

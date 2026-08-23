@@ -1,0 +1,134 @@
+[
+ {
+  "role_id": "R001",
+  "candidate_id": "C009",
+  "grade": 3,
+  "notes": "all 4 required met directly (Python, REST API design, PostgreSQL, AWS)"
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C080",
+  "grade": 1,
+  "notes": "only AWS of 4 required; DevOps/cloud-infra profile, not backend"
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C036",
+  "grade": 1,
+  "notes": "only Python of 4 required; data analyst profile, not backend"
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C052",
+  "grade": 0,
+  "notes": "marketing profile, 0 of 4 required"
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C025",
+  "grade": 0,
+  "notes": "finance profile, unrelated"
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C042",
+  "grade": 0,
+  "notes": "HR profile, unrelated"
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C105",
+  "grade": 0,
+  "notes": "legal profile, unrelated"
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C062",
+  "grade": 0,
+  "notes": "customer support profile, unrelated"
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C122",
+  "grade": 0,
+  "notes": "marketing profile, unrelated"
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C028",
+  "grade": 0,
+  "notes": "finance profile, unrelated"
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C118",
+  "grade": 0,
+  "notes": "blank profile, no evidence"
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C077",
+  "grade": 3,
+  "notes": "all 4 required + Terraform preferred met directly, cloud infra engineer occupation"
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C002",
+  "grade": 2,
+  "notes": "3 of 4 required met (CI/CD, Docker, AWS), missing Kubernetes; backend/platform occupation adjacent to DevOps"
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C086",
+  "grade": 0,
+  "notes": "technical recruiter, unrelated"
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C070",
+  "grade": 0,
+  "notes": "customer support, unrelated"
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C044",
+  "grade": 0,
+  "notes": "HR generalist, unrelated"
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C090",
+  "grade": 0,
+  "notes": "talent acquisition, unrelated"
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C061",
+  "grade": 0,
+  "notes": "customer support, unrelated"
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C104",
+  "grade": 0,
+  "notes": "data analyst, unrelated to infra"
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C102",
+  "grade": 0,
+  "notes": "HR business partner, unrelated"
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C063",
+  "grade": 0,
+  "notes": "customer support, unrelated"
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C118",
+  "grade": 0,
+  "notes": "blank profile, no evidence"
+ }
+]
