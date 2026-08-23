@@ -1,0 +1,10262 @@
+[
+ {
+  "role_id": "R001",
+  "candidate_id": "C083",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C056",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C107",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C088",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C040",
+  "total": 12.1,
+  "required": 9.6,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C072",
+  "total": 38.2,
+  "required": 32.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C003",
+  "total": 55.5,
+  "required": 48.0,
+  "preferred": 3.75,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C025",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C061",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C122",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C065",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C006",
+  "total": 33.9,
+  "required": 29.6,
+  "preferred": 3.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C117",
+  "total": 21.0,
+  "required": 16.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C114",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C101",
+  "total": 19.8,
+  "required": 16.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C118",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C044",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C014",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C007",
+  "total": 35.0,
+  "required": 32.0,
+  "preferred": 3.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C029",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C048",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C023",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C051",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C017",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C070",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C108",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C090",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C077",
+  "total": 44.5,
+  "required": 32.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C041",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C081",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C046",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C095",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C091",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C076",
+  "total": 31.9,
+  "required": 25.6,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C005",
+  "total": 31.9,
+  "required": 23.2,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C105",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C087",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C092",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C043",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C086",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C124",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C037",
+  "total": 17.2,
+  "required": 16.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C106",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C021",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C049",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C001",
+  "total": 61.1,
+  "required": 53.6,
+  "preferred": 5.0,
+  "availability": 0.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C074",
+  "total": 44.5,
+  "required": 32.0,
+  "preferred": 5.0,
+  "availability": 2.5,
+  "location": 5.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C035",
+  "total": 24.8,
+  "required": 16.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C089",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C079",
+  "total": 36.8,
+  "required": 28.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C066",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C059",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C099",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C093",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C096",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C060",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C004",
+  "total": 48.9,
+  "required": 37.6,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C036",
+  "total": 21.0,
+  "required": 16.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C032",
+  "total": 13.3,
+  "required": 9.6,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C009",
+  "total": 87.5,
+  "required": 80.0,
+  "preferred": 3.75,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C053",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C067",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C054",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C034",
+  "total": 19.8,
+  "required": 16.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C016",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C015",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C057",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C120",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C028",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C064",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C026",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C126",
+  "total": 34.9,
+  "required": 30.4,
+  "preferred": 4.5,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C071",
+  "total": 43.0,
+  "required": 28.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C012",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C069",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C052",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C128",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C100",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C058",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C024",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C030",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C019",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C098",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C013",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C078",
+  "total": 40.8,
+  "required": 32.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C033",
+  "total": 19.8,
+  "required": 16.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C038",
+  "total": 16.0,
+  "required": 16.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C084",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C010",
+  "total": 45.9,
+  "required": 41.6,
+  "preferred": 3.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C027",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 5.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C097",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C102",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C002",
+  "total": 85.6,
+  "required": 77.6,
+  "preferred": 3.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C075",
+  "total": 42.0,
+  "required": 32.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C104",
+  "total": 19.8,
+  "required": 16.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C045",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C068",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C018",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C112",
+  "total": 34.5,
+  "required": 23.2,
+  "preferred": 3.75,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C073",
+  "total": 38.2,
+  "required": 32.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C008",
+  "total": 85.0,
+  "required": 80.0,
+  "preferred": 3.75,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C050",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C110",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C020",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C047",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C085",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C011",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C082",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C080",
+  "total": 42.0,
+  "required": 32.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C055",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C063",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C062",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C042",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C039",
+  "total": 14.6,
+  "required": 9.6,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C083",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C056",
+  "total": 21.2,
+  "required": 20.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C107",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C088",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C040",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C072",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C003",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C025",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C061",
+  "total": 28.2,
+  "required": 20.0,
+  "preferred": 4.5,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C122",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C065",
+  "total": 28.2,
+  "required": 20.0,
+  "preferred": 4.5,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C006",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C117",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C114",
+  "total": 50.2,
+  "required": 49.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C101",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C118",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C044",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C014",
+  "total": 83.0,
+  "required": 69.0,
+  "preferred": 7.7,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C007",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C029",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C048",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C023",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C051",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C017",
+  "total": 75.2,
+  "required": 69.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C070",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C108",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C090",
+  "total": 8.0,
+  "required": 0.0,
+  "preferred": 3.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C077",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C041",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C081",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C046",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C095",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C091",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C076",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C005",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C105",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C087",
+  "total": 4.2,
+  "required": 0.0,
+  "preferred": 3.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C092",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C043",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C086",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C124",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C037",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C106",
+  "total": 83.0,
+  "required": 69.0,
+  "preferred": 7.7,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C021",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C049",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C001",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C074",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C035",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C089",
+  "total": 11.8,
+  "required": 0.0,
+  "preferred": 3.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C079",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C066",
+  "total": 15.0,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C059",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C099",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C093",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C096",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C060",
+  "total": 22.5,
+  "required": 20.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C004",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C036",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C032",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C009",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C053",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C067",
+  "total": 24.5,
+  "required": 20.0,
+  "preferred": 4.5,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C054",
+  "total": 21.2,
+  "required": 20.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C034",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C016",
+  "total": 46.2,
+  "required": 37.0,
+  "preferred": 3.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C015",
+  "total": 45.0,
+  "required": 37.0,
+  "preferred": 3.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C057",
+  "total": 17.5,
+  "required": 15.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C120",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C028",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C064",
+  "total": 23.8,
+  "required": 20.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C026",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C126",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C071",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C012",
+  "total": 50.2,
+  "required": 49.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C069",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C052",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C128",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C100",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C058",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C024",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 5.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C030",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C019",
+  "total": 83.0,
+  "required": 69.0,
+  "preferred": 7.7,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C098",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C013",
+  "total": 79.0,
+  "required": 69.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C078",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C033",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C038",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C084",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C010",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C027",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C097",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C102",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C002",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C075",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C104",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C045",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C068",
+  "total": 23.8,
+  "required": 20.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C018",
+  "total": 77.8,
+  "required": 69.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C112",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C073",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C008",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C050",
+  "total": 13.8,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C110",
+  "total": 13.8,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C020",
+  "total": 79.0,
+  "required": 69.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C047",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C085",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C011",
+  "total": 77.8,
+  "required": 69.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C082",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C080",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C055",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C063",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C062",
+  "total": 8.2,
+  "required": 0.0,
+  "preferred": 4.5,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C042",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C039",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C083",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C056",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C107",
+  "total": 45.4,
+  "required": 41.6,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C088",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C040",
+  "total": 23.5,
+  "required": 16.0,
+  "preferred": 5.0,
+  "availability": 0.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C072",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C003",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C025",
+  "total": 62.5,
+  "required": 51.2,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C061",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C122",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C065",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C006",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C117",
+  "total": 8.0,
+  "required": 0.0,
+  "preferred": 3.0,
+  "availability": 0.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C114",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C101",
+  "total": 6.8,
+  "required": 0.0,
+  "preferred": 3.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C118",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C044",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C014",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C007",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C029",
+  "total": 66.3,
+  "required": 57.6,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C048",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C023",
+  "total": 81.7,
+  "required": 70.4,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C051",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C017",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C070",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C108",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C090",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C077",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C041",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C081",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C046",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C095",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C091",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C076",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C005",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C105",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C087",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C092",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C043",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C086",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C124",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C037",
+  "total": 4.2,
+  "required": 0.0,
+  "preferred": 3.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C106",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C021",
+  "total": 72.8,
+  "required": 64.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C049",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C001",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C074",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 5.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C035",
+  "total": 11.8,
+  "required": 0.0,
+  "preferred": 3.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C089",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C079",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C066",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C059",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C099",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C093",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C096",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C060",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C004",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C036",
+  "total": 8.0,
+  "required": 0.0,
+  "preferred": 3.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C032",
+  "total": 24.8,
+  "required": 16.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C009",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C053",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C067",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C054",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C034",
+  "total": 6.8,
+  "required": 0.0,
+  "preferred": 3.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C016",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C015",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C057",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C120",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C028",
+  "total": 69.3,
+  "required": 63.008,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C064",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C026",
+  "total": 62.5,
+  "required": 51.2,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C126",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C071",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C012",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C069",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C052",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C128",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C100",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C058",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C024",
+  "total": 70.5,
+  "required": 63.008,
+  "preferred": 5.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C030",
+  "total": 79.0,
+  "required": 64.0,
+  "preferred": 10.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C019",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C098",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C013",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C078",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C033",
+  "total": 6.8,
+  "required": 0.0,
+  "preferred": 3.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C038",
+  "total": 2.2,
+  "required": 0.0,
+  "preferred": 2.25,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C084",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C010",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C027",
+  "total": 76.5,
+  "required": 64.0,
+  "preferred": 5.0,
+  "availability": 2.5,
+  "location": 5.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C097",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C102",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C002",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C075",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C104",
+  "total": 6.8,
+  "required": 0.0,
+  "preferred": 3.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C045",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C068",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C018",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C112",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C073",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C008",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C050",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C110",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C020",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C047",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C085",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C011",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C082",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C080",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C055",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C063",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C062",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C042",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C039",
+  "total": 26.0,
+  "required": 16.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C083",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C056",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C107",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C088",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C040",
+  "total": 78.3,
+  "required": 72.8,
+  "preferred": 3.0,
+  "availability": 0.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C072",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C003",
+  "total": 19.8,
+  "required": 16.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C025",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C061",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C122",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C065",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C006",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C117",
+  "total": 76.6,
+  "required": 61.6,
+  "preferred": 10.0,
+  "availability": 0.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C114",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C101",
+  "total": 85.0,
+  "required": 71.2,
+  "preferred": 10.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C118",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C044",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C014",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C007",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C029",
+  "total": 16.4,
+  "required": 9.6,
+  "preferred": 3.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C048",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C023",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C051",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C017",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C070",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C108",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C090",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C077",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C041",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C081",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C046",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C095",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C091",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C076",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C005",
+  "total": 19.8,
+  "required": 16.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C105",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C087",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C092",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C043",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C086",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C124",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C037",
+  "total": 72.8,
+  "required": 61.6,
+  "preferred": 10.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C106",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C021",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C049",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C001",
+  "total": 34.5,
+  "required": 32.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C074",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 5.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C035",
+  "total": 81.5,
+  "required": 72.8,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C089",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C079",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C066",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C059",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C099",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C093",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C096",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C060",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C004",
+  "total": 22.2,
+  "required": 16.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C036",
+  "total": 77.8,
+  "required": 72.8,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C032",
+  "total": 79.5,
+  "required": 72.8,
+  "preferred": 3.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C009",
+  "total": 35.8,
+  "required": 32.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C053",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C067",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C054",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C034",
+  "total": 76.5,
+  "required": 72.8,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C016",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C015",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C057",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C120",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C028",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C064",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C026",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C126",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C071",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C012",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C069",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C052",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C128",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C100",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C058",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C024",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C030",
+  "total": 17.6,
+  "required": 9.6,
+  "preferred": 3.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C019",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C098",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C013",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C078",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C033",
+  "total": 76.5,
+  "required": 72.8,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C038",
+  "total": 81.2,
+  "required": 71.2,
+  "preferred": 10.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C084",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C010",
+  "total": 10.8,
+  "required": 9.6,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C027",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 5.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C097",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C102",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C002",
+  "total": 37.0,
+  "required": 32.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C075",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C104",
+  "total": 76.5,
+  "required": 72.8,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C045",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C068",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C018",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C112",
+  "total": 17.1,
+  "required": 9.6,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C073",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C008",
+  "total": 33.2,
+  "required": 32.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C050",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C110",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C020",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C047",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C085",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C011",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C082",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C080",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C055",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C063",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C062",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C042",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C039",
+  "total": 80.8,
+  "required": 72.8,
+  "preferred": 3.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C083",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C056",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C107",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C088",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C040",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C072",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C003",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C025",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C061",
+  "total": 8.2,
+  "required": 0.0,
+  "preferred": 4.5,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C122",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C065",
+  "total": 8.2,
+  "required": 0.0,
+  "preferred": 4.5,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C006",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C117",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C114",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C101",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C118",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C044",
+  "total": 60.0,
+  "required": 50.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C014",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C007",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C029",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C048",
+  "total": 44.5,
+  "required": 32.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C023",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C051",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C017",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C070",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C108",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C090",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C077",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C041",
+  "total": 87.0,
+  "required": 77.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C081",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C046",
+  "total": 42.0,
+  "required": 32.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C095",
+  "total": 15.8,
+  "required": 10.8,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C091",
+  "total": 22.0,
+  "required": 12.0,
+  "preferred": 5.0,
+  "availability": 0.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C076",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C005",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C105",
+  "total": 22.0,
+  "required": 12.0,
+  "preferred": 5.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C087",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C092",
+  "total": 23.2,
+  "required": 12.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C043",
+  "total": 42.0,
+  "required": 32.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C086",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C124",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C037",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C106",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C021",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C049",
+  "total": 83.2,
+  "required": 77.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C001",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C074",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C035",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C089",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C079",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C066",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C059",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C099",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C093",
+  "total": 18.2,
+  "required": 12.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C096",
+  "total": 24.5,
+  "required": 12.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C060",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C004",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C036",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C032",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C009",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C053",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C067",
+  "total": 4.5,
+  "required": 0.0,
+  "preferred": 4.5,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C054",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C034",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C016",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C015",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C057",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C120",
+  "total": 88.8,
+  "required": 80.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C028",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C064",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C026",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C126",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C071",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C012",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C069",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C052",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C128",
+  "total": 14.6,
+  "required": 10.8,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C100",
+  "total": 20.8,
+  "required": 12.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C058",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C024",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C030",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C019",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C098",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C013",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C078",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C033",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C038",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C084",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C010",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C027",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C097",
+  "total": 24.5,
+  "required": 12.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C102",
+  "total": 42.0,
+  "required": 32.0,
+  "preferred": 5.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C002",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C075",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C104",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C045",
+  "total": 36.5,
+  "required": 29.0,
+  "preferred": 5.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C068",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C018",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C112",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C073",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C008",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C050",
+  "total": 40.8,
+  "required": 32.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C110",
+  "total": 40.8,
+  "required": 32.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C020",
+  "total": 12.5,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C047",
+  "total": 68.5,
+  "required": 56.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C085",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C011",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C082",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C080",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C055",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C063",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C062",
+  "total": 8.2,
+  "required": 0.0,
+  "preferred": 4.5,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C042",
+  "total": 42.0,
+  "required": 32.0,
+  "preferred": 5.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C039",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C083",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C056",
+  "total": 51.2,
+  "required": 50.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C107",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C088",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C040",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C072",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C003",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C025",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C061",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C122",
+  "total": 53.8,
+  "required": 50.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C065",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C006",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C117",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C114",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C101",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C118",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C044",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C014",
+  "total": 2.9,
+  "required": 0.0,
+  "preferred": 1.62,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C007",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C029",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C048",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C023",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C051",
+  "total": 88.8,
+  "required": 80.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C017",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C070",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C108",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C090",
+  "total": 11.8,
+  "required": 0.0,
+  "preferred": 1.8,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C077",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C041",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C081",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C046",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C095",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C091",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C076",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C005",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C105",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C087",
+  "total": 8.1,
+  "required": 0.0,
+  "preferred": 1.8,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C092",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C043",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C086",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C124",
+  "total": 5.4,
+  "required": 0.0,
+  "preferred": 1.62,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C037",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C106",
+  "total": 2.9,
+  "required": 0.0,
+  "preferred": 1.62,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C021",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C049",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C001",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C074",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 5.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C035",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C089",
+  "total": 5.5,
+  "required": 0.0,
+  "preferred": 1.8,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C079",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C066",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C059",
+  "total": 91.2,
+  "required": 80.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C099",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C093",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C096",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C060",
+  "total": 49.5,
+  "required": 47.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C004",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C036",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C032",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C009",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C053",
+  "total": 54.9,
+  "required": 49.9,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C067",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C054",
+  "total": 41.8,
+  "required": 38.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C034",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C016",
+  "total": 3.0,
+  "required": 0.0,
+  "preferred": 1.8,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C015",
+  "total": 9.3,
+  "required": 0.0,
+  "preferred": 1.8,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C057",
+  "total": 87.5,
+  "required": 80.0,
+  "preferred": 5.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C120",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C028",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C064",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C026",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C126",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C071",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C012",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C069",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C052",
+  "total": 95.0,
+  "required": 80.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C128",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C100",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C058",
+  "total": 89.4,
+  "required": 76.9,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C024",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C030",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C019",
+  "total": 5.4,
+  "required": 0.0,
+  "preferred": 1.62,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C098",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C013",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C078",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C033",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C038",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C084",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C010",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C027",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 5.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C097",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C102",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C002",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C075",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C104",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C045",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C068",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C018",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C112",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C073",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C008",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C050",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C110",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C020",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C047",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C085",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C011",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C082",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C080",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C055",
+  "total": 87.0,
+  "required": 77.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C063",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C062",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C042",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C039",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C083",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C056",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C107",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C088",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C040",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C072",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C003",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C025",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C061",
+  "total": 42.8,
+  "required": 32.0,
+  "preferred": 4.5,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C122",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C065",
+  "total": 37.2,
+  "required": 29.0,
+  "preferred": 4.5,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C006",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C117",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C114",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C101",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C118",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C044",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C014",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C007",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C029",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C048",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C023",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C051",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C017",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C070",
+  "total": 56.2,
+  "required": 55.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C108",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C090",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C077",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C041",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C081",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C046",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C095",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C091",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C076",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C005",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C105",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C087",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C092",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C043",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C086",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C124",
+  "total": 41.0,
+  "required": 37.0,
+  "preferred": 2.7,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C037",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C106",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C021",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C049",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C001",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C074",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C035",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C089",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C079",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C066",
+  "total": 87.0,
+  "required": 77.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C059",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C099",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C093",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C096",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C060",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C004",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C036",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C032",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C009",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C053",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C067",
+  "total": 36.5,
+  "required": 32.0,
+  "preferred": 4.5,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C054",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C034",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C016",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C015",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C057",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C120",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C028",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C064",
+  "total": 53.8,
+  "required": 50.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C026",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C126",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C071",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C012",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C069",
+  "total": 40.8,
+  "required": 37.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C052",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C128",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C100",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C058",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C024",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C030",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C019",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C098",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C013",
+  "total": 15.0,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C078",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C033",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C038",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C084",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C010",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C027",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C097",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C102",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C002",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C075",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C104",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C045",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C068",
+  "total": 50.8,
+  "required": 47.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C018",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C112",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C073",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C008",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C050",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C110",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C020",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C047",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C085",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C011",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C082",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C080",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C055",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C063",
+  "total": 83.2,
+  "required": 77.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C062",
+  "total": 57.2,
+  "required": 49.0,
+  "preferred": 4.5,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C042",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C039",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C083",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C056",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C107",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C088",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C040",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C072",
+  "total": 83.8,
+  "required": 77.6,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C003",
+  "total": 63.8,
+  "required": 60.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C025",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C061",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C122",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C065",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C006",
+  "total": 49.2,
+  "required": 48.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C117",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C114",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C101",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C118",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C044",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C014",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C007",
+  "total": 43.1,
+  "required": 43.12,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C029",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C048",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C023",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C051",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C017",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C070",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C108",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C090",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C077",
+  "total": 90.0,
+  "required": 80.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C041",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C081",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C046",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C095",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C091",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C076",
+  "total": 58.1,
+  "required": 45.6,
+  "preferred": 8.75,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C005",
+  "total": 51.8,
+  "required": 48.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C105",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C087",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C092",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C043",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C086",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C124",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C037",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C106",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C021",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C049",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C001",
+  "total": 57.6,
+  "required": 57.6,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C074",
+  "total": 87.5,
+  "required": 80.0,
+  "preferred": 5.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C035",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C089",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C079",
+  "total": 59.4,
+  "required": 45.6,
+  "preferred": 10.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C066",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C059",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C099",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C093",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C096",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C060",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C004",
+  "total": 63.8,
+  "required": 60.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C036",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C032",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C009",
+  "total": 79.8,
+  "required": 76.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C053",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C067",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C054",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C034",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C016",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C015",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C057",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C120",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C028",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C064",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C026",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C126",
+  "total": 77.4,
+  "required": 62.4,
+  "preferred": 10.0,
+  "availability": 0.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C071",
+  "total": 71.6,
+  "required": 61.6,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C012",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C069",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C052",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C128",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C100",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C058",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C024",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 5.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C030",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C019",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C098",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C013",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C078",
+  "total": 88.8,
+  "required": 80.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C033",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C038",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C084",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C010",
+  "total": 46.9,
+  "required": 45.6,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C027",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C097",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C102",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C002",
+  "total": 69.0,
+  "required": 64.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C075",
+  "total": 87.6,
+  "required": 77.6,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C104",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C045",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C068",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C018",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C112",
+  "total": 32.9,
+  "required": 27.92,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C073",
+  "total": 86.2,
+  "required": 80.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C008",
+  "total": 77.2,
+  "required": 76.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C050",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C110",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C020",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C047",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C085",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C011",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C082",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C080",
+  "total": 87.6,
+  "required": 77.6,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C055",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C063",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C062",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C042",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C039",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C083",
+  "total": 87.2,
+  "required": 77.0,
+  "preferred": 7.7,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C056",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C107",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C088",
+  "total": 89.7,
+  "required": 77.0,
+  "preferred": 7.7,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C040",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C072",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C003",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C025",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C061",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C122",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C065",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C006",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C117",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C114",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C101",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C118",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C044",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C014",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C007",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C029",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C048",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C023",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C051",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C017",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C070",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C108",
+  "total": 53.5,
+  "required": 41.0,
+  "preferred": 8.75,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C090",
+  "total": 47.0,
+  "required": 37.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C077",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C041",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C081",
+  "total": 88.5,
+  "required": 77.0,
+  "preferred": 7.7,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C046",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C095",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C091",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C076",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C005",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C105",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C087",
+  "total": 61.2,
+  "required": 55.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C092",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C043",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C086",
+  "total": 89.7,
+  "required": 77.0,
+  "preferred": 7.7,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C124",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C037",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C106",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C021",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C049",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C001",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C074",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 5.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C035",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C089",
+  "total": 61.5,
+  "required": 55.0,
+  "preferred": 2.7,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C079",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C066",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C059",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C099",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C093",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C096",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C060",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C004",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C036",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C032",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C009",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C053",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C067",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C054",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C034",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C016",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C015",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C057",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C120",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C028",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C064",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C026",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C126",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C071",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C012",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C069",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C052",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C128",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C100",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C058",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C024",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C030",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C019",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C098",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C013",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C078",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C033",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C038",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C084",
+  "total": 89.7,
+  "required": 77.0,
+  "preferred": 7.7,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C010",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C027",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 5.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C097",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C102",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C002",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C075",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C104",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C045",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C068",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C018",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C112",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C073",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C008",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C050",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C110",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C020",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C047",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C085",
+  "total": 53.5,
+  "required": 41.0,
+  "preferred": 8.75,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C011",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C082",
+  "total": 86.0,
+  "required": 77.0,
+  "preferred": 7.7,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C080",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C055",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C063",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C062",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C042",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C039",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C083",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C056",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C107",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C088",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C040",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C072",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C003",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C025",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C061",
+  "total": 8.2,
+  "required": 0.0,
+  "preferred": 4.5,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C122",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C065",
+  "total": 8.2,
+  "required": 0.0,
+  "preferred": 4.5,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C006",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C117",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C114",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C101",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C118",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C044",
+  "total": 23.0,
+  "required": 18.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C014",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C007",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C029",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C048",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C023",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C051",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C017",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C070",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C108",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C090",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C077",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C041",
+  "total": 17.0,
+  "required": 12.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C081",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C046",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C095",
+  "total": 63.0,
+  "required": 58.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C091",
+  "total": 90.0,
+  "required": 80.0,
+  "preferred": 5.0,
+  "availability": 0.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C076",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C005",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C105",
+  "total": 94.5,
+  "required": 80.0,
+  "preferred": 9.5,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C087",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C092",
+  "total": 91.2,
+  "required": 80.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C043",
+  "total": 7.7,
+  "required": 0.0,
+  "preferred": 2.7,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C086",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C124",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C037",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C106",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C021",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C049",
+  "total": 13.2,
+  "required": 12.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C001",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C074",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C035",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C089",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C079",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C066",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C059",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C099",
+  "total": 50.8,
+  "required": 40.0,
+  "preferred": 4.5,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C093",
+  "total": 89.2,
+  "required": 80.0,
+  "preferred": 8.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C096",
+  "total": 97.0,
+  "required": 80.0,
+  "preferred": 9.5,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C060",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C004",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C036",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C032",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C009",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C053",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C067",
+  "total": 4.5,
+  "required": 0.0,
+  "preferred": 4.5,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C054",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C034",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C016",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C015",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C057",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C120",
+  "total": 18.4,
+  "required": 12.0,
+  "preferred": 2.7,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C028",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C064",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C026",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C126",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C071",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C012",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 5.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C069",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 5.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C052",
+  "total": 7.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C128",
+  "total": 61.8,
+  "required": 58.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C100",
+  "total": 91.8,
+  "required": 80.0,
+  "preferred": 8.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C058",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C024",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C030",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C019",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C098",
+  "total": 45.8,
+  "required": 40.0,
+  "preferred": 4.5,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C013",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C078",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C033",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C038",
+  "total": 0.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 0.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C084",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C010",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C027",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C097",
+  "total": 92.5,
+  "required": 80.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C102",
+  "total": 7.7,
+  "required": 0.0,
+  "preferred": 2.7,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C002",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C075",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C104",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C045",
+  "total": 2.5,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 2.5,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C068",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C018",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C112",
+  "total": 10.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 5.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C073",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C008",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C050",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C110",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C020",
+  "total": 12.5,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C047",
+  "total": 23.3,
+  "required": 10.8,
+  "preferred": 5.0,
+  "availability": 5.0,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C085",
+  "total": 3.8,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C011",
+  "total": 8.8,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C082",
+  "total": 1.2,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C080",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C055",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C063",
+  "total": 6.2,
+  "required": 0.0,
+  "preferred": 5.0,
+  "availability": 1.25,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C062",
+  "total": 8.2,
+  "required": 0.0,
+  "preferred": 4.5,
+  "availability": 3.75,
+  "location": 0.0
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C042",
+  "total": 7.7,
+  "required": 0.0,
+  "preferred": 2.7,
+  "availability": 2.5,
+  "location": 2.5
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C039",
+  "total": 5.0,
+  "required": 0.0,
+  "preferred": 0.0,
+  "availability": 5.0,
+  "location": 0.0
+ }
+]
