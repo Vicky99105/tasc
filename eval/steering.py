@@ -24,6 +24,7 @@ class SteeringCase:
     utterance: str
     expected_retier: tuple[tuple[str, str], ...] = ()  # (requirement_source, new_tier) pairs, order-independent
     expected_weight_direction: tuple[str, str] | None = None  # (bucket, "up"|"down") — direction only, not an exact number
+    expected_threshold_direction: str | None = None  # "up" | "down" — direction only, not an exact number
     expect_unsupported: bool = False
 
 
@@ -38,8 +39,16 @@ class SteeringResult:
 
 
 def build_golden_cases(role: Role) -> list[SteeringCase]:
-    """Cases are written against R008's own requirements — the fixture this
-    harness is meant to run against. Written before looking at any model output."""
+    """Cases are written against R008's own requirements ("Docker", "Kubernetes"
+    are literal requirement strings, not derived from `role`) — the fixture this
+    harness is meant to run against. Written before looking at any model output.
+    `role` is still required and checked, not just accepted and ignored, so a
+    caller can't silently get R008 cases back for a different role."""
+    if role.role_id != "R008":
+        raise ValueError(
+            f"build_golden_cases is written against R008's requirements, got {role.role_id}. "
+            "Write a new fixed case list for a different role rather than reusing this one."
+        )
     return [
         SteeringCase("containers aren't a big deal for us, make those less important",
                      expected_retier=(("Docker", "preferred"), ("Kubernetes", "preferred"))),
@@ -50,7 +59,7 @@ def build_golden_cases(role: Role) -> list[SteeringCase]:
         SteeringCase("we care more about location than availability",
                      expected_weight_direction=("location", "up")),
         SteeringCase("lower the bar a bit, we're struggling to fill this role",
-                     expected_weight_direction=None),  # threshold-only case, checked separately
+                     expected_threshold_direction="down"),
         SteeringCase("prioritise candidates who interview well", expect_unsupported=True),
         SteeringCase("weight CI/CD twice as much as the other required skills", expect_unsupported=True),
         SteeringCase("only consider candidates who went to a top-tier university", expect_unsupported=True),
@@ -77,6 +86,20 @@ def _check_case(case: SteeringCase, base_rubric: Rubric, rubric: Rubric, unsuppo
             return False, f"expected {bucket} weight to increase from {before}, got {after}"
         if direction == "down" and not (after < before):
             return False, f"expected {bucket} weight to decrease from {before}, got {after}"
+
+    if case.expected_threshold_direction:
+        before, after = base_rubric.shortlist_threshold, rubric.shortlist_threshold
+        if case.expected_threshold_direction == "up" and not (after > before):
+            return False, f"expected threshold to increase from {before}, got {after}"
+        if case.expected_threshold_direction == "down" and not (after < before):
+            return False, f"expected threshold to decrease from {before}, got {after}"
+
+    any_expectation = (
+        case.expected_retier or case.expected_weight_direction
+        or case.expected_threshold_direction or case.expect_unsupported
+    )
+    if not any_expectation:
+        raise ValueError(f"SteeringCase {case.utterance!r} asserts nothing — every case must check something")
 
     if case.expect_unsupported and not unsupported:
         return False, "expected this guidance to be refused as unsupported, but nothing was"

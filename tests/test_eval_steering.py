@@ -1,3 +1,5 @@
+import pytest
+
 from engine.ingest import Role
 from engine.llm import FakeLLMClient
 from engine.taxonomy import Taxonomy, Term
@@ -34,6 +36,11 @@ class TestBuildGoldenCases:
     def test_returns_a_nonempty_fixed_set(self):
         cases = build_golden_cases(_role())
         assert len(cases) >= 5
+
+    def test_wrong_role_is_rejected_not_silently_reused(self):
+        other = Role("R001", "Backend Engineer", "Eng", ("Python",), (), 3, 6, "Mid", "Dubai")
+        with pytest.raises(ValueError):
+            build_golden_cases(other)
 
 
 class TestRunCorrectRetier:
@@ -82,6 +89,34 @@ class TestWeightDirection:
         case = SteeringCase("weight availability higher", expected_weight_direction=("availability", "up"))
         results = run(fake, _role(), _tax(), [case])
         assert results[0].passed
+
+
+class TestThresholdDirection:
+    def test_correct_decrease_passes(self):
+        fake = FakeLLMClient([_echo(threshold=50.0)])
+        case = SteeringCase("lower the bar a bit", expected_threshold_direction="down")
+        results = run(fake, _role(), _tax(), [case])
+        assert results[0].passed, results[0].reason
+
+    def test_unchanged_threshold_fails(self):
+        fake = FakeLLMClient([_echo(threshold=56.0)])
+        case = SteeringCase("lower the bar a bit", expected_threshold_direction="down")
+        results = run(fake, _role(), _tax(), [case])
+        assert not results[0].passed
+
+    def test_wrong_direction_fails(self):
+        fake = FakeLLMClient([_echo(threshold=60.0)])
+        case = SteeringCase("lower the bar a bit", expected_threshold_direction="down")
+        results = run(fake, _role(), _tax(), [case])
+        assert not results[0].passed
+
+
+class TestCaseMustAssertSomething:
+    def test_case_with_no_expectations_raises_rather_than_silently_passing(self):
+        fake = FakeLLMClient([_echo()])
+        case = SteeringCase("something with no checkable expectation at all")
+        with pytest.raises(ValueError):
+            run(fake, _role(), _tax(), [case])
 
     def test_wrong_direction_fails(self):
         fake = FakeLLMClient([_echo(weights={"required": 85, "preferred": 10, "availability": 0, "location": 5})])

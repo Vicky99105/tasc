@@ -106,9 +106,9 @@
    ]
   ],
   "weights": {
-   "required": 45.0,
+   "required": 50.0,
    "preferred": 10.0,
-   "availability": 40.0,
+   "availability": 35.0,
    "location": 5.0
   },
   "unsupported": []
@@ -146,8 +146,8 @@
   "weights": {
    "required": 80.0,
    "preferred": 10.0,
-   "availability": 2.0,
-   "location": 8.0
+   "availability": 0.0,
+   "location": 10.0
   },
   "unsupported": []
  },
