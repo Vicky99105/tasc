@@ -17,7 +17,7 @@ from langgraph.checkpoint.sqlite import SqliteSaver
 from langgraph.types import Command
 
 from agent.graph import build_graph
-from agent.observability import build_run_config
+from agent.observability import build_run_config, wrap_llm
 from agent.slack import DefaultSlackClient
 from engine.config import load_config
 from engine.extract import load_links
@@ -68,7 +68,7 @@ def main() -> None:
     taxonomy = load_taxonomy("data/taxonomy.json")
     links = {r.candidate_id: r for r in load_links("data/links.json")}
 
-    llm = DefaultLLMClient(cfg.openrouter_api_key, cfg.openrouter_base_url, cfg.model_link)
+    llm = wrap_llm(cfg, DefaultLLMClient(cfg.openrouter_api_key, cfg.openrouter_base_url, cfg.model_link))
     if not cfg.slack_webhook_url:
         print("SLACK_WEBHOOK_URL not set — approving the summary will fail at send_to_slack.")
     slack = DefaultSlackClient(cfg.slack_webhook_url or "")

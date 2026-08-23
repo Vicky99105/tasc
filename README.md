@@ -96,16 +96,35 @@ cd observability && docker compose up -d
 Six containers — `langfuse-web`, `langfuse-worker`, `postgres`, `clickhouse`, `redis`, `minio` — all
 self-hosted, all local, data never leaves the machine. The compose file auto-provisions one org, project,
 user and API key pair on first boot, so the `LANGFUSE_PUBLIC_KEY` / `LANGFUSE_SECRET_KEY` already in
-`.env.example` work immediately — no manual sign-up. Open <http://localhost:3000> (`dev@localhost`,
-password in `observability/docker-compose.yml`) to see traces.
+`.env.example` work immediately — no manual sign-up. Open <http://localhost:3001> (`dev@example.com`,
+password in `observability/docker-compose.yml`) to see traces. Port 3001, not Langfuse's usual 3000 —
+something else was already holding 3000 on the machine this was built on; change it back in
+`docker-compose.yml` and `.env` if that's not true for you.
 
 LangGraph is LangChain-compatible, so one `CallbackHandler` (`agent/observability.py`) instruments the
-whole graph — every node becomes a span, every model call inside it a generation with its prompt,
-response, token counts and cost. Every trace is tagged with the role id (and, from the CLI, the taxonomy
-version); traces from the same chat session are grouped together in the Langfuse UI, since each interrupt
-resume is a separate `graph.invoke()` call and can only be tied to the others by session, not by one
-continuous span. Everything runs without this — traces are for understanding the run, not for producing
-it, which is why `build_run_config()` returns `{}` and changes nothing when the three env vars aren't set.
+whole graph — every node becomes a span. Model calls do NOT come for that free: `engine/llm.py` makes a
+raw `urllib` call, not a LangChain Runnable, so the callback handler can't see inside a node — confirmed
+live, every trace showed real node spans but $0 model cost with zero token counts. `wrap_llm()` closes
+that gap by reporting one `generation` observation per call explicitly, nested under whichever node is
+running. Verified live against a real Docker stack: token counts land correctly (1,213 → 1,212 for one
+real `render_brief` call, checked directly in ClickHouse) — cost still shows $0, because Langfuse computes
+cost from its own registered model-price table and doesn't have a price for `google/gemini-3.7-flash`,
+overwriting whatever cost value the client sends. Registering that model's price in Langfuse's own Models
+settings would fix the dollar figure; the token counts (and everything else — the span tree, the tags,
+the session grouping) are already correct without it.
+
+Every trace is tagged with the role id (and, from the CLI, the taxonomy version); traces from the same
+chat session are grouped together in the Langfuse UI, since each interrupt resume is a separate
+`graph.invoke()` call and can only be tied to the others by session, not by one continuous span.
+Everything runs without this — traces are for understanding the run, not for producing it, which is why
+`build_run_config()` and `wrap_llm()` are both no-ops when the three env vars aren't set.
+
+Two Docker-specific fixes worth knowing about if you rebuild this stack from scratch: ClickHouse needs
+`CLICKHOUSE_CLUSTER_ENABLED: "false"` explicitly, or its migration tries a `ReplicatedMergeTree`/`ON
+CLUSTER` path that needs a Zookeeper this compose file doesn't have; and plain MinIO doesn't auto-create
+buckets, so a one-shot `minio-init` service runs `mc mb` before `langfuse-web`/`langfuse-worker` are
+allowed to start. Both are already handled in `observability/docker-compose.yml` — noted here because
+they weren't obvious from Langfuse's own docs and cost real debugging time to find.
 
 ---
 

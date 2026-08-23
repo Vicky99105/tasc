@@ -21,7 +21,7 @@ from langgraph.types import Command
 from pydantic import BaseModel
 
 from agent.intent import classify_decision, classify_role, resume_payload
-from agent.observability import build_run_config
+from agent.observability import build_run_config, wrap_llm
 from engine.config import Config
 from engine.ingest import Role
 
@@ -149,7 +149,7 @@ def build_default_app() -> FastAPI:
     roles = load_roles("data/open_roles.csv")
     taxonomy = load_taxonomy("data/taxonomy.json")
     links = {r.candidate_id: r for r in load_links("data/links.json")}
-    llm = DefaultLLMClient(cfg.openrouter_api_key, cfg.openrouter_base_url, cfg.model_link)
+    llm = wrap_llm(cfg, DefaultLLMClient(cfg.openrouter_api_key, cfg.openrouter_base_url, cfg.model_link))
     slack = DefaultSlackClient(cfg.slack_webhook_url or "")
     conn = sqlite3.connect("data/app.db", check_same_thread=False)
     checkpointer = SqliteSaver(conn)

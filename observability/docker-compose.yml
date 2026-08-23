@@ -5,20 +5,28 @@ networks:
 services:
   langfuse-web:
     image: docker.langfuse.com/langfuse/langfuse:4
-    depends_on: [postgres, minio, redis, clickhouse]
-    ports: ["3000:3000"]
+    depends_on:
+      postgres: {condition: service_started}
+      minio: {condition: service_started}
+      minio-init: {condition: service_completed_successfully}
+      redis: {condition: service_started}
+      clickhouse: {condition: service_started}
+    ports: ["3001:3000"]  # host 3001: something else on this machine already holds :3000
     networks: [match-net]
     environment: &langfuse-env
       DATABASE_URL: postgresql://langfuse:langfuse@postgres:5432/langfuse
       SALT: local-dev-salt-change-me
       ENCRYPTION_KEY: "0000000000000000000000000000000000000000000000000000000000000000"
-      NEXTAUTH_URL: http://localhost:3000
+      NEXTAUTH_URL: http://localhost:3001
       NEXTAUTH_SECRET: local-dev-secret-change-me
       TELEMETRY_ENABLED: "false"
       CLICKHOUSE_URL: http://clickhouse:8123
       CLICKHOUSE_MIGRATION_URL: clickhouse://clickhouse:9000
       CLICKHOUSE_USER: default
       CLICKHOUSE_PASSWORD: langfuse
+      # single standalone node, no Zookeeper — must be explicit or the
+      # migration tries a ReplicatedMergeTree/ON CLUSTER path and fails
+      CLICKHOUSE_CLUSTER_ENABLED: "false"
       REDIS_HOST: redis
       REDIS_PORT: "6379"
       REDIS_AUTH: langfuse
@@ -26,13 +34,15 @@ services:
       LANGFUSE_S3_EVENT_UPLOAD_REGION: us-east-1
       LANGFUSE_S3_EVENT_UPLOAD_ACCESS_KEY_ID: minioadmin
       LANGFUSE_S3_EVENT_UPLOAD_SECRET_ACCESS_KEY: minioadmin123
-      LANGFUSE_S3_EVENT_UPLOAD_ENDPOINT: http://minio:9000
+      LANGFUSE_S3_EVENT_UPLOAD_ENDPOINT: http://minio:9090  # minio's S3 API port, per its --address :9090 below
       LANGFUSE_S3_EVENT_UPLOAD_FORCE_PATH_STYLE: "true"
       LANGFUSE_S3_MEDIA_UPLOAD_BUCKET: langfuse
       LANGFUSE_S3_MEDIA_UPLOAD_REGION: us-east-1
       LANGFUSE_S3_MEDIA_UPLOAD_ACCESS_KEY_ID: minioadmin
       LANGFUSE_S3_MEDIA_UPLOAD_SECRET_ACCESS_KEY: minioadmin123
-      LANGFUSE_S3_MEDIA_UPLOAD_ENDPOINT: http://localhost:9091
+      # media URLs are presigned and opened directly by the browser, so this must be an address
+      # the HOST can reach, not the in-network minio:9090 — mapped 1:1 to host port 9090 below
+      LANGFUSE_S3_MEDIA_UPLOAD_ENDPOINT: http://localhost:9090
       LANGFUSE_S3_MEDIA_UPLOAD_FORCE_PATH_STYLE: "true"
       # Creates one org/project/user/API-key pair automatically on first boot,
       # so `docker compose up` alone produces working LANGFUSE_PUBLIC_KEY /
@@ -43,13 +53,18 @@ services:
       LANGFUSE_INIT_PROJECT_NAME: candidate-match
       LANGFUSE_INIT_PROJECT_PUBLIC_KEY: pk-lf-local-dev-0000000000000000
       LANGFUSE_INIT_PROJECT_SECRET_KEY: sk-lf-local-dev-0000000000000000
-      LANGFUSE_INIT_USER_EMAIL: dev@localhost
+      LANGFUSE_INIT_USER_EMAIL: dev@example.com
       LANGFUSE_INIT_USER_NAME: dev
       LANGFUSE_INIT_USER_PASSWORD: local-dev-password-change-me
 
   langfuse-worker:
     image: docker.langfuse.com/langfuse/langfuse-worker:4
-    depends_on: [postgres, minio, redis, clickhouse]
+    depends_on:
+      postgres: {condition: service_started}
+      minio: {condition: service_started}
+      minio-init: {condition: service_completed_successfully}
+      redis: {condition: service_started}
+      clickhouse: {condition: service_started}
     ports: ["127.0.0.1:3030:3030"]
     networks: [match-net]
     environment: *langfuse-env
@@ -93,6 +108,18 @@ services:
       MINIO_ROOT_PASSWORD: minioadmin123
     command: ["server", "/data", "--address", ":9090", "--console-address", ":9091"]
     volumes: [langfuse-minio:/data]
+
+  minio-init:
+    # plain MinIO doesn't auto-create buckets; langfuse-web/worker fail to
+    # export otel span batches with "NoSuchBucket" without this one-shot step.
+    image: cgr.dev/chainguard/minio
+    depends_on: [minio]
+    networks: [match-net]
+    entrypoint: ["/bin/sh", "-c"]
+    command:
+      - >
+        mc alias set local http://minio:9090 minioadmin minioadmin123 &&
+        (mc mb local/langfuse || true)
 
 volumes:
   langfuse-postgres:

@@ -1,7 +1,8 @@
 from datetime import date
 
-from agent.observability import build_run_config, is_configured
+from agent.observability import build_run_config, is_configured, wrap_llm
 from engine.config import Config
+from engine.llm import FakeLLMClient
 
 
 def _cfg(**kw) -> Config:
@@ -55,3 +56,39 @@ class TestBuildRunConfig:
         merged = {**base, **build_run_config(cfg, "s1", role_id="R008")}
         assert merged["configurable"]["thread_id"] == "t1"
         assert merged["tags"] == ["role:R008"]
+
+
+class TestWrapLlm:
+    def test_returns_the_same_object_when_not_configured(self):
+        fake = FakeLLMClient([{"a": 1}])
+        assert wrap_llm(_cfg(), fake) is fake
+
+    def test_wrapped_client_still_returns_the_real_result(self):
+        # unset LANGFUSE_* env means get_client() returns Langfuse's own
+        # disabled-client no-op, so this exercises the wrapping logic without
+        # needing a live Langfuse server
+        cfg = _cfg(langfuse_host="http://localhost:3000", langfuse_public_key="pk-x", langfuse_secret_key="sk-x")
+        fake = FakeLLMClient([{"answer": "hello"}])
+        traced = wrap_llm(cfg, fake)
+        assert traced is not fake
+        result = traced.call("sys", "user", {"type": "object"})
+        assert result == {"answer": "hello"}
+        assert len(fake.calls) == 1
+
+    def test_wrapped_client_usage_delegates_to_inner(self):
+        cfg = _cfg(langfuse_host="http://localhost:3000", langfuse_public_key="pk-x", langfuse_secret_key="sk-x")
+        fake = FakeLLMClient([{"a": 1}])
+        traced = wrap_llm(cfg, fake)
+        traced.call("sys", "user", {})
+        assert traced.usage.calls == 1
+        assert traced.usage is fake.usage
+
+    def test_wrapped_client_propagates_exceptions(self):
+        cfg = _cfg(langfuse_host="http://localhost:3000", langfuse_public_key="pk-x", langfuse_secret_key="sk-x")
+        fake = FakeLLMClient([])  # no scripted response -> raises inside call()
+        traced = wrap_llm(cfg, fake)
+        try:
+            traced.call("sys", "user", {})
+            assert False, "expected an exception"
+        except RuntimeError:
+            pass
