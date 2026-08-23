@@ -33,6 +33,18 @@ entirely). Nothing else exists to change — there is no per-requirement weight.
   approximate it with a different change that wasn't asked for.
 - `retier.requirement_source` must be one of the role's own requirement strings,
   exactly as given — never invented, never paraphrased.
+- **Retier every requirement the guidance covers, and ONLY those.** "Containers
+  aren't essential" covers every requirement whose subject is a container
+  technology (Docker, Kubernetes) — retier both, not just the first one you
+  reach. It does NOT cover a cloud provider, a CI tool, or anything else merely
+  adjacent in the same rubric — leave those exactly as they are. Before you
+  finish, re-read the requirements list and check you haven't retiered anything
+  the guidance didn't ask about, and haven't missed one it did.
+- **`diff_en` must describe exactly and only what `weights`/`threshold`/`retier`
+  actually contain — nothing more, nothing less.** Write `diff_en` last, by
+  reading back your own `retier` list and summarising it. If `diff_en` would
+  claim a change that isn't in the structured fields, fix the structured fields,
+  not the sentence.
 - Weights must still sum to 100 after your proposed change.
 
 ## User

@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "agent-server",
+      "runtimeExecutable": ".venv/bin/python",
+      "runtimeArgs": ["-m", "agent.server"],
+      "port": 8000
+    }
+  ]
+}
