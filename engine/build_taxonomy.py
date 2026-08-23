@@ -17,6 +17,7 @@ import re
 from pathlib import Path
 
 from engine.llm import LLMClient
+from engine.prompt_template import load_prompt_sections as _load_prompt_sections
 from engine.taxonomy import Edge, Term
 
 PROMPT_PATH = Path(__file__).parent.parent / "prompts" / "01_vocabulary.md"
@@ -39,12 +40,7 @@ PILLAR_CONFIG = {
 
 
 def load_prompt_sections(path: Path) -> dict[str, str]:
-    text = path.read_text(encoding="utf-8")
-    parts = re.split(r"^## (System|User|Schema)\s*$", text, flags=re.MULTILINE)
-    sections: dict[str, str] = {}
-    for i in range(1, len(parts), 2):
-        sections[parts[i].strip().lower()] = parts[i + 1].strip()
-    return sections
+    return _load_prompt_sections(path)
 
 
 def render_prompt(

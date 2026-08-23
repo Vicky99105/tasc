@@ -1,0 +1,4237 @@
+[
+ {
+  "candidate_id": "C083",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "TECH_HIRING",
+    "field": "headline",
+    "phrase": "Technical recruiter",
+    "relation": "adjacent"
+   },
+   {
+    "term": "SOURCING",
+    "field": "headline",
+    "phrase": "sourcing",
+    "relation": "met"
+   },
+   {
+    "term": "FULL_CYCLE_RECRUITING",
+    "field": "skills",
+    "phrase": "Full-cycle recruiting",
+    "relation": "met"
+   },
+   {
+    "term": "ATS_TOOLS",
+    "field": "skills",
+    "phrase": "ATS tools",
+    "relation": "met"
+   },
+   {
+    "term": "SOURCING",
+    "field": "skills",
+    "phrase": "Sourcing",
+    "relation": "met"
+   },
+   {
+    "term": "LINKEDIN_RECRUITER",
+    "field": "skills",
+    "phrase": "LinkedIn Recruiter",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C056",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "GO_TO_MARKET_STRATEGY",
+    "field": "headline",
+    "phrase": "GTM strategy",
+    "relation": "met"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "skills",
+    "phrase": "HubSpot",
+    "relation": "met"
+   },
+   {
+    "term": "POSITIONING",
+    "field": "projects",
+    "phrase": "rebrand project",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C107",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "FINANCIAL_MODELING",
+    "field": "skills",
+    "phrase": "Cash flow forecasting",
+    "relation": "adjacent"
+   },
+   {
+    "term": "IFRS",
+    "field": "skills",
+    "phrase": "IFRS 9",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C088",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "TECH_HIRING",
+    "field": "headline",
+    "phrase": "Talent acquisition specialist, tech",
+    "relation": "adjacent"
+   },
+   {
+    "term": "FULL_CYCLE_RECRUITING",
+    "field": "skills",
+    "phrase": "Full-cycle recruiting",
+    "relation": "met"
+   },
+   {
+    "term": "ATS_TOOLS",
+    "field": "skills",
+    "phrase": "ATS tools",
+    "relation": "met"
+   },
+   {
+    "term": "SOURCING",
+    "field": "skills",
+    "phrase": "Sourcing",
+    "relation": "met"
+   },
+   {
+    "term": "LINKEDIN_RECRUITER",
+    "field": "skills",
+    "phrase": "LinkedIn Recruiter",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C040",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "SQL",
+    "field": "skills",
+    "phrase": "SQL",
+    "relation": "met"
+   },
+   {
+    "term": "R",
+    "field": "skills",
+    "phrase": "R",
+    "relation": "met"
+   },
+   {
+    "term": "POWER_BI",
+    "field": "skills",
+    "phrase": "Power BI",
+    "relation": "met"
+   },
+   {
+    "term": "DATA_VISUALIZATION",
+    "field": "skills",
+    "phrase": "Data visualization",
+    "relation": "met"
+   },
+   {
+    "term": "EXCEL",
+    "field": "skills",
+    "phrase": "Excel/advanced",
+    "relation": "met"
+   },
+   {
+    "term": "STATISTICS",
+    "field": "education",
+    "phrase": "Statistics",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C072",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "AWS",
+    "field": "headline",
+    "phrase": "AWS",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "headline",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   },
+   {
+    "term": "CI_CD",
+    "field": "skills",
+    "phrase": "CI/CD pipelines",
+    "relation": "met"
+   },
+   {
+    "term": "DOCKER",
+    "field": "skills",
+    "phrase": "Docker",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "skills",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   },
+   {
+    "term": "AWS",
+    "field": "skills",
+    "phrase": "AWS",
+    "relation": "met"
+   },
+   {
+    "term": "TERRAFORM",
+    "field": "skills",
+    "phrase": "Terraform",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "projects",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   },
+   {
+    "term": "AWS",
+    "field": "certifications",
+    "phrase": "AWS",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C003",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "AWS",
+    "field": "skills",
+    "phrase": "AWS Lambda",
+    "relation": "met"
+   },
+   {
+    "term": "DOCKER",
+    "field": "skills",
+    "phrase": "Docker",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "projects",
+    "phrase": "Django",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "certifications",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C025",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "FINANCIAL_MODELING",
+    "field": "skills",
+    "phrase": "Financial analysis",
+    "relation": "adjacent"
+   },
+   {
+    "term": "EXCEL",
+    "field": "skills",
+    "phrase": "Excel/advanced",
+    "relation": "met"
+   },
+   {
+    "term": "ERP_SYSTEMS",
+    "field": "skills",
+    "phrase": "Oracle ERP",
+    "relation": "met"
+   },
+   {
+    "term": "BUDGETING",
+    "field": "skills",
+    "phrase": "Variance analysis",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C061",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "headline",
+    "phrase": "Arabic/English",
+    "relation": "met"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "skills",
+    "phrase": "CRM tools",
+    "relation": "met"
+   },
+   {
+    "term": "TICKETING_SYSTEMS",
+    "field": "skills",
+    "phrase": "Escalation handling",
+    "relation": "adjacent"
+   },
+   {
+    "term": "TICKETING_SYSTEMS",
+    "field": "certifications",
+    "phrase": "Zendesk",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C122",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "GO_TO_MARKET_STRATEGY",
+    "field": "headline",
+    "phrase": "GTM str",
+    "relation": "adjacent"
+   },
+   {
+    "term": "POSITIONING",
+    "field": "skills",
+    "phrase": "Brand strategy",
+    "relation": "adjacent"
+   },
+   {
+    "term": "CONTENT_CREATION",
+    "field": "extra_curriculars",
+    "phrase": "content consultant",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C065",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "headline",
+    "phrase": "Arabic/English",
+    "relation": "met"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "skills",
+    "phrase": "CRM tools",
+    "relation": "met"
+   },
+   {
+    "term": "TICKETING_SYSTEMS",
+    "field": "skills",
+    "phrase": "Escalation handling",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C006",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "AWS",
+    "field": "skills",
+    "phrase": "AWS Lambda",
+    "relation": "met"
+   },
+   {
+    "term": "DOCKER",
+    "field": "skills",
+    "phrase": "Docker",
+    "relation": "met"
+   },
+   {
+    "term": "AWS",
+    "field": "certifications",
+    "phrase": "AWS",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C117",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "SQL",
+    "field": "skills",
+    "phrase": "SQL",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "skills",
+    "phrase": "Python",
+    "relation": "met"
+   },
+   {
+    "term": "TABLEAU",
+    "field": "skills",
+    "phrase": "Tableau",
+    "relation": "met"
+   },
+   {
+    "term": "STATISTICS",
+    "field": "skills",
+    "phrase": "Statistics",
+    "relation": "met"
+   },
+   {
+    "term": "AB_TESTING",
+    "field": "skills",
+    "phrase": "A/B testing",
+    "relation": "met"
+   },
+   {
+    "term": "STATISTICS",
+    "field": "education",
+    "phrase": "Statistics",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C114",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "B2B_OUTREACH",
+    "field": "skills",
+    "phrase": "Outbound prospecting",
+    "relation": "adjacent"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "skills",
+    "phrase": "HubSpot",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C101",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "SQL",
+    "field": "skills",
+    "phrase": "SQL",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "skills",
+    "phrase": "Python",
+    "relation": "met"
+   },
+   {
+    "term": "TABLEAU",
+    "field": "skills",
+    "phrase": "Tableau",
+    "relation": "met"
+   },
+   {
+    "term": "STATISTICS",
+    "field": "skills",
+    "phrase": "Statistics",
+    "relation": "met"
+   },
+   {
+    "term": "AB_TESTING",
+    "field": "skills",
+    "phrase": "A/B testing",
+    "relation": "met"
+   },
+   {
+    "term": "DATA_VISUALIZATION",
+    "field": "projects",
+    "phrase": "Built a personal dashboard",
+    "relation": "adjacent"
+   },
+   {
+    "term": "STATISTICS",
+    "field": "education",
+    "phrase": "Statistics",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C118",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C044",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "PERFORMANCE_MANAGEMENT",
+    "field": "headline",
+    "phrase": "performance management",
+    "relation": "met"
+   },
+   {
+    "term": "COMPLIANCE",
+    "field": "headline",
+    "phrase": "compliance",
+    "relation": "met"
+   },
+   {
+    "term": "EMPLOYEE_RELATIONS",
+    "field": "skills",
+    "phrase": "Employee engagement",
+    "relation": "adjacent"
+   },
+   {
+    "term": "HRIS",
+    "field": "skills",
+    "phrase": "Workday",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C014",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "SAAS_SALES",
+    "field": "headline",
+    "phrase": "B2B Sales",
+    "relation": "adjacent"
+   },
+   {
+    "term": "COLD_CALLING",
+    "field": "skills",
+    "phrase": "Cold calling",
+    "relation": "met"
+   },
+   {
+    "term": "B2B_OUTREACH",
+    "field": "skills",
+    "phrase": "Lead generation",
+    "relation": "adjacent"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "skills",
+    "phrase": "CRM (Salesforce)",
+    "relation": "met"
+   },
+   {
+    "term": "COLD_CALLING",
+    "field": "skills",
+    "phrase": "Objection handling",
+    "relation": "adjacent"
+   },
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "skills",
+    "phrase": "Fluent Arabic & English",
+    "relation": "met"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "certifications",
+    "phrase": "Salesforce",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C007",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "AWS",
+    "field": "skills",
+    "phrase": "AWS Lambda",
+    "relation": "met"
+   },
+   {
+    "term": "DOCKER",
+    "field": "skills",
+    "phrase": "Docker",
+    "relation": "met"
+   },
+   {
+    "term": "AWS",
+    "field": "certifications",
+    "phrase": "AWS",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C029",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "IFRS",
+    "field": "headline",
+    "phrase": "IFRS",
+    "relation": "met"
+   },
+   {
+    "term": "BUDGETING",
+    "field": "headline",
+    "phrase": "budgeting",
+    "relation": "met"
+   },
+   {
+    "term": "FINANCIAL_MODELING",
+    "field": "skills",
+    "phrase": "Cash flow forecasting",
+    "relation": "adjacent"
+   },
+   {
+    "term": "IFRS",
+    "field": "skills",
+    "phrase": "IFRS 9",
+    "relation": "met"
+   },
+   {
+    "term": "BUDGETING",
+    "field": "projects",
+    "phrase": "budgeting",
+    "relation": "met"
+   },
+   {
+    "term": "POWER_BI",
+    "field": "projects",
+    "phrase": "Power BI",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C048",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "EMPLOYEE_RELATIONS",
+    "field": "skills",
+    "phrase": "Employee engagement",
+    "relation": "adjacent"
+   },
+   {
+    "term": "HRIS",
+    "field": "skills",
+    "phrase": "Workday",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C023",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "IFRS",
+    "field": "headline",
+    "phrase": "IFRS",
+    "relation": "met"
+   },
+   {
+    "term": "BUDGETING",
+    "field": "headline",
+    "phrase": "budgeting",
+    "relation": "met"
+   },
+   {
+    "term": "FINANCIAL_MODELING",
+    "field": "skills",
+    "phrase": "Financial analysis",
+    "relation": "adjacent"
+   },
+   {
+    "term": "EXCEL",
+    "field": "skills",
+    "phrase": "Excel/advanced",
+    "relation": "met"
+   },
+   {
+    "term": "ERP_SYSTEMS",
+    "field": "skills",
+    "phrase": "Oracle ERP",
+    "relation": "met"
+   },
+   {
+    "term": "BUDGETING",
+    "field": "skills",
+    "phrase": "Variance analysis",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C051",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "GO_TO_MARKET_STRATEGY",
+    "field": "headline",
+    "phrase": "GTM strategy",
+    "relation": "adjacent"
+   },
+   {
+    "term": "GO_TO_MARKET_STRATEGY",
+    "field": "skills",
+    "phrase": "Go-to-market strategy",
+    "relation": "met"
+   },
+   {
+    "term": "POSITIONING",
+    "field": "skills",
+    "phrase": "Positioning",
+    "relation": "met"
+   },
+   {
+    "term": "CONTENT_CREATION",
+    "field": "skills",
+    "phrase": "Content creation",
+    "relation": "met"
+   },
+   {
+    "term": "FIGMA",
+    "field": "skills",
+    "phrase": "Figma",
+    "relation": "met"
+   },
+   {
+    "term": "POSITIONING",
+    "field": "projects",
+    "phrase": "rebrand project",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C017",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "COLD_CALLING",
+    "field": "skills",
+    "phrase": "Cold calling",
+    "relation": "met"
+   },
+   {
+    "term": "B2B_OUTREACH",
+    "field": "skills",
+    "phrase": "Lead generation",
+    "relation": "adjacent"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "skills",
+    "phrase": "CRM (Salesforce)",
+    "relation": "met"
+   },
+   {
+    "term": "COLD_CALLING",
+    "field": "skills",
+    "phrase": "Objection handling",
+    "relation": "adjacent"
+   },
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "skills",
+    "phrase": "Fluent Arabic & English",
+    "relation": "met"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "certifications",
+    "phrase": "Salesforce",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C070",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "TROUBLESHOOTING",
+    "field": "headline",
+    "phrase": "troubleshooting",
+    "relation": "met"
+   },
+   {
+    "term": "TICKETING_SYSTEMS",
+    "field": "skills",
+    "phrase": "Ticketing systems",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C108",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "TECH_HIRING",
+    "field": "skills",
+    "phrase": "Technical hiring",
+    "relation": "met"
+   },
+   {
+    "term": "SOURCING",
+    "field": "skills",
+    "phrase": "Boolean search",
+    "relation": "adjacent"
+   },
+   {
+    "term": "FULL_CYCLE_RECRUITING",
+    "field": "skills",
+    "phrase": "Interview coordination",
+    "relation": "adjacent"
+   },
+   {
+    "term": "LINKEDIN_RECRUITER",
+    "field": "certifications",
+    "phrase": "LinkedIn Certified Professional Recruiter",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C090",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "SAAS_SALES",
+    "field": "skills",
+    "phrase": "Pipeline management",
+    "relation": "adjacent"
+   },
+   {
+    "term": "ATS_TOOLS",
+    "field": "skills",
+    "phrase": "Greenhouse/Lever",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C077",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "CI_CD",
+    "field": "skills",
+    "phrase": "CI/CD pipelines",
+    "relation": "met"
+   },
+   {
+    "term": "DOCKER",
+    "field": "skills",
+    "phrase": "Docker",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "skills",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   },
+   {
+    "term": "AWS",
+    "field": "skills",
+    "phrase": "AWS",
+    "relation": "met"
+   },
+   {
+    "term": "TERRAFORM",
+    "field": "skills",
+    "phrase": "Terraform",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "projects",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C041",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "EMPLOYEE_RELATIONS",
+    "field": "skills",
+    "phrase": "Employee relations",
+    "relation": "met"
+   },
+   {
+    "term": "UAE_LABOR_LAW",
+    "field": "skills",
+    "phrase": "UAE labor law",
+    "relation": "met"
+   },
+   {
+    "term": "PERFORMANCE_MANAGEMENT",
+    "field": "skills",
+    "phrase": "Performance management",
+    "relation": "met"
+   },
+   {
+    "term": "HRIS",
+    "field": "skills",
+    "phrase": "HRIS",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C081",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "TECH_HIRING",
+    "field": "headline",
+    "phrase": "Talent acquisition specialist, tech and startup focus",
+    "relation": "adjacent"
+   },
+   {
+    "term": "FULL_CYCLE_RECRUITING",
+    "field": "skills",
+    "phrase": "Full-cycle recruiting",
+    "relation": "met"
+   },
+   {
+    "term": "ATS_TOOLS",
+    "field": "skills",
+    "phrase": "ATS tools",
+    "relation": "met"
+   },
+   {
+    "term": "SOURCING",
+    "field": "skills",
+    "phrase": "Sourcing",
+    "relation": "met"
+   },
+   {
+    "term": "LINKEDIN_RECRUITER",
+    "field": "skills",
+    "phrase": "LinkedIn Recruiter",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C046",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "EMPLOYEE_RELATIONS",
+    "field": "skills",
+    "phrase": "Employee engagement",
+    "relation": "adjacent"
+   },
+   {
+    "term": "HRIS",
+    "field": "skills",
+    "phrase": "Workday",
+    "relation": "met"
+   },
+   {
+    "term": "EMPLOYEE_RELATIONS",
+    "field": "projects",
+    "phrase": "employee engagement",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C095",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "UAE_COMMERCIAL_LAW",
+    "field": "headline",
+    "phrase": "UAE commercial law",
+    "relation": "met"
+   },
+   {
+    "term": "COMPLIANCE",
+    "field": "skills",
+    "phrase": "Corporate governance",
+    "relation": "adjacent"
+   },
+   {
+    "term": "COMPLIANCE",
+    "field": "skills",
+    "phrase": "Regulatory compliance",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C091",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "COMPLIANCE",
+    "field": "headline",
+    "phrase": "compliance",
+    "relation": "met"
+   },
+   {
+    "term": "CONTRACT_DRAFTING",
+    "field": "skills",
+    "phrase": "Contract drafting",
+    "relation": "met"
+   },
+   {
+    "term": "UAE_COMMERCIAL_LAW",
+    "field": "skills",
+    "phrase": "UAE commercial law",
+    "relation": "met"
+   },
+   {
+    "term": "COMPLIANCE",
+    "field": "skills",
+    "phrase": "Compliance",
+    "relation": "met"
+   },
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "skills",
+    "phrase": "Bilingual Arabic/English",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C076",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "AZURE",
+    "field": "skills",
+    "phrase": "Azure",
+    "relation": "met"
+   },
+   {
+    "term": "CI_CD",
+    "field": "skills",
+    "phrase": "Jenkins",
+    "relation": "met"
+   },
+   {
+    "term": "MONITORING_TOOLS",
+    "field": "skills",
+    "phrase": "Monitoring (Datadog/Prometheus)",
+    "relation": "met"
+   },
+   {
+    "term": "TERRAFORM",
+    "field": "certifications",
+    "phrase": "Terraform",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C005",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "SQL",
+    "field": "skills",
+    "phrase": "MySQL",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "skills",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   },
+   {
+    "term": "REST_APIS",
+    "field": "skills",
+    "phrase": "Microservices",
+    "relation": "adjacent"
+   },
+   {
+    "term": "CI_CD",
+    "field": "skills",
+    "phrase": "Jenkins",
+    "relation": "met"
+   },
+   {
+    "term": "REST_APIS",
+    "field": "projects",
+    "phrase": "API gateway",
+    "relation": "adjacent"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "certifications",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C105",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "GCC_CROSS_BORDER",
+    "field": "headline",
+    "phrase": "GCC cross-border experience",
+    "relation": "met"
+   },
+   {
+    "term": "CONTRACT_DRAFTING",
+    "field": "skills",
+    "phrase": "Contract drafting",
+    "relation": "met"
+   },
+   {
+    "term": "UAE_COMMERCIAL_LAW",
+    "field": "skills",
+    "phrase": "UAE commercial law",
+    "relation": "met"
+   },
+   {
+    "term": "COMPLIANCE",
+    "field": "skills",
+    "phrase": "Compliance",
+    "relation": "met"
+   },
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "skills",
+    "phrase": "Bilingual Arabic/English",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C087",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "FULL_CYCLE_RECRUITING",
+    "field": "headline",
+    "phrase": "Full-cycle recruiter",
+    "relation": "met"
+   },
+   {
+    "term": "SAAS_SALES",
+    "field": "skills",
+    "phrase": "Pipeline management",
+    "relation": "adjacent"
+   },
+   {
+    "term": "ATS_TOOLS",
+    "field": "skills",
+    "phrase": "Greenhouse/Lever",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C092",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "COMPLIANCE",
+    "field": "headline",
+    "phrase": "compliance",
+    "relation": "met"
+   },
+   {
+    "term": "CONTRACT_DRAFTING",
+    "field": "skills",
+    "phrase": "Contract drafting",
+    "relation": "met"
+   },
+   {
+    "term": "UAE_COMMERCIAL_LAW",
+    "field": "skills",
+    "phrase": "UAE commercial law",
+    "relation": "met"
+   },
+   {
+    "term": "COMPLIANCE",
+    "field": "skills",
+    "phrase": "Compliance",
+    "relation": "met"
+   },
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "skills",
+    "phrase": "Bilingual Arabic/English",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C043",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "GCC_CROSS_BORDER",
+    "field": "headline",
+    "phrase": "GCC experience",
+    "relation": "adjacent"
+   },
+   {
+    "term": "EMPLOYEE_RELATIONS",
+    "field": "skills",
+    "phrase": "Employee engagement",
+    "relation": "adjacent"
+   },
+   {
+    "term": "HRIS",
+    "field": "skills",
+    "phrase": "Workday",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C086",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "TECH_HIRING",
+    "field": "headline",
+    "phrase": "Technical recruiter",
+    "relation": "adjacent"
+   },
+   {
+    "term": "SOURCING",
+    "field": "headline",
+    "phrase": "sourcing",
+    "relation": "met"
+   },
+   {
+    "term": "FULL_CYCLE_RECRUITING",
+    "field": "skills",
+    "phrase": "Full-cycle recruiting",
+    "relation": "met"
+   },
+   {
+    "term": "ATS_TOOLS",
+    "field": "skills",
+    "phrase": "ATS tools",
+    "relation": "met"
+   },
+   {
+    "term": "SOURCING",
+    "field": "skills",
+    "phrase": "Sourcing",
+    "relation": "met"
+   },
+   {
+    "term": "LINKEDIN_RECRUITER",
+    "field": "skills",
+    "phrase": "LinkedIn Recruiter",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C124",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "SAAS_PRODUCT_EXPERIENCE",
+    "field": "headline",
+    "phrase": "Ã©xperience in SaaS",
+    "relation": "adjacent"
+   },
+   {
+    "term": "TICKETING_SYSTEMS",
+    "field": "skills",
+    "phrase": "Ticketing systems",
+    "relation": "met"
+   },
+   {
+    "term": "TICKETING_SYSTEMS",
+    "field": "certifications",
+    "phrase": "Zendesk",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C037",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "SQL",
+    "field": "headline",
+    "phrase": "SQL",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "headline",
+    "phrase": "Python",
+    "relation": "met"
+   },
+   {
+    "term": "SQL",
+    "field": "skills",
+    "phrase": "SQL",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "skills",
+    "phrase": "Python",
+    "relation": "met"
+   },
+   {
+    "term": "TABLEAU",
+    "field": "skills",
+    "phrase": "Tableau",
+    "relation": "met"
+   },
+   {
+    "term": "STATISTICS",
+    "field": "skills",
+    "phrase": "Statistics",
+    "relation": "met"
+   },
+   {
+    "term": "AB_TESTING",
+    "field": "skills",
+    "phrase": "A/B testing",
+    "relation": "met"
+   },
+   {
+    "term": "STATISTICS",
+    "field": "education",
+    "phrase": "Statistics",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C106",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "SAAS_SALES",
+    "field": "headline",
+    "phrase": "B2B Sales",
+    "relation": "adjacent"
+   },
+   {
+    "term": "COLD_CALLING",
+    "field": "skills",
+    "phrase": "Cold calling",
+    "relation": "met"
+   },
+   {
+    "term": "B2B_OUTREACH",
+    "field": "skills",
+    "phrase": "Lead generation",
+    "relation": "adjacent"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "skills",
+    "phrase": "CRM (Salesforce)",
+    "relation": "met"
+   },
+   {
+    "term": "COLD_CALLING",
+    "field": "skills",
+    "phrase": "Objection handling",
+    "relation": "adjacent"
+   },
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "skills",
+    "phrase": "Fluent Arabic & English",
+    "relation": "met"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "certifications",
+    "phrase": "Salesforce",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C021",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "FINANCIAL_MODELING",
+    "field": "skills",
+    "phrase": "Financial Modeling",
+    "relation": "met"
+   },
+   {
+    "term": "IFRS",
+    "field": "skills",
+    "phrase": "IFRS",
+    "relation": "met"
+   },
+   {
+    "term": "BUDGETING",
+    "field": "skills",
+    "phrase": "Budgeting & Forecasting",
+    "relation": "met"
+   },
+   {
+    "term": "ERP_SYSTEMS",
+    "field": "skills",
+    "phrase": "SAP FICO",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C049",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "EMPLOYEE_RELATIONS",
+    "field": "headline",
+    "phrase": "employee relations",
+    "relation": "met"
+   },
+   {
+    "term": "UAE_LABOR_LAW",
+    "field": "headline",
+    "phrase": "UAE labor law",
+    "relation": "met"
+   },
+   {
+    "term": "EMPLOYEE_RELATIONS",
+    "field": "skills",
+    "phrase": "Employee relations",
+    "relation": "met"
+   },
+   {
+    "term": "UAE_LABOR_LAW",
+    "field": "skills",
+    "phrase": "UAE labor law",
+    "relation": "met"
+   },
+   {
+    "term": "PERFORMANCE_MANAGEMENT",
+    "field": "skills",
+    "phrase": "Performance management",
+    "relation": "met"
+   },
+   {
+    "term": "HRIS",
+    "field": "skills",
+    "phrase": "HRIS",
+    "relation": "met"
+   },
+   {
+    "term": "EMPLOYEE_RELATIONS",
+    "field": "projects",
+    "phrase": "employee engagement",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C001",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "SQL",
+    "field": "skills",
+    "phrase": "MySQL",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "skills",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   },
+   {
+    "term": "REST_APIS",
+    "field": "skills",
+    "phrase": "Microservices",
+    "relation": "adjacent"
+   },
+   {
+    "term": "CI_CD",
+    "field": "skills",
+    "phrase": "Jenkins",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "projects",
+    "phrase": "Django",
+    "relation": "met"
+   },
+   {
+    "term": "AWS",
+    "field": "certifications",
+    "phrase": "AWS",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C074",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "CI_CD",
+    "field": "skills",
+    "phrase": "CI/CD pipelines",
+    "relation": "met"
+   },
+   {
+    "term": "DOCKER",
+    "field": "skills",
+    "phrase": "Docker",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "skills",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   },
+   {
+    "term": "AWS",
+    "field": "skills",
+    "phrase": "AWS",
+    "relation": "met"
+   },
+   {
+    "term": "TERRAFORM",
+    "field": "skills",
+    "phrase": "Terraform",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "certifications",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C035",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "PYTHON",
+    "field": "skills",
+    "phrase": "Python",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "skills",
+    "phrase": "Pandas",
+    "relation": "met"
+   },
+   {
+    "term": "SQL",
+    "field": "skills",
+    "phrase": "SQL",
+    "relation": "met"
+   },
+   {
+    "term": "DATA_VISUALIZATION",
+    "field": "skills",
+    "phrase": "Looker",
+    "relation": "met"
+   },
+   {
+    "term": "DATA_VISUALIZATION",
+    "field": "projects",
+    "phrase": "dashboard",
+    "relation": "adjacent"
+   },
+   {
+    "term": "STATISTICS",
+    "field": "education",
+    "phrase": "Statistics",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C089",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "TECH_HIRING",
+    "field": "headline",
+    "phrase": "Technical recruiter",
+    "relation": "adjacent"
+   },
+   {
+    "term": "SOURCING",
+    "field": "headline",
+    "phrase": "sourcing",
+    "relation": "met"
+   },
+   {
+    "term": "SAAS_SALES",
+    "field": "skills",
+    "phrase": "Pipeline management",
+    "relation": "adjacent"
+   },
+   {
+    "term": "ATS_TOOLS",
+    "field": "skills",
+    "phrase": "Greenhouse/Lever",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C079",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "AZURE",
+    "field": "skills",
+    "phrase": "Azure",
+    "relation": "met"
+   },
+   {
+    "term": "CI_CD",
+    "field": "skills",
+    "phrase": "Jenkins",
+    "relation": "met"
+   },
+   {
+    "term": "MONITORING_TOOLS",
+    "field": "skills",
+    "phrase": "Monitoring (Datadog/Prometheus)",
+    "relation": "met"
+   },
+   {
+    "term": "TERRAFORM",
+    "field": "projects",
+    "phrase": "Terraform",
+    "relation": "met"
+   },
+   {
+    "term": "AWS",
+    "field": "certifications",
+    "phrase": "AWS",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C066",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "TICKETING_SYSTEMS",
+    "field": "skills",
+    "phrase": "Zendesk",
+    "relation": "met"
+   },
+   {
+    "term": "TROUBLESHOOTING",
+    "field": "skills",
+    "phrase": "Troubleshooting",
+    "relation": "met"
+   },
+   {
+    "term": "WRITTEN_COMMUNICATION",
+    "field": "skills",
+    "phrase": "Written communication",
+    "relation": "met"
+   },
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "skills",
+    "phrase": "Arabic + English bilingual",
+    "relation": "met"
+   },
+   {
+    "term": "WRITTEN_COMMUNICATION",
+    "field": "projects",
+    "phrase": "Created an internal FAQ knowledge base",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C059",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "POSITIONING",
+    "field": "headline",
+    "phrase": "positioning",
+    "relation": "met"
+   },
+   {
+    "term": "GO_TO_MARKET_STRATEGY",
+    "field": "skills",
+    "phrase": "Go-to-market strategy",
+    "relation": "met"
+   },
+   {
+    "term": "POSITIONING",
+    "field": "skills",
+    "phrase": "Positioning",
+    "relation": "met"
+   },
+   {
+    "term": "CONTENT_CREATION",
+    "field": "skills",
+    "phrase": "Content creation",
+    "relation": "met"
+   },
+   {
+    "term": "FIGMA",
+    "field": "skills",
+    "phrase": "Figma",
+    "relation": "met"
+   },
+   {
+    "term": "CONTENT_CREATION",
+    "field": "projects",
+    "phrase": "Ran a personal newsletter",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C099",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "GCC_CROSS_BORDER",
+    "field": "headline",
+    "phrase": "GCC cross-border experience",
+    "relation": "met"
+   },
+   {
+    "term": "CONTRACT_DRAFTING",
+    "field": "skills",
+    "phrase": "Commercial contracts",
+    "relation": "met"
+   },
+   {
+    "term": "GCC_CROSS_BORDER",
+    "field": "skills",
+    "phrase": "GCC regulatory frameworks",
+    "relation": "adjacent"
+   },
+   {
+    "term": "GCC_CROSS_BORDER",
+    "field": "projects",
+    "phrase": "cross-border JV structuring project",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C093",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "UAE_COMMERCIAL_LAW",
+    "field": "headline",
+    "phrase": "UAE commercial law",
+    "relation": "met"
+   },
+   {
+    "term": "CONTRACT_DRAFTING",
+    "field": "skills",
+    "phrase": "Contract drafting",
+    "relation": "met"
+   },
+   {
+    "term": "UAE_COMMERCIAL_LAW",
+    "field": "skills",
+    "phrase": "UAE commercial law",
+    "relation": "met"
+   },
+   {
+    "term": "COMPLIANCE",
+    "field": "skills",
+    "phrase": "Compliance",
+    "relation": "met"
+   },
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "skills",
+    "phrase": "Bilingual Arabic/English",
+    "relation": "met"
+   },
+   {
+    "term": "GCC_CROSS_BORDER",
+    "field": "projects",
+    "phrase": "cross-border JV structuring project",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C096",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "GCC_CROSS_BORDER",
+    "field": "headline",
+    "phrase": "GCC cross-border experience",
+    "relation": "met"
+   },
+   {
+    "term": "CONTRACT_DRAFTING",
+    "field": "skills",
+    "phrase": "Contract drafting",
+    "relation": "met"
+   },
+   {
+    "term": "UAE_COMMERCIAL_LAW",
+    "field": "skills",
+    "phrase": "UAE commercial law",
+    "relation": "met"
+   },
+   {
+    "term": "COMPLIANCE",
+    "field": "skills",
+    "phrase": "Compliance",
+    "relation": "met"
+   },
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "skills",
+    "phrase": "Bilingual Arabic/English",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C060",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "POSITIONING",
+    "field": "headline",
+    "phrase": "positioning",
+    "relation": "met"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "skills",
+    "phrase": "HubSpot",
+    "relation": "met"
+   },
+   {
+    "term": "POSITIONING",
+    "field": "projects",
+    "phrase": "rebrand",
+    "relation": "adjacent"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "certifications",
+    "phrase": "HubSpot",
+    "relation": "met"
+   },
+   {
+    "term": "CONTENT_CREATION",
+    "field": "certifications",
+    "phrase": "Content Marketing",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C004",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "SQL",
+    "field": "skills",
+    "phrase": "MySQL",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "skills",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   },
+   {
+    "term": "REST_APIS",
+    "field": "skills",
+    "phrase": "Microservices",
+    "relation": "adjacent"
+   },
+   {
+    "term": "CI_CD",
+    "field": "skills",
+    "phrase": "Jenkins",
+    "relation": "met"
+   },
+   {
+    "term": "AWS",
+    "field": "certifications",
+    "phrase": "AWS",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C036",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "PYTHON",
+    "field": "skills",
+    "phrase": "Python",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "skills",
+    "phrase": "Pandas",
+    "relation": "met"
+   },
+   {
+    "term": "SQL",
+    "field": "skills",
+    "phrase": "SQL",
+    "relation": "met"
+   },
+   {
+    "term": "DATA_VISUALIZATION",
+    "field": "skills",
+    "phrase": "Looker",
+    "relation": "met"
+   },
+   {
+    "term": "STATISTICS",
+    "field": "education",
+    "phrase": "Statistics",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C032",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "SQL",
+    "field": "skills",
+    "phrase": "SQL",
+    "relation": "met"
+   },
+   {
+    "term": "R",
+    "field": "skills",
+    "phrase": "R",
+    "relation": "met"
+   },
+   {
+    "term": "POWER_BI",
+    "field": "skills",
+    "phrase": "Power BI",
+    "relation": "met"
+   },
+   {
+    "term": "DATA_VISUALIZATION",
+    "field": "skills",
+    "phrase": "Data visualization",
+    "relation": "met"
+   },
+   {
+    "term": "EXCEL",
+    "field": "skills",
+    "phrase": "Excel/advanced",
+    "relation": "met"
+   },
+   {
+    "term": "STATISTICS",
+    "field": "education",
+    "phrase": "Statistics",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C009",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "PYTHON",
+    "field": "skills",
+    "phrase": "Python",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "skills",
+    "phrase": "Django",
+    "relation": "met"
+   },
+   {
+    "term": "POSTGRESQL",
+    "field": "skills",
+    "phrase": "PostgreSQL",
+    "relation": "met"
+   },
+   {
+    "term": "AWS",
+    "field": "skills",
+    "phrase": "AWS",
+    "relation": "met"
+   },
+   {
+    "term": "DOCKER",
+    "field": "skills",
+    "phrase": "Docker",
+    "relation": "met"
+   },
+   {
+    "term": "REST_APIS",
+    "field": "skills",
+    "phrase": "REST API design",
+    "relation": "met"
+   },
+   {
+    "term": "CI_CD",
+    "field": "skills",
+    "phrase": "CI/CD",
+    "relation": "met"
+   },
+   {
+    "term": "REST_APIS",
+    "field": "projects",
+    "phrase": "API gateway",
+    "relation": "adjacent"
+   },
+   {
+    "term": "PYTHON",
+    "field": "extra_curriculars",
+    "phrase": "Python",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "certifications",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C053",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "GO_TO_MARKET_STRATEGY",
+    "field": "headline",
+    "phrase": "GTM strategy",
+    "relation": "met"
+   },
+   {
+    "term": "POSITIONING",
+    "field": "skills",
+    "phrase": "Brand strategy",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C067",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "headline",
+    "phrase": "Arabic/English",
+    "relation": "met"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "skills",
+    "phrase": "CRM tools",
+    "relation": "met"
+   },
+   {
+    "term": "TICKETING_SYSTEMS",
+    "field": "skills",
+    "phrase": "Escalation handling",
+    "relation": "adjacent"
+   },
+   {
+    "term": "TICKETING_SYSTEMS",
+    "field": "certifications",
+    "phrase": "Zendesk",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C054",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "POSITIONING",
+    "field": "headline",
+    "phrase": "positioning",
+    "relation": "met"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "skills",
+    "phrase": "HubSpot",
+    "relation": "met"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "certifications",
+    "phrase": "HubSpot",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C034",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "SQL",
+    "field": "headline",
+    "phrase": "SQL",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "headline",
+    "phrase": "Python",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "skills",
+    "phrase": "Python",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "skills",
+    "phrase": "Pandas",
+    "relation": "met"
+   },
+   {
+    "term": "SQL",
+    "field": "skills",
+    "phrase": "SQL",
+    "relation": "met"
+   },
+   {
+    "term": "DATA_VISUALIZATION",
+    "field": "skills",
+    "phrase": "Looker",
+    "relation": "met"
+   },
+   {
+    "term": "STATISTICS",
+    "field": "education",
+    "phrase": "Statistics",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C016",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "SAAS_SALES",
+    "field": "headline",
+    "phrase": "B2B Sales",
+    "relation": "adjacent"
+   },
+   {
+    "term": "SAAS_SALES",
+    "field": "skills",
+    "phrase": "B2B sales",
+    "relation": "adjacent"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "skills",
+    "phrase": "Salesforce",
+    "relation": "met"
+   },
+   {
+    "term": "SAAS_SALES",
+    "field": "skills",
+    "phrase": "Territory management",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C015",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "SAAS_SALES",
+    "field": "skills",
+    "phrase": "B2B sales",
+    "relation": "adjacent"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "skills",
+    "phrase": "Salesforce",
+    "relation": "met"
+   },
+   {
+    "term": "SAAS_SALES",
+    "field": "skills",
+    "phrase": "Territory management",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C057",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "GO_TO_MARKET_STRATEGY",
+    "field": "headline",
+    "phrase": "GTM strategy",
+    "relation": "met"
+   },
+   {
+    "term": "GO_TO_MARKET_STRATEGY",
+    "field": "skills",
+    "phrase": "Go-to-market strategy",
+    "relation": "met"
+   },
+   {
+    "term": "POSITIONING",
+    "field": "skills",
+    "phrase": "Positioning",
+    "relation": "met"
+   },
+   {
+    "term": "CONTENT_CREATION",
+    "field": "skills",
+    "phrase": "Content creation",
+    "relation": "met"
+   },
+   {
+    "term": "FIGMA",
+    "field": "skills",
+    "phrase": "Figma",
+    "relation": "met"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "certifications",
+    "phrase": "HubSpot",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C120",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "GCC_CROSS_BORDER",
+    "field": "headline",
+    "phrase": "GCC experience",
+    "relation": "adjacent"
+   },
+   {
+    "term": "EMPLOYEE_RELATIONS",
+    "field": "skills",
+    "phrase": "Employee relations",
+    "relation": "met"
+   },
+   {
+    "term": "UAE_LABOR_LAW",
+    "field": "skills",
+    "phrase": "UAE labor law",
+    "relation": "met"
+   },
+   {
+    "term": "PERFORMANCE_MANAGEMENT",
+    "field": "skills",
+    "phrase": "Performance management",
+    "relation": "met"
+   },
+   {
+    "term": "HRIS",
+    "field": "skills",
+    "phrase": "HRIS",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C028",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "FINANCIAL_MODELING",
+    "field": "skills",
+    "phrase": "Financial Modeling",
+    "relation": "met"
+   },
+   {
+    "term": "IFRS",
+    "field": "skills",
+    "phrase": "IFRS",
+    "relation": "met"
+   },
+   {
+    "term": "BUDGETING",
+    "field": "skills",
+    "phrase": "Budgeting & Forecasting",
+    "relation": "met"
+   },
+   {
+    "term": "ERP_SYSTEMS",
+    "field": "skills",
+    "phrase": "SAP FICO",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C064",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "TROUBLESHOOTING",
+    "field": "headline",
+    "phrase": "troubleshooting",
+    "relation": "met"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "skills",
+    "phrase": "CRM tools",
+    "relation": "met"
+   },
+   {
+    "term": "TICKETING_SYSTEMS",
+    "field": "skills",
+    "phrase": "Escalation handling",
+    "relation": "adjacent"
+   },
+   {
+    "term": "TICKETING_SYSTEMS",
+    "field": "certifications",
+    "phrase": "Zendesk",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C026",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "FINANCIAL_MODELING",
+    "field": "skills",
+    "phrase": "Financial analysis",
+    "relation": "adjacent"
+   },
+   {
+    "term": "EXCEL",
+    "field": "skills",
+    "phrase": "Excel/advanced",
+    "relation": "met"
+   },
+   {
+    "term": "ERP_SYSTEMS",
+    "field": "skills",
+    "phrase": "Oracle ERP",
+    "relation": "met"
+   },
+   {
+    "term": "BUDGETING",
+    "field": "skills",
+    "phrase": "Variance analysis",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C126",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "AWS",
+    "field": "headline",
+    "phrase": "AWS",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "headline",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   },
+   {
+    "term": "AZURE",
+    "field": "skills",
+    "phrase": "Azure",
+    "relation": "met"
+   },
+   {
+    "term": "CI_CD",
+    "field": "skills",
+    "phrase": "Jenkins",
+    "relation": "met"
+   },
+   {
+    "term": "MONITORING_TOOLS",
+    "field": "skills",
+    "phrase": "Monitoring (Datadog/Prometheus)",
+    "relation": "met"
+   },
+   {
+    "term": "TERRAFORM",
+    "field": "projects",
+    "phrase": "Terraform",
+    "relation": "met"
+   },
+   {
+    "term": "AWS",
+    "field": "certifications",
+    "phrase": "AWS",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C071",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "AZURE",
+    "field": "skills",
+    "phrase": "Azure",
+    "relation": "met"
+   },
+   {
+    "term": "CI_CD",
+    "field": "skills",
+    "phrase": "Jenkins",
+    "relation": "met"
+   },
+   {
+    "term": "MONITORING_TOOLS",
+    "field": "skills",
+    "phrase": "Monitoring (Datadog/Prometheus)",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "projects",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   },
+   {
+    "term": "AWS",
+    "field": "certifications",
+    "phrase": "AWS",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C012",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "B2B_OUTREACH",
+    "field": "skills",
+    "phrase": "Outbound prospecting",
+    "relation": "adjacent"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "skills",
+    "phrase": "HubSpot",
+    "relation": "met"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "certifications",
+    "phrase": "HubSpot",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C069",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "TICKETING_SYSTEMS",
+    "field": "skills",
+    "phrase": "Ticketing systems",
+    "relation": "met"
+   },
+   {
+    "term": "TICKETING_SYSTEMS",
+    "field": "certifications",
+    "phrase": "Zendesk",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C052",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "GO_TO_MARKET_STRATEGY",
+    "field": "skills",
+    "phrase": "Go-to-market strategy",
+    "relation": "met"
+   },
+   {
+    "term": "POSITIONING",
+    "field": "skills",
+    "phrase": "Positioning",
+    "relation": "met"
+   },
+   {
+    "term": "CONTENT_CREATION",
+    "field": "skills",
+    "phrase": "Content creation",
+    "relation": "met"
+   },
+   {
+    "term": "FIGMA",
+    "field": "skills",
+    "phrase": "Figma",
+    "relation": "met"
+   },
+   {
+    "term": "POSITIONING",
+    "field": "projects",
+    "phrase": "rebrand project",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C128",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "UAE_COMMERCIAL_LAW",
+    "field": "headline",
+    "phrase": "UAE commercial law",
+    "relation": "met"
+   },
+   {
+    "term": "COMPLIANCE",
+    "field": "skills",
+    "phrase": "Corporate governance",
+    "relation": "adjacent"
+   },
+   {
+    "term": "COMPLIANCE",
+    "field": "skills",
+    "phrase": "Regulatory compliance",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C100",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "COMPLIANCE",
+    "field": "headline",
+    "phrase": "compliance",
+    "relation": "met"
+   },
+   {
+    "term": "CONTRACT_DRAFTING",
+    "field": "skills",
+    "phrase": "Contract drafting",
+    "relation": "met"
+   },
+   {
+    "term": "UAE_COMMERCIAL_LAW",
+    "field": "skills",
+    "phrase": "UAE commercial law",
+    "relation": "met"
+   },
+   {
+    "term": "COMPLIANCE",
+    "field": "skills",
+    "phrase": "Compliance",
+    "relation": "met"
+   },
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "skills",
+    "phrase": "Bilingual Arabic/English",
+    "relation": "met"
+   },
+   {
+    "term": "GCC_CROSS_BORDER",
+    "field": "projects",
+    "phrase": "cross-border JV structuring project",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C058",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "GO_TO_MARKET_STRATEGY",
+    "field": "skills",
+    "phrase": "Go-to-market strategy",
+    "relation": "met"
+   },
+   {
+    "term": "POSITIONING",
+    "field": "skills",
+    "phrase": "Positioning",
+    "relation": "met"
+   },
+   {
+    "term": "CONTENT_CREATION",
+    "field": "skills",
+    "phrase": "Content creation",
+    "relation": "met"
+   },
+   {
+    "term": "FIGMA",
+    "field": "skills",
+    "phrase": "Figma",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C024",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "FINANCIAL_MODELING",
+    "field": "skills",
+    "phrase": "Financial Modeling",
+    "relation": "met"
+   },
+   {
+    "term": "IFRS",
+    "field": "skills",
+    "phrase": "IFRS",
+    "relation": "met"
+   },
+   {
+    "term": "BUDGETING",
+    "field": "skills",
+    "phrase": "Budgeting & Forecasting",
+    "relation": "met"
+   },
+   {
+    "term": "ERP_SYSTEMS",
+    "field": "skills",
+    "phrase": "SAP FICO",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C030",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "FINANCIAL_MODELING",
+    "field": "skills",
+    "phrase": "Financial Modeling",
+    "relation": "met"
+   },
+   {
+    "term": "IFRS",
+    "field": "skills",
+    "phrase": "IFRS",
+    "relation": "met"
+   },
+   {
+    "term": "BUDGETING",
+    "field": "skills",
+    "phrase": "Budgeting & Forecasting",
+    "relation": "met"
+   },
+   {
+    "term": "ERP_SYSTEMS",
+    "field": "skills",
+    "phrase": "SAP FICO",
+    "relation": "met"
+   },
+   {
+    "term": "BUDGETING",
+    "field": "projects",
+    "phrase": "budgeting",
+    "relation": "met"
+   },
+   {
+    "term": "POWER_BI",
+    "field": "projects",
+    "phrase": "Power BI",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C019",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "SAAS_SALES",
+    "field": "headline",
+    "phrase": "B2B Sales",
+    "relation": "adjacent"
+   },
+   {
+    "term": "COLD_CALLING",
+    "field": "skills",
+    "phrase": "Cold calling",
+    "relation": "met"
+   },
+   {
+    "term": "B2B_OUTREACH",
+    "field": "skills",
+    "phrase": "Lead generation",
+    "relation": "adjacent"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "skills",
+    "phrase": "CRM (Salesforce)",
+    "relation": "met"
+   },
+   {
+    "term": "COLD_CALLING",
+    "field": "skills",
+    "phrase": "Objection handling",
+    "relation": "adjacent"
+   },
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "skills",
+    "phrase": "Fluent Arabic & English",
+    "relation": "met"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "certifications",
+    "phrase": "Salesforce",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C098",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "GCC_CROSS_BORDER",
+    "field": "headline",
+    "phrase": "GCC cross-border experience",
+    "relation": "met"
+   },
+   {
+    "term": "COMPLIANCE",
+    "field": "skills",
+    "phrase": "Corporate governance",
+    "relation": "adjacent"
+   },
+   {
+    "term": "COMPLIANCE",
+    "field": "skills",
+    "phrase": "Regulatory compliance",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C013",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "COLD_CALLING",
+    "field": "skills",
+    "phrase": "Cold calling",
+    "relation": "met"
+   },
+   {
+    "term": "B2B_OUTREACH",
+    "field": "skills",
+    "phrase": "Lead generation",
+    "relation": "adjacent"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "skills",
+    "phrase": "CRM (Salesforce)",
+    "relation": "met"
+   },
+   {
+    "term": "COLD_CALLING",
+    "field": "skills",
+    "phrase": "Objection handling",
+    "relation": "adjacent"
+   },
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "skills",
+    "phrase": "Fluent Arabic & English",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C078",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "AWS",
+    "field": "headline",
+    "phrase": "AWS",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "headline",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   },
+   {
+    "term": "CI_CD",
+    "field": "skills",
+    "phrase": "CI/CD pipelines",
+    "relation": "met"
+   },
+   {
+    "term": "DOCKER",
+    "field": "skills",
+    "phrase": "Docker",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "skills",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   },
+   {
+    "term": "AWS",
+    "field": "skills",
+    "phrase": "AWS",
+    "relation": "met"
+   },
+   {
+    "term": "TERRAFORM",
+    "field": "skills",
+    "phrase": "Terraform",
+    "relation": "met"
+   },
+   {
+    "term": "TERRAFORM",
+    "field": "certifications",
+    "phrase": "Terraform",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C033",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "SQL",
+    "field": "headline",
+    "phrase": "SQL",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "headline",
+    "phrase": "Python",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "skills",
+    "phrase": "Python",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "skills",
+    "phrase": "Pandas",
+    "relation": "met"
+   },
+   {
+    "term": "SQL",
+    "field": "skills",
+    "phrase": "SQL",
+    "relation": "met"
+   },
+   {
+    "term": "DATA_VISUALIZATION",
+    "field": "skills",
+    "phrase": "Looker",
+    "relation": "met"
+   },
+   {
+    "term": "STATISTICS",
+    "field": "education",
+    "phrase": "Statistics",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C038",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "SQL",
+    "field": "skills",
+    "phrase": "SQL",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "skills",
+    "phrase": "Python",
+    "relation": "met"
+   },
+   {
+    "term": "TABLEAU",
+    "field": "skills",
+    "phrase": "Tableau",
+    "relation": "met"
+   },
+   {
+    "term": "STATISTICS",
+    "field": "skills",
+    "phrase": "Statistics",
+    "relation": "met"
+   },
+   {
+    "term": "AB_TESTING",
+    "field": "skills",
+    "phrase": "A/B testing",
+    "relation": "met"
+   },
+   {
+    "term": "DATA_VISUALIZATION",
+    "field": "projects",
+    "phrase": "dashboard",
+    "relation": "adjacent"
+   },
+   {
+    "term": "STATISTICS",
+    "field": "education",
+    "phrase": "Statistics",
+    "relation": "met"
+   },
+   {
+    "term": "POWER_BI",
+    "field": "certifications",
+    "phrase": "Microsoft Certified: Data Analyst Associate",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C084",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "TECH_HIRING",
+    "field": "headline",
+    "phrase": "Technical recruiter",
+    "relation": "adjacent"
+   },
+   {
+    "term": "SOURCING",
+    "field": "headline",
+    "phrase": "sourcing",
+    "relation": "met"
+   },
+   {
+    "term": "FULL_CYCLE_RECRUITING",
+    "field": "skills",
+    "phrase": "Full-cycle recruiting",
+    "relation": "met"
+   },
+   {
+    "term": "ATS_TOOLS",
+    "field": "skills",
+    "phrase": "ATS tools",
+    "relation": "met"
+   },
+   {
+    "term": "SOURCING",
+    "field": "skills",
+    "phrase": "Sourcing",
+    "relation": "met"
+   },
+   {
+    "term": "LINKEDIN_RECRUITER",
+    "field": "skills",
+    "phrase": "LinkedIn Recruiter",
+    "relation": "met"
+   },
+   {
+    "term": "LINKEDIN_RECRUITER",
+    "field": "certifications",
+    "phrase": "LinkedIn Certified Professional Recruiter",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C010",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "AWS",
+    "field": "skills",
+    "phrase": "AWS Lambda",
+    "relation": "met"
+   },
+   {
+    "term": "DOCKER",
+    "field": "skills",
+    "phrase": "Docker",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "extra_curriculars",
+    "phrase": "Python",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C027",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "IFRS",
+    "field": "headline",
+    "phrase": "IFRS",
+    "relation": "met"
+   },
+   {
+    "term": "BUDGETING",
+    "field": "headline",
+    "phrase": "budgeting",
+    "relation": "met"
+   },
+   {
+    "term": "FINANCIAL_MODELING",
+    "field": "skills",
+    "phrase": "Financial Modeling",
+    "relation": "met"
+   },
+   {
+    "term": "IFRS",
+    "field": "skills",
+    "phrase": "IFRS",
+    "relation": "met"
+   },
+   {
+    "term": "BUDGETING",
+    "field": "skills",
+    "phrase": "Budgeting & Forecasting",
+    "relation": "met"
+   },
+   {
+    "term": "ERP_SYSTEMS",
+    "field": "skills",
+    "phrase": "SAP FICO",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C097",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "COMPLIANCE",
+    "field": "headline",
+    "phrase": "compliance",
+    "relation": "met"
+   },
+   {
+    "term": "CONTRACT_DRAFTING",
+    "field": "skills",
+    "phrase": "Contract drafting",
+    "relation": "met"
+   },
+   {
+    "term": "UAE_COMMERCIAL_LAW",
+    "field": "skills",
+    "phrase": "UAE commercial law",
+    "relation": "met"
+   },
+   {
+    "term": "COMPLIANCE",
+    "field": "skills",
+    "phrase": "Compliance",
+    "relation": "met"
+   },
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "skills",
+    "phrase": "Bilingual Arabic/English",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C102",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "GCC_CROSS_BORDER",
+    "field": "headline",
+    "phrase": "GCC experience",
+    "relation": "adjacent"
+   },
+   {
+    "term": "EMPLOYEE_RELATIONS",
+    "field": "skills",
+    "phrase": "Employee engagement",
+    "relation": "adjacent"
+   },
+   {
+    "term": "HRIS",
+    "field": "skills",
+    "phrase": "Workday",
+    "relation": "met"
+   },
+   {
+    "term": "EMPLOYEE_RELATIONS",
+    "field": "projects",
+    "phrase": "employee engagement",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C002",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "PYTHON",
+    "field": "skills",
+    "phrase": "Python",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "skills",
+    "phrase": "Django",
+    "relation": "met"
+   },
+   {
+    "term": "POSTGRESQL",
+    "field": "skills",
+    "phrase": "PostgreSQL",
+    "relation": "met"
+   },
+   {
+    "term": "AWS",
+    "field": "skills",
+    "phrase": "AWS",
+    "relation": "met"
+   },
+   {
+    "term": "DOCKER",
+    "field": "skills",
+    "phrase": "Docker",
+    "relation": "met"
+   },
+   {
+    "term": "REST_APIS",
+    "field": "skills",
+    "phrase": "REST API design",
+    "relation": "met"
+   },
+   {
+    "term": "CI_CD",
+    "field": "skills",
+    "phrase": "CI/CD",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "extra_curriculars",
+    "phrase": "Python",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C075",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "CI_CD",
+    "field": "skills",
+    "phrase": "CI/CD pipelines",
+    "relation": "met"
+   },
+   {
+    "term": "DOCKER",
+    "field": "skills",
+    "phrase": "Docker",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "skills",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   },
+   {
+    "term": "AWS",
+    "field": "skills",
+    "phrase": "AWS",
+    "relation": "met"
+   },
+   {
+    "term": "TERRAFORM",
+    "field": "skills",
+    "phrase": "Terraform",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "projects",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C104",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "SQL",
+    "field": "headline",
+    "phrase": "SQL",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "headline",
+    "phrase": "Python",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "skills",
+    "phrase": "Python",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "skills",
+    "phrase": "Pandas",
+    "relation": "met"
+   },
+   {
+    "term": "SQL",
+    "field": "skills",
+    "phrase": "SQL",
+    "relation": "met"
+   },
+   {
+    "term": "DATA_VISUALIZATION",
+    "field": "skills",
+    "phrase": "Looker",
+    "relation": "met"
+   },
+   {
+    "term": "STATISTICS",
+    "field": "education",
+    "phrase": "Statistics",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C045",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "EMPLOYEE_RELATIONS",
+    "field": "skills",
+    "phrase": "Employee engagement",
+    "relation": "adjacent"
+   },
+   {
+    "term": "HRIS",
+    "field": "skills",
+    "phrase": "Workday",
+    "relation": "met"
+   },
+   {
+    "term": "EMPLOYEE_RELATIONS",
+    "field": "projects",
+    "phrase": "employee engagement",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C068",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "TROUBLESHOOTING",
+    "field": "headline",
+    "phrase": "troubleshooting",
+    "relation": "met"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "skills",
+    "phrase": "CRM tools",
+    "relation": "met"
+   },
+   {
+    "term": "TICKETING_SYSTEMS",
+    "field": "skills",
+    "phrase": "Escalation handling",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C018",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "COLD_CALLING",
+    "field": "skills",
+    "phrase": "Cold calling",
+    "relation": "met"
+   },
+   {
+    "term": "B2B_OUTREACH",
+    "field": "skills",
+    "phrase": "Lead generation",
+    "relation": "adjacent"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "skills",
+    "phrase": "CRM (Salesforce)",
+    "relation": "met"
+   },
+   {
+    "term": "COLD_CALLING",
+    "field": "skills",
+    "phrase": "Objection handling",
+    "relation": "adjacent"
+   },
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "skills",
+    "phrase": "Fluent Arabic & English",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C112",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "PYTHON",
+    "field": "extra_curriculars",
+    "phrase": "Python",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "certifications",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C073",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "AWS",
+    "field": "headline",
+    "phrase": "AWS",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "headline",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   },
+   {
+    "term": "CI_CD",
+    "field": "skills",
+    "phrase": "CI/CD pipelines",
+    "relation": "met"
+   },
+   {
+    "term": "DOCKER",
+    "field": "skills",
+    "phrase": "Docker",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "skills",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   },
+   {
+    "term": "AWS",
+    "field": "skills",
+    "phrase": "AWS",
+    "relation": "met"
+   },
+   {
+    "term": "TERRAFORM",
+    "field": "skills",
+    "phrase": "Terraform",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "projects",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   },
+   {
+    "term": "AWS",
+    "field": "certifications",
+    "phrase": "AWS",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C008",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "PYTHON",
+    "field": "skills",
+    "phrase": "Python",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "skills",
+    "phrase": "Django",
+    "relation": "met"
+   },
+   {
+    "term": "POSTGRESQL",
+    "field": "skills",
+    "phrase": "PostgreSQL",
+    "relation": "met"
+   },
+   {
+    "term": "AWS",
+    "field": "skills",
+    "phrase": "AWS",
+    "relation": "met"
+   },
+   {
+    "term": "DOCKER",
+    "field": "skills",
+    "phrase": "Docker",
+    "relation": "met"
+   },
+   {
+    "term": "REST_APIS",
+    "field": "skills",
+    "phrase": "REST API design",
+    "relation": "met"
+   },
+   {
+    "term": "CI_CD",
+    "field": "skills",
+    "phrase": "CI/CD",
+    "relation": "met"
+   },
+   {
+    "term": "PYTHON",
+    "field": "projects",
+    "phrase": "Django",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "certifications",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C050",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "EMPLOYEE_RELATIONS",
+    "field": "skills",
+    "phrase": "Policy design",
+    "relation": "adjacent"
+   },
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "skills",
+    "phrase": "Arabic fluency",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C110",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "EMPLOYEE_RELATIONS",
+    "field": "skills",
+    "phrase": "Policy design",
+    "relation": "adjacent"
+   },
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "skills",
+    "phrase": "Arabic fluency",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C020",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "COLD_CALLING",
+    "field": "skills",
+    "phrase": "Cold calling",
+    "relation": "met"
+   },
+   {
+    "term": "B2B_OUTREACH",
+    "field": "skills",
+    "phrase": "Lead generation",
+    "relation": "adjacent"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "skills",
+    "phrase": "CRM (Salesforce)",
+    "relation": "met"
+   },
+   {
+    "term": "COLD_CALLING",
+    "field": "skills",
+    "phrase": "Objection handling",
+    "relation": "adjacent"
+   },
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "skills",
+    "phrase": "Fluent Arabic & English",
+    "relation": "met"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "projects",
+    "phrase": "Salesforce",
+    "relation": "met"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "certifications",
+    "phrase": "Salesforce",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C047",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "EMPLOYEE_RELATIONS",
+    "field": "headline",
+    "phrase": "employee relations",
+    "relation": "met"
+   },
+   {
+    "term": "UAE_LABOR_LAW",
+    "field": "headline",
+    "phrase": "UAE labor law",
+    "relation": "met"
+   },
+   {
+    "term": "EMPLOYEE_RELATIONS",
+    "field": "skills",
+    "phrase": "Policy design",
+    "relation": "adjacent"
+   },
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "skills",
+    "phrase": "Arabic fluency",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C085",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "TECH_HIRING",
+    "field": "skills",
+    "phrase": "Technical hiring",
+    "relation": "met"
+   },
+   {
+    "term": "SOURCING",
+    "field": "skills",
+    "phrase": "Boolean search",
+    "relation": "adjacent"
+   },
+   {
+    "term": "FULL_CYCLE_RECRUITING",
+    "field": "skills",
+    "phrase": "Interview coordination",
+    "relation": "adjacent"
+   },
+   {
+    "term": "LINKEDIN_RECRUITER",
+    "field": "certifications",
+    "phrase": "LinkedIn Certified Professional Recruiter",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C011",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "COLD_CALLING",
+    "field": "skills",
+    "phrase": "Cold calling",
+    "relation": "met"
+   },
+   {
+    "term": "B2B_OUTREACH",
+    "field": "skills",
+    "phrase": "Lead generation",
+    "relation": "adjacent"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "skills",
+    "phrase": "CRM (Salesforce)",
+    "relation": "met"
+   },
+   {
+    "term": "COLD_CALLING",
+    "field": "skills",
+    "phrase": "Objection handling",
+    "relation": "adjacent"
+   },
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "skills",
+    "phrase": "Fluent Arabic & English",
+    "relation": "met"
+   },
+   {
+    "term": "CRM_TOOLS",
+    "field": "certifications",
+    "phrase": "Salesforce",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C082",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "TECH_HIRING",
+    "field": "headline",
+    "phrase": "Talent acquisition specialist, tech",
+    "relation": "adjacent"
+   },
+   {
+    "term": "FULL_CYCLE_RECRUITING",
+    "field": "skills",
+    "phrase": "Full-cycle recruiting",
+    "relation": "met"
+   },
+   {
+    "term": "ATS_TOOLS",
+    "field": "skills",
+    "phrase": "ATS tools",
+    "relation": "met"
+   },
+   {
+    "term": "SOURCING",
+    "field": "skills",
+    "phrase": "Sourcing",
+    "relation": "met"
+   },
+   {
+    "term": "LINKEDIN_RECRUITER",
+    "field": "skills",
+    "phrase": "LinkedIn Recruiter",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C080",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "AWS",
+    "field": "headline",
+    "phrase": "AWS",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "headline",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   },
+   {
+    "term": "CI_CD",
+    "field": "skills",
+    "phrase": "CI/CD pipelines",
+    "relation": "met"
+   },
+   {
+    "term": "DOCKER",
+    "field": "skills",
+    "phrase": "Docker",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "skills",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   },
+   {
+    "term": "AWS",
+    "field": "skills",
+    "phrase": "AWS",
+    "relation": "met"
+   },
+   {
+    "term": "TERRAFORM",
+    "field": "skills",
+    "phrase": "Terraform",
+    "relation": "met"
+   },
+   {
+    "term": "TERRAFORM",
+    "field": "projects",
+    "phrase": "Terraform",
+    "relation": "met"
+   },
+   {
+    "term": "KUBERNETES",
+    "field": "certifications",
+    "phrase": "Kubernetes",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C055",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "POSITIONING",
+    "field": "headline",
+    "phrase": "positioning",
+    "relation": "met"
+   },
+   {
+    "term": "GO_TO_MARKET_STRATEGY",
+    "field": "skills",
+    "phrase": "Go-to-market strategy",
+    "relation": "met"
+   },
+   {
+    "term": "POSITIONING",
+    "field": "skills",
+    "phrase": "Positioning",
+    "relation": "met"
+   },
+   {
+    "term": "CONTENT_CREATION",
+    "field": "skills",
+    "phrase": "Content creation",
+    "relation": "met"
+   },
+   {
+    "term": "FIGMA",
+    "field": "skills",
+    "phrase": "Figma",
+    "relation": "met"
+   },
+   {
+    "term": "CONTENT_CREATION",
+    "field": "projects",
+    "phrase": "Ran a personal newsletter",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C063",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "TICKETING_SYSTEMS",
+    "field": "skills",
+    "phrase": "Zendesk",
+    "relation": "met"
+   },
+   {
+    "term": "TROUBLESHOOTING",
+    "field": "skills",
+    "phrase": "Troubleshooting",
+    "relation": "met"
+   },
+   {
+    "term": "WRITTEN_COMMUNICATION",
+    "field": "skills",
+    "phrase": "Written communication",
+    "relation": "met"
+   },
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "skills",
+    "phrase": "Arabic + English bilingual",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C062",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "ARABIC_LANGUAGE",
+    "field": "headline",
+    "phrase": "Arabic/English",
+    "relation": "met"
+   },
+   {
+    "term": "TICKETING_SYSTEMS",
+    "field": "skills",
+    "phrase": "Ticketing systems",
+    "relation": "met"
+   },
+   {
+    "term": "WRITTEN_COMMUNICATION",
+    "field": "projects",
+    "phrase": "Created an internal FAQ knowledge base",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C042",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "GCC_CROSS_BORDER",
+    "field": "headline",
+    "phrase": "GCC experience",
+    "relation": "adjacent"
+   },
+   {
+    "term": "EMPLOYEE_RELATIONS",
+    "field": "skills",
+    "phrase": "Employee engagement",
+    "relation": "adjacent"
+   },
+   {
+    "term": "HRIS",
+    "field": "skills",
+    "phrase": "Workday",
+    "relation": "met"
+   },
+   {
+    "term": "EMPLOYEE_RELATIONS",
+    "field": "projects",
+    "phrase": "employee engagement",
+    "relation": "adjacent"
+   }
+  ],
+  "rejected": []
+ },
+ {
+  "candidate_id": "C039",
+  "partial": false,
+  "failed_groups": [],
+  "mentions": [
+   {
+    "term": "SQL",
+    "field": "skills",
+    "phrase": "SQL",
+    "relation": "met"
+   },
+   {
+    "term": "R",
+    "field": "skills",
+    "phrase": "R",
+    "relation": "met"
+   },
+   {
+    "term": "POWER_BI",
+    "field": "skills",
+    "phrase": "Power BI",
+    "relation": "met"
+   },
+   {
+    "term": "DATA_VISUALIZATION",
+    "field": "skills",
+    "phrase": "Data visualization",
+    "relation": "met"
+   },
+   {
+    "term": "EXCEL",
+    "field": "skills",
+    "phrase": "Excel/advanced",
+    "relation": "met"
+   },
+   {
+    "term": "STATISTICS",
+    "field": "education",
+    "phrase": "Statistics",
+    "relation": "met"
+   }
+  ],
+  "rejected": []
+ }
+]
