@@ -17,6 +17,7 @@ from langgraph.checkpoint.sqlite import SqliteSaver
 from langgraph.types import Command
 
 from agent.graph import build_graph
+from agent.observability import build_run_config
 from agent.slack import DefaultSlackClient
 from engine.config import load_config
 from engine.extract import load_links
@@ -82,7 +83,10 @@ def main() -> None:
 
     role_id = input("\npick a role id: ").strip()
     thread_id = f"cli-{role_id}"
-    cfg_run = {"configurable": {"thread_id": thread_id}}
+    cfg_run = {
+        "configurable": {"thread_id": thread_id},
+        **build_run_config(cfg, thread_id, role_id=role_id, taxonomy_version=taxonomy.version),
+    }
 
     state = graph.invoke({"role_id": role_id}, config=cfg_run)
     while "__interrupt__" in state:

@@ -90,18 +90,22 @@ post somewhere unintended. **It is a bearer credential** — anyone holding it c
 ### Optional — Langfuse tracing
 
 ```bash
-LANGFUSE_HOST=http://localhost:3000
-LANGFUSE_PUBLIC_KEY=pk-lf-...
-LANGFUSE_SECRET_KEY=sk-lf-...
-```
-
-```bash
 cd observability && docker compose up -d
 ```
 
-Open <http://localhost:3000>, create an account (it is your own instance, the data never leaves the
-machine), make a project, and paste its two keys into `.env`. Everything runs without this — traces are
-for understanding the run, not for producing it.
+Six containers — `langfuse-web`, `langfuse-worker`, `postgres`, `clickhouse`, `redis`, `minio` — all
+self-hosted, all local, data never leaves the machine. The compose file auto-provisions one org, project,
+user and API key pair on first boot, so the `LANGFUSE_PUBLIC_KEY` / `LANGFUSE_SECRET_KEY` already in
+`.env.example` work immediately — no manual sign-up. Open <http://localhost:3000> (`dev@localhost`,
+password in `observability/docker-compose.yml`) to see traces.
+
+LangGraph is LangChain-compatible, so one `CallbackHandler` (`agent/observability.py`) instruments the
+whole graph — every node becomes a span, every model call inside it a generation with its prompt,
+response, token counts and cost. Every trace is tagged with the role id (and, from the CLI, the taxonomy
+version); traces from the same chat session are grouped together in the Langfuse UI, since each interrupt
+resume is a separate `graph.invoke()` call and can only be tied to the others by session, not by one
+continuous span. Everything runs without this — traces are for understanding the run, not for producing
+it, which is why `build_run_config()` returns `{}` and changes nothing when the three env vars aren't set.
 
 ---
 

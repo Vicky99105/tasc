@@ -21,6 +21,8 @@ from langgraph.types import Command
 from pydantic import BaseModel
 
 from agent.intent import classify_decision, classify_role, resume_payload
+from agent.observability import build_run_config
+from engine.config import Config
 from engine.ingest import Role
 
 GATE_DECISIONS = {
@@ -58,12 +60,17 @@ def _summarize_node(node: str, update: dict) -> dict:
     return {}
 
 
-def create_app(llm, graph, roles: list[Role]) -> FastAPI:
+def create_app(llm, graph, roles: list[Role], app_cfg: Config | None = None) -> FastAPI:
     app = FastAPI()
     sessions: dict[str, dict] = {}  # session_id -> {"role_id": str|None, "awaiting_gate": str|None}
 
     def stream_graph(session_id: str, session: dict, stream_input):
         cfg = {"configurable": {"thread_id": f"web-{session_id}-{session['role_id']}"}}
+        if app_cfg is not None:
+            # assessment_key isn't known until compile_rubric runs inside this
+            # very call, so it can't be a config-time tag here; role_id and
+            # taxonomy_version are enough to find a session in the Langfuse UI.
+            cfg = {**cfg, **build_run_config(app_cfg, session_id, role_id=session.get("role_id"))}
         for chunk in graph.stream(stream_input, config=cfg, stream_mode="updates"):
             if "__interrupt__" in chunk:
                 payload = chunk["__interrupt__"][0].value
@@ -147,7 +154,7 @@ def build_default_app() -> FastAPI:
     conn = sqlite3.connect("data/app.db", check_same_thread=False)
     checkpointer = SqliteSaver(conn)
     graph = build_graph(llm, taxonomy, result.candidates, links, slack, checkpointer)
-    return create_app(llm, graph, roles)
+    return create_app(llm, graph, roles, app_cfg=cfg)
 
 
 if __name__ == "__main__":
