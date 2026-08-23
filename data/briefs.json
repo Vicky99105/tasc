@@ -1,0 +1,4677 @@
+[
+ {
+  "role_id": "R001",
+  "candidate_id": "C009",
+  "total": 87.5,
+  "strengths": [
+   {
+    "source": "Python",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Python",
+    "score": 1.0
+   },
+   {
+    "source": "REST APIs",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "REST API design",
+    "score": 1.0
+   },
+   {
+    "source": "PostgreSQL",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "PostgreSQL",
+    "score": 1.0
+   },
+   {
+    "source": "AWS",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "AWS",
+    "score": 1.0
+   },
+   {
+    "source": "Kubernetes",
+    "via": "direct",
+    "field": "certifications",
+    "phrase": "Kubernetes",
+    "score": 0.75
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Kafka\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"1 month\" \u2014 not immediately available"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Cairo, Egypt \u2014 not the role's location"
+   }
+  ],
+  "summary": "C009 demonstrates core backend competencies with listed skills in Python, REST API design, PostgreSQL, and AWS, supplemented by a certification in Kubernetes.",
+  "differentiator": "Shares an identical skills and certification profile and Cairo location with C008, but has longer implied experience (5.84 years vs. 3.58 years) and a shorter notice period of 1 month compared to C008's 2 months.",
+  "questions": [
+   "Your profile does not mention Kafka; have you worked with Kafka or similar message streaming platforms in your backend projects?",
+   "You have a 1-month notice period listed; can this timeline be adjusted or negotiated if an earlier start date is required?",
+   "You are currently located in Cairo, Egypt; are you open to relocating or working aligned with our specific location requirements?"
+  ]
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C002",
+  "total": 85.6,
+  "strengths": [
+   {
+    "source": "Python",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Python",
+    "score": 1.0
+   },
+   {
+    "source": "REST APIs",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "REST API design",
+    "score": 1.0
+   },
+   {
+    "source": "PostgreSQL",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "PostgreSQL",
+    "score": 1.0
+   },
+   {
+    "source": "AWS",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "AWS",
+    "score": 1.0
+   },
+   {
+    "source": "Kubernetes",
+    "via": "adjacent",
+    "field": "skills",
+    "phrase": "Docker",
+    "score": 0.6
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Kafka\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "adjacent_substitution",
+    "detail": "\"Kubernetes\" (preferred) \u2014 credited via a related skill (\"Docker\"), not named directly"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects, certifications listed on the profile"
+   }
+  ],
+  "summary": "C002 covers the primary backend requirements with direct skills in Python, REST API design, PostgreSQL, and AWS, backed by Docker skills for containerization.",
+  "differentiator": "Holds the highest implied experience (6.83 years) among finalists, but is the only candidate lacking listed projects or certifications and whose Kubernetes background is inferred via Docker rather than direct mention.",
+  "questions": [
+   "There is no mention of Kafka on your profile; what experience, if any, do you have with event streaming or Kafka-based architectures?",
+   "Your containerization experience is listed under Docker; have you directly managed or deployed workloads using Kubernetes in production?",
+   "Your profile does not list any formal certifications or project details; could you share examples of production backend systems you have built recently?"
+  ]
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C008",
+  "total": 85.0,
+  "strengths": [
+   {
+    "source": "Python",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Python",
+    "score": 1.0
+   },
+   {
+    "source": "REST APIs",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "REST API design",
+    "score": 1.0
+   },
+   {
+    "source": "PostgreSQL",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "PostgreSQL",
+    "score": 1.0
+   },
+   {
+    "source": "AWS",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "AWS",
+    "score": 1.0
+   },
+   {
+    "source": "Kubernetes",
+    "via": "direct",
+    "field": "certifications",
+    "phrase": "Kubernetes",
+    "score": 0.75
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Kafka\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"2 months\" \u2014 not immediately available"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Cairo, Egypt \u2014 not the role's location"
+   }
+  ],
+  "summary": "C008 is a solid backend fit with verified skills in Python, REST API design, PostgreSQL, and AWS, alongside a Kubernetes certification.",
+  "differentiator": "Mirrors C009's skill set, Kubernetes certification, and Cairo location, but brings shorter implied experience (3.58 years) and a longer notice period of 2 months.",
+  "questions": [
+   "We didn't see Kafka listed on your profile; do you have experience implementing Kafka or event-driven messaging systems?",
+   "You indicated a 2-month notice period; is there any flexibility to expedite your availability for this role?",
+   "Given that you are based in Cairo, Egypt, what are your arrangements or expectations regarding our role's location?"
+  ]
+ },
+ {
+  "role_id": "R001",
+  "candidate_id": "C001",
+  "total": 61.1,
+  "strengths": [
+   {
+    "source": "Python",
+    "via": "direct",
+    "field": "projects",
+    "phrase": "Django",
+    "score": 1.0
+   },
+   {
+    "source": "Kubernetes",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Kubernetes",
+    "score": 1.0
+   },
+   {
+    "source": "AWS",
+    "via": "direct",
+    "field": "certifications",
+    "phrase": "AWS",
+    "score": 0.75
+   },
+   {
+    "source": "REST APIs",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Microservices",
+    "score": 0.6
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"PostgreSQL\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Kafka\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"90 days notice\" \u2014 not immediately available"
+   }
+  ],
+  "summary": "C001 brings backend experience with Django from projects, Kubernetes and Microservices skills, alongside an AWS certification.",
+  "differentiator": "The only finalist lacking PostgreSQL experience on their profile, while being the only candidate with direct Kubernetes skills (rather than a certification or adjacent credit) and having the longest notice period at 90 days.",
+  "questions": [
+   "PostgreSQL is a core requirement for this role but is not listed on your profile; what experience do you have working with PostgreSQL or relational databases?",
+   "Your profile does not list Kafka; have you used Kafka or alternative message brokers in your microservices implementations?",
+   "You have a 90-day notice period listed; is there any possibility of negotiating an earlier departure with your current employer?"
+  ]
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C014",
+  "total": 83.0,
+  "strengths": [
+   {
+    "source": "CRM tools (Salesforce/HubSpot)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "CRM (Salesforce)",
+    "score": 1.0
+   },
+   {
+    "source": "cold calling",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Cold calling",
+    "score": 1.0
+   },
+   {
+    "source": "Arabic fluency",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Fluent Arabic & English",
+    "score": 1.0
+   },
+   {
+    "source": "B2B outreach",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Lead generation",
+    "score": 0.6
+   },
+   {
+    "source": "SaaS sales experience",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "B2B Sales",
+    "score": 0.54
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "empty_field",
+    "detail": "no projects listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"2 months\" \u2014 not immediately available"
+   }
+  ],
+  "summary": "C014 brings a background in B2B sales cited in their headline, alongside demonstrated skills in CRM (Salesforce), cold calling, lead generation, and bilingual fluency in Arabic and English.",
+  "differentiator": "On paper, C014 is virtually identical in headline, skill profile, experience tenure (implied 5.63y), and gaps to candidate C106.",
+  "questions": [
+   "Your profile does not include any listed projects; can you describe a key outreach or sales campaign you led and its outcome?",
+   "Given your 2-month notice period, how flexible is your timeline for transitioning into this role?"
+  ]
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C106",
+  "total": 83.0,
+  "strengths": [
+   {
+    "source": "CRM tools (Salesforce/HubSpot)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "CRM (Salesforce)",
+    "score": 1.0
+   },
+   {
+    "source": "cold calling",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Cold calling",
+    "score": 1.0
+   },
+   {
+    "source": "Arabic fluency",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Fluent Arabic & English",
+    "score": 1.0
+   },
+   {
+    "source": "B2B outreach",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Lead generation",
+    "score": 0.6
+   },
+   {
+    "source": "SaaS sales experience",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "B2B Sales",
+    "score": 0.54
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "empty_field",
+    "detail": "no projects listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"2 months\" \u2014 not immediately available"
+   }
+  ],
+  "summary": "C106 presents verified skills in Salesforce CRM, cold calling, lead generation, and fluent Arabic and English, paired with SaaS/B2B sales experience indicated in their headline.",
+  "differentiator": "C106 looks identical on paper to candidate C014, sharing the same headline, skills breakdown, implied 5.63 years of experience, and notice period constraints.",
+  "questions": [
+   "You have no projects listed on your profile; could you walk us through a specific sales initiative or campaign you executed?",
+   "How firm is your 2-month notice period, and would you be able to begin any earlier if an offer is extended?"
+  ]
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C019",
+  "total": 83.0,
+  "strengths": [
+   {
+    "source": "CRM tools (Salesforce/HubSpot)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "CRM (Salesforce)",
+    "score": 1.0
+   },
+   {
+    "source": "cold calling",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Cold calling",
+    "score": 1.0
+   },
+   {
+    "source": "Arabic fluency",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Fluent Arabic & English",
+    "score": 1.0
+   },
+   {
+    "source": "B2B outreach",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Lead generation",
+    "score": 0.6
+   },
+   {
+    "source": "SaaS sales experience",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "B2B Sales",
+    "score": 0.54
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "empty_field",
+    "detail": "no extra_curriculars listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"2 weeks notice\" \u2014 not immediately available"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Jeddah, Saudi Arabia \u2014 not the role's location"
+   }
+  ],
+  "summary": "C019 aligns well with the rubric through skills in Salesforce CRM, cold calling, lead generation, and bilingual Arabic fluency, backed by B2B sales background in their headline.",
+  "differentiator": "C019 has the longest tenure among the finalists with implied 8.63 years of experience, but is based out of Jeddah, Saudi Arabia.",
+  "questions": [
+   "Are there any relevant extracurricular activities or professional community engagements outside work you participate in that are not listed on your profile?",
+   "Can you confirm whether your 2 weeks notice period can be initiated immediately upon an offer?",
+   "This role requires being in our target location; what are your relocation plans or constraints regarding your current base in Jeddah, Saudi Arabia?"
+  ]
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C013",
+  "total": 79.0,
+  "strengths": [
+   {
+    "source": "CRM tools (Salesforce/HubSpot)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "CRM (Salesforce)",
+    "score": 1.0
+   },
+   {
+    "source": "cold calling",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Cold calling",
+    "score": 1.0
+   },
+   {
+    "source": "Arabic fluency",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Fluent Arabic & English",
+    "score": 1.0
+   },
+   {
+    "source": "B2B outreach",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Lead generation",
+    "score": 0.6
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"SaaS sales experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no certifications listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Cairo, Egypt \u2014 not the role's location"
+   }
+  ],
+  "summary": "C013 possesses key SDR capabilities with direct skills in CRM (Salesforce), cold calling, lead generation, and Arabic and English fluency.",
+  "differentiator": "Unlike the top-scoring finalists, C013 does not have explicit SaaS or B2B sales background in their headline and is currently based in Cairo, Egypt.",
+  "questions": [
+   "Your profile does not explicitly list SaaS sales experience; have you previously sold software-as-a-service products, and if so, in what capacity?",
+   "Are there any professional sales certifications or training programs you have completed that are missing from your profile?",
+   "Since you are located in Cairo, Egypt, what is your availability and willingness to relocate or work aligned to the role's designated location?"
+  ]
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C020",
+  "total": 79.0,
+  "strengths": [
+   {
+    "source": "CRM tools (Salesforce/HubSpot)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "CRM (Salesforce)",
+    "score": 1.0
+   },
+   {
+    "source": "cold calling",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Cold calling",
+    "score": 1.0
+   },
+   {
+    "source": "Arabic fluency",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Fluent Arabic & English",
+    "score": 1.0
+   },
+   {
+    "source": "B2B outreach",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Lead generation",
+    "score": 0.6
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"SaaS sales experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no extra_curriculars listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Sharjah, UAE \u2014 not the role's location"
+   }
+  ],
+  "summary": "C020 demonstrates core strengths across lead generation, cold calling, Salesforce CRM, and fluent Arabic and English.",
+  "differentiator": "C020 claims 10 years of experience (implied 5.34y) and is located in Sharjah, UAE, lacking the headline-level SaaS sales mention seen in higher-ranked candidates.",
+  "questions": [
+   "Could you outline any direct experience you have had in selling SaaS or subscription-based technology solutions?",
+   "Do you have any relevant extracurricular involvements or industry associations that are not detailed on your resume?",
+   "Given your current location in Sharjah, UAE, are you open to commuting or relocating to the role's primary location?"
+  ]
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C018",
+  "total": 77.8,
+  "strengths": [
+   {
+    "source": "CRM tools (Salesforce/HubSpot)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "CRM (Salesforce)",
+    "score": 1.0
+   },
+   {
+    "source": "cold calling",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Cold calling",
+    "score": 1.0
+   },
+   {
+    "source": "Arabic fluency",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Fluent Arabic & English",
+    "score": 1.0
+   },
+   {
+    "source": "B2B outreach",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Lead generation",
+    "score": 0.6
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"SaaS sales experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects, certifications listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"30 days notice\" \u2014 not immediately available"
+   }
+  ],
+  "summary": "C018 qualifies with relevant skills in Salesforce CRM, cold calling, lead generation, and bilingual Arabic and English proficiency.",
+  "differentiator": "C018 has the shortest tenure in the finalist pool (implied 4.54y) and lacks both projects and certifications on their profile.",
+  "questions": [
+   "Do you have prior experience selling SaaS solutions, and what did your typical sales cycle look like?",
+   "Could you tell us about any notable sales projects or industry certifications you have attained that are not recorded on your profile?",
+   "Can you confirm your availability given your 30 days notice period, and is there any flexibility to start sooner?"
+  ]
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C011",
+  "total": 77.8,
+  "strengths": [
+   {
+    "source": "CRM tools (Salesforce/HubSpot)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "CRM (Salesforce)",
+    "score": 1.0
+   },
+   {
+    "source": "cold calling",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Cold calling",
+    "score": 1.0
+   },
+   {
+    "source": "Arabic fluency",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Fluent Arabic & English",
+    "score": 1.0
+   },
+   {
+    "source": "B2B outreach",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Lead generation",
+    "score": 0.6
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"SaaS sales experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"2 weeks notice\" \u2014 not immediately available"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Beirut, Lebanon \u2014 not the role's location"
+   }
+  ],
+  "summary": "C011 covers the core SDR competencies with proven skills in Salesforce CRM, cold calling, lead generation, and fluent Arabic and English.",
+  "differentiator": "C011 matches C020 in headline phrasing and core skills, but is distinguished by being based in Beirut, Lebanon with an implied 6.04 years of experience.",
+  "questions": [
+   "Have you had exposure to SaaS sales models or tech product outreach in your previous sales positions?",
+   "How would you manage your transition given your stated 2 weeks notice period?",
+   "Are you prepared to relocate from Beirut, Lebanon for this position?"
+  ]
+ },
+ {
+  "role_id": "R002",
+  "candidate_id": "C017",
+  "total": 75.2,
+  "strengths": [
+   {
+    "source": "CRM tools (Salesforce/HubSpot)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "CRM (Salesforce)",
+    "score": 1.0
+   },
+   {
+    "source": "cold calling",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Cold calling",
+    "score": 1.0
+   },
+   {
+    "source": "Arabic fluency",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Fluent Arabic & English",
+    "score": 1.0
+   },
+   {
+    "source": "B2B outreach",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Lead generation",
+    "score": 0.6
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"SaaS sales experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects, extra_curriculars listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"60 days\" \u2014 not immediately available"
+   }
+  ],
+  "summary": "C017 is a viable candidate grounded in skills for Salesforce CRM, cold calling, lead generation, and bilingual fluency in Arabic and English.",
+  "differentiator": "C017 has the lowest overall score among the finalists, combining a 60-day notice period with missing project and extracurricular profile entries.",
+  "questions": [
+   "What direct exposure or background do you have in SaaS sales environments?",
+   "Can you highlight any sales projects or extracurricular activities you have engaged in that are not shown on your profile?",
+   "Considering your 60 days notice requirement, would you be able to negotiate an earlier departure date with your current employer?"
+  ]
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C023",
+  "total": 81.7,
+  "strengths": [
+   {
+    "source": "Excel/advanced",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Excel/advanced",
+    "score": 1.0
+   },
+   {
+    "source": "ERP systems (SAP/Oracle)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Oracle ERP",
+    "score": 1.0
+   },
+   {
+    "source": "IFRS",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "IFRS",
+    "score": 0.9
+   },
+   {
+    "source": "budgeting",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "budgeting",
+    "score": 0.9
+   },
+   {
+    "source": "Financial modeling",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Financial analysis",
+    "score": 0.6
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Power BI\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"2 weeks notice\" \u2014 not immediately available"
+   }
+  ],
+  "summary": "C023 is a strong fit offering direct skills in advanced Excel, Oracle ERP, and financial analysis, supported by explicit headline expertise in IFRS and budgeting.",
+  "differentiator": "Unlike most other finalists who have SAP FICO or lack listed advanced spreadsheet capabilities, C023 directly validates both advanced Excel and Oracle ERP in their skills.",
+  "questions": [
+   "Could you describe your practical experience utilizing Power BI for financial dashboards or reporting?",
+   "Could you walk us through a key finance or accounting project you led that demonstrates your technical impact?",
+   "How would your two-week notice period align with our timeline for onboarding into this role?"
+  ]
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C030",
+  "total": 79.0,
+  "strengths": [
+   {
+    "source": "Financial modeling",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Financial Modeling",
+    "score": 1.0
+   },
+   {
+    "source": "IFRS",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "IFRS",
+    "score": 1.0
+   },
+   {
+    "source": "budgeting",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Budgeting & Forecasting",
+    "score": 1.0
+   },
+   {
+    "source": "Power BI",
+    "via": "direct",
+    "field": "projects",
+    "phrase": "Power BI",
+    "score": 1.0
+   },
+   {
+    "source": "ERP systems (SAP/Oracle)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "SAP FICO",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"Excel/advanced\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no extra_curriculars listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Cairo, Egypt \u2014 not the role's location"
+   }
+  ],
+  "summary": "C030 brings solid FP&A experience with direct skills in financial modeling, IFRS, budgeting, SAP FICO, and proven Power BI project delivery.",
+  "differentiator": "C030 is one of the few finalists with demonstrated Power BI implementation in projects alongside core SAP FICO experience.",
+  "questions": [
+   "What is your proficiency level with advanced Excel functions, macros, or complex spreadsheet modeling?",
+   "Are there any professional activities or extra-curricular engagements outside your primary roles that support your continuous learning?",
+   "Given that you are located in Cairo, Egypt, what are your relocation plans or remote work expectations for this role?"
+  ]
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C027",
+  "total": 76.5,
+  "strengths": [
+   {
+    "source": "Financial modeling",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Financial Modeling",
+    "score": 1.0
+   },
+   {
+    "source": "IFRS",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "IFRS",
+    "score": 1.0
+   },
+   {
+    "source": "budgeting",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Budgeting & Forecasting",
+    "score": 1.0
+   },
+   {
+    "source": "ERP systems (SAP/Oracle)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "SAP FICO",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"Excel/advanced\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Power BI\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects, certifications listed on the profile"
+   }
+  ],
+  "summary": "C027 demonstrates core finance competencies with verified skills in financial modeling, IFRS, budgeting and forecasting, and SAP FICO.",
+  "differentiator": "C027 presents a standard skill set identical to C021, C024, and C028, but lacks both projects and certifications on their profile.",
+  "questions": [
+   "How extensively have you used advanced Excel tools like complex nested formulas, Power Query, or VBA in your daily financial work?",
+   "What exposure or practical experience do you have with Power BI for building business intelligence reports?",
+   "Can you share details about notable finance projects or professional certifications you have completed that are not listed on your profile?"
+  ]
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C021",
+  "total": 72.8,
+  "strengths": [
+   {
+    "source": "Financial modeling",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Financial Modeling",
+    "score": 1.0
+   },
+   {
+    "source": "IFRS",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "IFRS",
+    "score": 1.0
+   },
+   {
+    "source": "budgeting",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Budgeting & Forecasting",
+    "score": 1.0
+   },
+   {
+    "source": "ERP systems (SAP/Oracle)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "SAP FICO",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"Excel/advanced\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Power BI\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects, extra_curriculars listed on the profile"
+   }
+  ],
+  "summary": "C021 fits the profile with direct skills in financial modeling, IFRS, budgeting and forecasting, and SAP FICO ERP environments.",
+  "differentiator": "On paper, C021 shares an identical skills inventory and gap profile with C024, C027, and C028, showing no distinct technical differentiators among them.",
+  "questions": [
+   "What advanced Excel capabilities, such as automated modeling or complex data manipulation, do you bring to financial reporting?",
+   "Have you had any hands-on experience using Power BI to visualize financial data and KPIs?",
+   "Could you highlight a significant finance project from your retail or manufacturing background that reflects your leadership?"
+  ]
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C024",
+  "total": 70.5,
+  "strengths": [
+   {
+    "source": "Financial modeling",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Financial Modeling",
+    "score": 1.0
+   },
+   {
+    "source": "IFRS",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "IFRS",
+    "score": 1.0
+   },
+   {
+    "source": "budgeting",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Budgeting & Forecasting",
+    "score": 1.0
+   },
+   {
+    "source": "ERP systems (SAP/Oracle)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "SAP FICO",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"Excel/advanced\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Power BI\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects, extra_curriculars listed on the profile"
+   }
+  ],
+  "summary": "C024 shows strong foundational capabilities with direct skills listed in SAP FICO, financial modeling, IFRS, and budgeting and forecasting.",
+  "differentiator": "C024 looks virtually identical on paper to C021, C027, and C028, sharing the exact same core skills breakdown.",
+  "questions": [
+   "To what extent have you built and maintained advanced financial models using advanced Excel functions?",
+   "Do you have any practical working knowledge of Power BI for finance and operational reporting?",
+   "Could you provide an example of a high-impact financial initiative or project you delivered in your previous roles?"
+  ]
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C028",
+  "total": 69.3,
+  "strengths": [
+   {
+    "source": "Financial modeling",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Financial Modeling",
+    "score": 1.0
+   },
+   {
+    "source": "IFRS",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "IFRS",
+    "score": 1.0
+   },
+   {
+    "source": "budgeting",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Budgeting & Forecasting",
+    "score": 1.0
+   },
+   {
+    "source": "ERP systems (SAP/Oracle)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "SAP FICO",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"Excel/advanced\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Power BI\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects listed on the profile"
+   }
+  ],
+  "summary": "C028 is qualified across core finance functions with skills in financial modeling, IFRS, budgeting and forecasting, and SAP FICO.",
+  "differentiator": "C028 shares the exact same core rubric skill set as C021, C024, and C027, appearing essentially identical to them in technical qualifications.",
+  "questions": [
+   "How have you applied advanced Excel modeling techniques in your previous budgeting and forecasting work?",
+   "What level of familiarity or applied experience do you have with Power BI reporting tools?",
+   "Can you walk through a major finance project you executed that showcases your technical and analytical abilities?"
+  ]
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C029",
+  "total": 66.3,
+  "strengths": [
+   {
+    "source": "IFRS",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "IFRS 9",
+    "score": 1.0
+   },
+   {
+    "source": "budgeting",
+    "via": "direct",
+    "field": "projects",
+    "phrase": "budgeting",
+    "score": 1.0
+   },
+   {
+    "source": "Power BI",
+    "via": "direct",
+    "field": "projects",
+    "phrase": "Power BI",
+    "score": 1.0
+   },
+   {
+    "source": "Financial modeling",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Cash flow forecasting",
+    "score": 0.6
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"Excel/advanced\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"ERP systems (SAP/Oracle)\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no certifications listed on the profile"
+   }
+  ],
+  "summary": "C029 brings relevant experience with skills in IFRS 9 and cash flow forecasting, paired with project-demonstrated competence in budgeting and Power BI.",
+  "differentiator": "C029 is distinguished by having verified Power BI and budgeting work in projects, but is the only finalist completely missing ERP systems (SAP/Oracle).",
+  "questions": [
+   "Could you detail your experience with advanced Excel features such as financial automation, indexing, and lookup models?",
+   "What background or familiarity do you have with enterprise ERP platforms such as SAP or Oracle?",
+   "Do you hold any professional accounting or finance certifications (such as ACCA, CPA, or CMA) not detailed in your profile?"
+  ]
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C025",
+  "total": 62.5,
+  "strengths": [
+   {
+    "source": "Excel/advanced",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Excel/advanced",
+    "score": 1.0
+   },
+   {
+    "source": "ERP systems (SAP/Oracle)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Oracle ERP",
+    "score": 1.0
+   },
+   {
+    "source": "Financial modeling",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Financial analysis",
+    "score": 0.6
+   },
+   {
+    "source": "budgeting",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Variance analysis",
+    "score": 0.6
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"IFRS\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Power BI\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects listed on the profile"
+   }
+  ],
+  "summary": "C025 aligns with the role through direct skills in advanced Excel, Oracle ERP, financial analysis, and variance analysis.",
+  "differentiator": "C025 is on paper identical to C026 with Oracle ERP and advanced Excel, but both lack the explicit IFRS expertise present in higher-ranked candidates.",
+  "questions": [
+   "How have you applied IFRS standards in your financial accounting and reporting responsibilities?",
+   "What is your experience level with Power BI for creating management reporting dashboards?",
+   "Could you describe a notable finance or systems optimization project you managed in the GCC market?"
+  ]
+ },
+ {
+  "role_id": "R003",
+  "candidate_id": "C026",
+  "total": 62.5,
+  "strengths": [
+   {
+    "source": "Excel/advanced",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Excel/advanced",
+    "score": 1.0
+   },
+   {
+    "source": "ERP systems (SAP/Oracle)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Oracle ERP",
+    "score": 1.0
+   },
+   {
+    "source": "Financial modeling",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Financial analysis",
+    "score": 0.6
+   },
+   {
+    "source": "budgeting",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Variance analysis",
+    "score": 0.6
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"IFRS\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Power BI\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects listed on the profile"
+   }
+  ],
+  "summary": "C026 is a plausible candidate with direct skill strengths in advanced Excel, Oracle ERP, financial analysis, and variance analysis for budgeting.",
+  "differentiator": "C026 looks identical on paper to C025, sharing the same Oracle ERP and advanced Excel strengths while lacking direct IFRS and Power BI evidence.",
+  "questions": [
+   "How have you managed financial statements and accounting treatments under IFRS compliance in your past roles?",
+   "Have you used Power BI or similar BI tools to build automated FP&A dashboards?",
+   "Can you discuss a key FP&A or finance transformation project you delivered during your career?"
+  ]
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C101",
+  "total": 85.0,
+  "strengths": [
+   {
+    "source": "SQL",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "SQL",
+    "score": 1.0
+   },
+   {
+    "source": "Python/R",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Python",
+    "score": 1.0
+   },
+   {
+    "source": "statistics",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Statistics",
+    "score": 1.0
+   },
+   {
+    "source": "Tableau",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Tableau",
+    "score": 1.0
+   },
+   {
+    "source": "A/B testing experience",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "A/B testing",
+    "score": 1.0
+   },
+   {
+    "source": "data visualization",
+    "via": "direct",
+    "field": "projects",
+    "phrase": "Built a personal dashboard",
+    "score": 0.6
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "empty_field",
+    "detail": "no extra_curriculars, certifications listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"1 month\" \u2014 not immediately available"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Cairo, Egypt \u2014 not the role's location"
+   }
+  ],
+  "summary": "C101 demonstrates comprehensive alignment with the rubric, possessing direct skills in SQL, Python, statistics, Tableau, and A/B testing, along with data visualization demonstrated through a personal dashboard project.",
+  "differentiator": "C101 is the top-ranked candidate and one of only two finalists who directly demonstrates all six rubric criteria across both skills and portfolio projects.",
+  "questions": [
+   "Do you have any relevant professional certifications or extracurricular activities that are not listed on your resume?",
+   "Your profile indicates a 1-month notice period; could you confirm your availability to transition into this role?",
+   "You are currently based in Cairo, Egypt; what is your timeline and availability regarding working in this role's location?"
+  ]
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C035",
+  "total": 81.5,
+  "strengths": [
+   {
+    "source": "SQL",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "SQL",
+    "score": 1.0
+   },
+   {
+    "source": "Python/R",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Python",
+    "score": 1.0
+   },
+   {
+    "source": "data visualization",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Looker",
+    "score": 1.0
+   },
+   {
+    "source": "statistics",
+    "via": "direct",
+    "field": "education",
+    "phrase": "Statistics",
+    "score": 0.7
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Tableau\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"A/B testing experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"2 weeks notice\" \u2014 not immediately available"
+   }
+  ],
+  "summary": "C035 brings a solid data analysis foundation with direct skills in SQL and Python, data visualization experience via Looker, and academic background in statistics.",
+  "differentiator": "Unlike candidates who use Tableau or Power BI, C035 relies on Looker for data visualization and has relatively high implied experience (8.63 years) despite lacking Tableau and A/B testing in their profile.",
+  "questions": [
+   "The role prefers experience with Tableau; have you worked with Tableau in any past projects or professional settings?",
+   "Could you describe any experience you have designing or analyzing A/B tests?",
+   "You have a 2-week notice period listed; can you confirm how soon you would be able to start?"
+  ]
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C038",
+  "total": 81.2,
+  "strengths": [
+   {
+    "source": "SQL",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "SQL",
+    "score": 1.0
+   },
+   {
+    "source": "Python/R",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Python",
+    "score": 1.0
+   },
+   {
+    "source": "statistics",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Statistics",
+    "score": 1.0
+   },
+   {
+    "source": "Tableau",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Tableau",
+    "score": 1.0
+   },
+   {
+    "source": "A/B testing experience",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "A/B testing",
+    "score": 1.0
+   },
+   {
+    "source": "data visualization",
+    "via": "direct",
+    "field": "projects",
+    "phrase": "dashboard",
+    "score": 0.6
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"90 days notice\" \u2014 not immediately available"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Amman, Jordan \u2014 not the role's location"
+   }
+  ],
+  "summary": "C038 covers the rubric thoroughly with direct skills in SQL, Python, statistics, Tableau, and A/B testing, supplemented by practical data visualization shown in a dashboard project.",
+  "differentiator": "C038 matches the top technical skill profile with full direct coverage including Tableau, A/B testing, and dashboard projects, but faces logistical constraints with a 90-day notice period and location in Amman.",
+  "questions": [
+   "Your profile lists a 90-day notice period; is there any flexibility to expedite your start date?",
+   "Are you open to relocating or working in the target location given that you are currently located in Amman, Jordan?"
+  ]
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C039",
+  "total": 80.8,
+  "strengths": [
+   {
+    "source": "SQL",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "SQL",
+    "score": 1.0
+   },
+   {
+    "source": "Python/R",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "R",
+    "score": 1.0
+   },
+   {
+    "source": "data visualization",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Data visualization",
+    "score": 1.0
+   },
+   {
+    "source": "statistics",
+    "via": "direct",
+    "field": "education",
+    "phrase": "Statistics",
+    "score": 0.7
+   },
+   {
+    "source": "Tableau",
+    "via": "adjacent",
+    "field": "skills",
+    "phrase": "Power BI",
+    "score": 0.6
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"A/B testing experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "adjacent_substitution",
+    "detail": "\"Tableau\" (preferred) \u2014 credited via a related skill (\"Power BI\"), not named directly"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Alexandria, Egypt \u2014 not the role's location"
+   }
+  ],
+  "summary": "C039 offers strong analytical capabilities with direct skills in SQL, R for programming, data visualization, academic statistics training, and adjacent BI experience in Power BI.",
+  "differentiator": "Shares an identical skill set and background headline with C032 and C040 using R and Power BI rather than Python and Tableau, but has longer implied experience (8.63 years) and is based in Alexandria.",
+  "questions": [
+   "Do you have hands-on experience designing and evaluating A/B tests?",
+   "Your profile lists Power BI; how comfortable are you transitioning your BI skill set to Tableau for this role?",
+   "Given that you are located in Alexandria, Egypt, what is your availability for working in the role's designated location?"
+  ]
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C032",
+  "total": 79.5,
+  "strengths": [
+   {
+    "source": "SQL",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "SQL",
+    "score": 1.0
+   },
+   {
+    "source": "Python/R",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "R",
+    "score": 1.0
+   },
+   {
+    "source": "data visualization",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Data visualization",
+    "score": 1.0
+   },
+   {
+    "source": "statistics",
+    "via": "direct",
+    "field": "education",
+    "phrase": "Statistics",
+    "score": 0.7
+   },
+   {
+    "source": "Tableau",
+    "via": "adjacent",
+    "field": "skills",
+    "phrase": "Power BI",
+    "score": 0.6
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"A/B testing experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "adjacent_substitution",
+    "detail": "\"Tableau\" (preferred) \u2014 credited via a related skill (\"Power BI\"), not named directly"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no extra_curriculars, certifications listed on the profile"
+   }
+  ],
+  "summary": "C032 holds foundational qualifications in SQL, R programming, data visualization, an academic background in statistics, and adjacent dashboarding expertise in Power BI.",
+  "differentiator": "C032 shares a nearly identical skill configuration (R, Power BI, and formal statistics education) with C039 and C040, but is differentiated by having 7.63 years of implied experience alongside empty certification fields.",
+  "questions": [
+   "Have you had exposure to setting up, running, or analyzing A/B tests in your previous work?",
+   "Since the role prefers Tableau, how transferable is your Power BI visualization experience to Tableau?",
+   "Are there any professional certifications or extracurricular technical projects that you have completed outside your profile?"
+  ]
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C040",
+  "total": 78.3,
+  "strengths": [
+   {
+    "source": "SQL",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "SQL",
+    "score": 1.0
+   },
+   {
+    "source": "Python/R",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "R",
+    "score": 1.0
+   },
+   {
+    "source": "data visualization",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Data visualization",
+    "score": 1.0
+   },
+   {
+    "source": "statistics",
+    "via": "direct",
+    "field": "education",
+    "phrase": "Statistics",
+    "score": 0.7
+   },
+   {
+    "source": "Tableau",
+    "via": "adjacent",
+    "field": "skills",
+    "phrase": "Power BI",
+    "score": 0.6
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"A/B testing experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "adjacent_substitution",
+    "detail": "\"Tableau\" (preferred) \u2014 credited via a related skill (\"Power BI\"), not named directly"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects listed on the profile"
+   }
+  ],
+  "summary": "C040 meets core analysis criteria with direct skills in SQL, R, data visualization, a formal degree in statistics, and adjacent reporting experience using Power BI.",
+  "differentiator": "Shows the exact same skill profile as C032 and C039 on paper, but unlike C039, C040 lists no independent projects on their profile.",
+  "questions": [
+   "Do you have practical experience with A/B testing methodologies and statistical evaluation?",
+   "How proficient are you with Tableau, or how quickly can you translate your Power BI background to Tableau?",
+   "Could you highlight any relevant data analytics projects you have worked on that were omitted from your profile?"
+  ]
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C036",
+  "total": 77.8,
+  "strengths": [
+   {
+    "source": "SQL",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "SQL",
+    "score": 1.0
+   },
+   {
+    "source": "Python/R",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Python",
+    "score": 1.0
+   },
+   {
+    "source": "data visualization",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Looker",
+    "score": 1.0
+   },
+   {
+    "source": "statistics",
+    "via": "direct",
+    "field": "education",
+    "phrase": "Statistics",
+    "score": 0.7
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Tableau\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"A/B testing experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects listed on the profile"
+   }
+  ],
+  "summary": "C036 brings core data competencies with direct skills in SQL, Python, Looker for data visualization, and a formal educational background in statistics.",
+  "differentiator": "Shares an identical skill stack (Looker, Python, SQL, and Statistics education) with C033, C034, C035, and C104, distinguished primarily by an e-commerce background headline and 7.63 years of implied experience.",
+  "questions": [
+   "Do you have any hands-on experience working with Tableau for analytics and reporting?",
+   "Have you conducted or analyzed A/B tests in any of your past analytical roles?",
+   "Can you share details on any key data projects you have completed, as none are listed on your profile?"
+  ]
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C117",
+  "total": 76.6,
+  "strengths": [
+   {
+    "source": "SQL",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "SQL",
+    "score": 1.0
+   },
+   {
+    "source": "Python/R",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Python",
+    "score": 1.0
+   },
+   {
+    "source": "statistics",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Statistics",
+    "score": 1.0
+   },
+   {
+    "source": "Tableau",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Tableau",
+    "score": 1.0
+   },
+   {
+    "source": "A/B testing experience",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "A/B testing",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"data visualization\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no extra_curriculars, certifications listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"90 days notice\" \u2014 not immediately available"
+   }
+  ],
+  "summary": "C117 demonstrates strong analytical coverage with direct skills in SQL, Python, statistics, Tableau, and A/B testing.",
+  "differentiator": "Covers both preferred requirements (Tableau and A/B testing) directly in their skills, but uniquely lacks explicit data visualization evidence and has a 90-day notice period.",
+  "questions": [
+   "While you list Tableau, could you walk us through your direct experience building data visualizations and dashboards?",
+   "Do you have any certifications or extracurricular technical activities that are not shown on your profile?",
+   "You have a listed notice period of 90 days; is there any possibility to join sooner if an offer is extended?"
+  ]
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C034",
+  "total": 76.5,
+  "strengths": [
+   {
+    "source": "SQL",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "SQL",
+    "score": 1.0
+   },
+   {
+    "source": "Python/R",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Python",
+    "score": 1.0
+   },
+   {
+    "source": "data visualization",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Looker",
+    "score": 1.0
+   },
+   {
+    "source": "statistics",
+    "via": "direct",
+    "field": "education",
+    "phrase": "Statistics",
+    "score": 0.7
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Tableau\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"A/B testing experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects listed on the profile"
+   }
+  ],
+  "summary": "C034 is a capable analyst with direct skills in SQL and Python, data visualization in Looker, and an academic foundation in statistics.",
+  "differentiator": "Looks virtually identical on paper to C104, sharing the exact same headline, 5.63 years of implied experience, and skill profile relying on Looker without Tableau or A/B testing.",
+  "questions": [
+   "Do you have experience utilizing Tableau for business intelligence reporting?",
+   "Have you been involved in setting up or interpreting A/B testing experiments?",
+   "Are there any specific data analytics projects you have led that are not currently detailed on your resume?"
+  ]
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C033",
+  "total": 76.5,
+  "strengths": [
+   {
+    "source": "SQL",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "SQL",
+    "score": 1.0
+   },
+   {
+    "source": "Python/R",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Python",
+    "score": 1.0
+   },
+   {
+    "source": "data visualization",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Looker",
+    "score": 1.0
+   },
+   {
+    "source": "statistics",
+    "via": "direct",
+    "field": "education",
+    "phrase": "Statistics",
+    "score": 0.7
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Tableau\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"A/B testing experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects listed on the profile"
+   }
+  ],
+  "summary": "C033 possesses core technical capabilities including direct skills in SQL, Python, Looker for data visualization, and an education in statistics.",
+  "differentiator": "Shares the same Looker and Python toolset as C034, C104, and C036, differentiated primarily by having 6.63 years of implied experience.",
+  "questions": [
+   "What level of experience do you have creating dashboards or visualizations in Tableau?",
+   "Could you describe any exposure or background you have with A/B testing frameworks?",
+   "Can you discuss any significant data projects you have completed that were not included on your profile?"
+  ]
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C104",
+  "total": 76.5,
+  "strengths": [
+   {
+    "source": "SQL",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "SQL",
+    "score": 1.0
+   },
+   {
+    "source": "Python/R",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Python",
+    "score": 1.0
+   },
+   {
+    "source": "data visualization",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Looker",
+    "score": 1.0
+   },
+   {
+    "source": "statistics",
+    "via": "direct",
+    "field": "education",
+    "phrase": "Statistics",
+    "score": 0.7
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Tableau\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"A/B testing experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects listed on the profile"
+   }
+  ],
+  "summary": "C104 provides verified competencies in SQL, Python, Looker visualization, and academic training in statistics.",
+  "differentiator": "Completely identical on paper to C034 in headline, skills, and 5.63 years of implied experience, similarly omitting Tableau and A/B testing.",
+  "questions": [
+   "Have you had practical exposure to Tableau in any previous work or studies?",
+   "Do you have experience designing, running, or evaluating A/B tests?",
+   "Could you elaborate on any data analysis projects you have worked on that are not listed on your profile?"
+  ]
+ },
+ {
+  "role_id": "R004",
+  "candidate_id": "C037",
+  "total": 72.8,
+  "strengths": [
+   {
+    "source": "SQL",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "SQL",
+    "score": 1.0
+   },
+   {
+    "source": "Python/R",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Python",
+    "score": 1.0
+   },
+   {
+    "source": "statistics",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Statistics",
+    "score": 1.0
+   },
+   {
+    "source": "Tableau",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Tableau",
+    "score": 1.0
+   },
+   {
+    "source": "A/B testing experience",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "A/B testing",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"data visualization\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects, certifications listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"60 days\" \u2014 not immediately available"
+   }
+  ],
+  "summary": "C037 brings a strong technical toolkit with direct skills in SQL, Python, statistics, Tableau, and A/B testing.",
+  "differentiator": "Directly lists both Tableau and A/B testing alongside Python and SQL, similar to C117 and C038, but lacks explicit project evidence for data visualization and carries a 60-day notice period.",
+  "questions": [
+   "How have you applied your Tableau and statistics skills to create end-to-end data visualizations?",
+   "Do you have any portfolio projects or certifications you can share that were not listed on your profile?",
+   "Your profile states a 60-day notice period; is that timeline flexible should you be selected for the role?"
+  ]
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C120",
+  "total": 88.8,
+  "strengths": [
+   {
+    "source": "Employee relations",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Employee relations",
+    "score": 1.0
+   },
+   {
+    "source": "UAE labor law",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "UAE labor law",
+    "score": 1.0
+   },
+   {
+    "source": "performance management",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Performance management",
+    "score": 1.0
+   },
+   {
+    "source": "HRIS systems (Workday/SAP SuccessFactors)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "HRIS",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Arabic fluency\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects, extra_curriculars, certifications listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"30 days notice\" \u2014 not immediately available"
+   }
+  ],
+  "summary": "C120 is a strong fit for the role with core strengths listed in skills across Employee relations, UAE labor law, Performance management, and HRIS. They offer solid GCC-focused HR experience spanning an implied 7.6 years.",
+  "differentiator": "C120 shares an identical headline and core skills profile with C041 and C049, but unlike C041 (based in Qatar) and C049 (based in Egypt with a 2-month notice), C120 has a shorter 30-day notice period.",
+  "questions": [
+   "Do you have professional proficiency or fluency in spoken and written Arabic?",
+   "Could you highlight any specific HR projects, certifications, or extracurricular initiatives you have completed that are not listed on your profile?",
+   "Can you confirm your current 30-day notice period and whether there is any flexibility for an earlier start date?"
+  ]
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C041",
+  "total": 87.0,
+  "strengths": [
+   {
+    "source": "Employee relations",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Employee relations",
+    "score": 1.0
+   },
+   {
+    "source": "UAE labor law",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "UAE labor law",
+    "score": 1.0
+   },
+   {
+    "source": "performance management",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Performance management",
+    "score": 1.0
+   },
+   {
+    "source": "HRIS systems (Workday/SAP SuccessFactors)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "HRIS",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Arabic fluency\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Doha, Qatar \u2014 not the role's location"
+   }
+  ],
+  "summary": "C041 brings direct skills in Employee relations, UAE labor law, Performance management, and HRIS systems backed by over 8 years of implied experience. Their background directly matches the majority of the required competencies for an HR Business Partner.",
+  "differentiator": "C041 presents a virtually identical skill set and headline to C120 and C049, but is currently located in Doha, Qatar, requiring relocation unlike locally available candidates.",
+  "questions": [
+   "What level of professional fluency do you have in Arabic for workplace communication?",
+   "Are there key HR business partner projects or implementations you have led that are not documented on your profile?",
+   "Given that you are currently based in Doha, Qatar, what is your timeline and arrangement for relocating to the role's location?"
+  ]
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C049",
+  "total": 83.2,
+  "strengths": [
+   {
+    "source": "Employee relations",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Employee relations",
+    "score": 1.0
+   },
+   {
+    "source": "UAE labor law",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "UAE labor law",
+    "score": 1.0
+   },
+   {
+    "source": "performance management",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Performance management",
+    "score": 1.0
+   },
+   {
+    "source": "HRIS systems (Workday/SAP SuccessFactors)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "HRIS",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Arabic fluency\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"2 months\" \u2014 not immediately available"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Alexandria, Egypt \u2014 not the role's location"
+   }
+  ],
+  "summary": "C049 demonstrates key core competencies in Employee relations, UAE labor law, Performance management, and HRIS systems directly in their skills section. They bring extensive experience highlighted by 8.6 years in HR practice.",
+  "differentiator": "C049 has the same core skill profile as C120 and C041, but stands out with the longest notice period (2 months) and is currently located in Alexandria, Egypt.",
+  "questions": [
+   "Do you possess working or native fluency in Arabic in a professional HR context?",
+   "How firm is your 2-month notice period, and would you be able to negotiate an earlier release?",
+   "Since you are located in Alexandria, Egypt, what is your plan and availability for relocating for this position?"
+  ]
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C047",
+  "total": 68.5,
+  "strengths": [
+   {
+    "source": "Arabic fluency",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Arabic fluency",
+    "score": 1.0
+   },
+   {
+    "source": "Employee relations",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "employee relations",
+    "score": 0.9
+   },
+   {
+    "source": "UAE labor law",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "UAE labor law",
+    "score": 0.9
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"performance management\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"HRIS systems (Workday/SAP SuccessFactors)\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects listed on the profile"
+   }
+  ],
+  "summary": "C047 is an HR professional with explicit Arabic fluency listed in skills, alongside employee relations and UAE labor law evidenced in their headline. They bring 6.6 years of implied HR experience.",
+  "differentiator": "C047 is the only finalist in the pool with verified Arabic fluency in their skills, though they lack evidence for performance management and HRIS systems compared to C120, C041, and C049.",
+  "questions": [
+   "What experience do you have with structuring and running performance management cycles and employee appraisal frameworks?",
+   "Have you worked with enterprise HRIS platforms such as Workday or SAP SuccessFactors?",
+   "Can you describe any major HR projects or case management initiatives you have driven that are not listed on your profile?"
+  ]
+ },
+ {
+  "role_id": "R005",
+  "candidate_id": "C044",
+  "total": 60.0,
+  "strengths": [
+   {
+    "source": "HRIS systems (Workday/SAP SuccessFactors)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Workday",
+    "score": 1.0
+   },
+   {
+    "source": "performance management",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "performance management",
+    "score": 0.9
+   },
+   {
+    "source": "Employee relations",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Employee engagement",
+    "score": 0.6
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"UAE labor law\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Arabic fluency\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects, certifications listed on the profile"
+   }
+  ],
+  "summary": "C044 brings direct experience with Workday in their skills, along with background in performance management from their headline and employee engagement in skills. They offer over 5.6 years of implied HR generalist experience.",
+  "differentiator": "C044 explicitly specifies hands-on Workday expertise rather than a generic HRIS skill, but is the only candidate lacking evidence in UAE labor law.",
+  "questions": [
+   "What direct experience do you have interpreting and applying UAE labor law and local statutory regulations in HR operations?",
+   "Do you have any working fluency or capability in Arabic for business interactions?",
+   "Could you share details on any relevant HR certifications or projects you have completed that were omitted from your profile?"
+  ]
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C052",
+  "total": 95.0,
+  "strengths": [
+   {
+    "source": "Go-to-market strategy",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Go-to-market strategy",
+    "score": 1.0
+   },
+   {
+    "source": "positioning",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Positioning",
+    "score": 1.0
+   },
+   {
+    "source": "content creation",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Content creation",
+    "score": 1.0
+   },
+   {
+    "source": "Figma",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Figma",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"B2B SaaS experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no certifications listed on the profile"
+   }
+  ],
+  "summary": "C052 demonstrates all core rubric competencies, showing direct skills in Go-to-market strategy, positioning, content creation, and Figma. With an implied 6.83 years of experience, they provide strong foundational product marketing expertise.",
+  "differentiator": "Shares an identical headline and core skills profile with C058, but brings significantly more implied experience (6.83 years vs. 3.38 years) and lacks the location constraints or notice period delays present in other candidates.",
+  "questions": [
+   "Can you describe your direct experience marketing B2B SaaS products, including the target buyer personas and sales cycle complexities you handled?",
+   "Do you hold any relevant industry certifications in product marketing, analytics, or design tools that are not listed on your profile?"
+  ]
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C059",
+  "total": 91.2,
+  "strengths": [
+   {
+    "source": "Go-to-market strategy",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Go-to-market strategy",
+    "score": 1.0
+   },
+   {
+    "source": "positioning",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Positioning",
+    "score": 1.0
+   },
+   {
+    "source": "content creation",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Content creation",
+    "score": 1.0
+   },
+   {
+    "source": "Figma",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Figma",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"B2B SaaS experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no extra_curriculars listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"2 months\" \u2014 not immediately available"
+   }
+  ],
+  "summary": "C059 brings direct skills in Go-to-market strategy, positioning, content creation, and Figma. They present 5.18 years of implied experience aligned with key product marketing responsibilities.",
+  "differentiator": "Shares an identical headline and skills list with C055, but differs with an implied experience of 5.18 years and a 2-month notice period constraint.",
+  "questions": [
+   "Could you provide specific examples of your hands-on B2B SaaS experience and how you tailored positioning for enterprise software?",
+   "Are there any relevant extracurricular activities, professional groups, or community initiatives you participate in outside of work?",
+   "Given your stated two-month notice period, is there any flexibility to expedite your start date if an offer is extended?"
+  ]
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C058",
+  "total": 89.4,
+  "strengths": [
+   {
+    "source": "Go-to-market strategy",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Go-to-market strategy",
+    "score": 1.0
+   },
+   {
+    "source": "positioning",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Positioning",
+    "score": 1.0
+   },
+   {
+    "source": "content creation",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Content creation",
+    "score": 1.0
+   },
+   {
+    "source": "Figma",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Figma",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"B2B SaaS experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects, certifications listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Abu Dhabi, UAE \u2014 not the role's location"
+   }
+  ],
+  "summary": "C058 is equipped with core capabilities in Go-to-market strategy, positioning, content creation, and Figma listed in their skills. They offer 3.38 years of implied marketing experience.",
+  "differentiator": "Shares an identical headline and skills profile with C052, but has the shortest implied tenure in the finalist pool (3.38 years) and is currently based in Abu Dhabi, UAE.",
+  "questions": [
+   "Could you walk us through your specific work within B2B SaaS environments and the outcomes of those campaigns?",
+   "Can you highlight any key marketing projects or professional certifications you have completed that demonstrate your practical application of GTM strategies?",
+   "Are you open to relocating or working in the required role location given that you are currently based in Abu Dhabi?"
+  ]
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C051",
+  "total": 88.8,
+  "strengths": [
+   {
+    "source": "Go-to-market strategy",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Go-to-market strategy",
+    "score": 1.0
+   },
+   {
+    "source": "positioning",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Positioning",
+    "score": 1.0
+   },
+   {
+    "source": "content creation",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Content creation",
+    "score": 1.0
+   },
+   {
+    "source": "Figma",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Figma",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"B2B SaaS experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no certifications listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"2 weeks notice\" \u2014 not immediately available"
+   }
+  ],
+  "summary": "C051 holds verified skills in Go-to-market strategy, positioning, content creation, and Figma. They bring 5.98 years of implied experience driving product marketing efforts.",
+  "differentiator": "Shares a near-identical headline style and the exact same skill profile as C057, but distinguishes themselves with a standard two-week availability compared to C057's 45-day notice requirement.",
+  "questions": [
+   "What direct experience do you have executing go-to-market and positioning strategies specifically within the B2B SaaS sector?",
+   "Have you earned any product marketing or technical certifications that are not currently documented in your profile?",
+   "Can you confirm that you are able to transition within your stated two-week notice window upon receiving an offer?"
+  ]
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C057",
+  "total": 87.5,
+  "strengths": [
+   {
+    "source": "Go-to-market strategy",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Go-to-market strategy",
+    "score": 1.0
+   },
+   {
+    "source": "positioning",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Positioning",
+    "score": 1.0
+   },
+   {
+    "source": "content creation",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Content creation",
+    "score": 1.0
+   },
+   {
+    "source": "Figma",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Figma",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"B2B SaaS experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"45 days\" \u2014 not immediately available"
+   }
+  ],
+  "summary": "C057 covers key functional areas with direct skills listed in Go-to-market strategy, positioning, content creation, and Figma. Their profile reflects 5.83 years of implied marketing experience.",
+  "differentiator": "Shares a nearly identical headline structure and identical skills list with C051, but is distinguished by an implied 5.83 years of experience and a 45-day notice period.",
+  "questions": [
+   "Can you elaborate on your specific background working with B2B SaaS business models and recurring revenue products?",
+   "Could you share examples of standalone marketing projects or campaign deliverables you led from start to finish?",
+   "How firm is your 45-day notice period, and would you be able to negotiate an earlier release with your current employer?"
+  ]
+ },
+ {
+  "role_id": "R006",
+  "candidate_id": "C055",
+  "total": 87.0,
+  "strengths": [
+   {
+    "source": "Go-to-market strategy",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Go-to-market strategy",
+    "score": 1.0
+   },
+   {
+    "source": "positioning",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Positioning",
+    "score": 1.0
+   },
+   {
+    "source": "content creation",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Content creation",
+    "score": 1.0
+   },
+   {
+    "source": "Figma",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Figma",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"B2B SaaS experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no extra_curriculars, certifications listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Amman, Jordan \u2014 not the role's location"
+   }
+  ],
+  "summary": "C055 presents verified skills in Go-to-market strategy, positioning, content creation, and Figma. They bring 7.83 years of implied experience across marketing functions.",
+  "differentiator": "Shares an identical headline and skill list with C059, but brings the longest implied tenure (7.83 years) among all finalists while being based in Amman, Jordan.",
+  "questions": [
+   "Could you share details of your past experience driving GTM and positioning specifically for B2B SaaS platforms?",
+   "Do you participate in any relevant extracurricular marketing organizations, or do you hold formal professional certifications?",
+   "Are you willing to relocate or work across the required time zones given your current location in Amman, Jordan?"
+  ]
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C066",
+  "total": 87.0,
+  "strengths": [
+   {
+    "source": "Ticketing systems (Zendesk)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Zendesk",
+    "score": 1.0
+   },
+   {
+    "source": "troubleshooting",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Troubleshooting",
+    "score": 1.0
+   },
+   {
+    "source": "written communication",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Written communication",
+    "score": 1.0
+   },
+   {
+    "source": "Arabic + English bilingual",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Arabic + English bilingual",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"SaaS product experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no extra_curriculars, certifications listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Riyadh, Saudi Arabia \u2014 not the role's location"
+   }
+  ],
+  "summary": "C066 is a strong fit with core competencies evidenced directly in their skills list, including Zendesk ticketing, troubleshooting, written communication, and bilingual Arabic/English fluency.",
+  "differentiator": "Shares an identical set of verified skill keywords with C063, but has the longest implied tenure (7.63 years) among the bilingual finalists and is based in Riyadh.",
+  "questions": [
+   "Could you describe your hands-on experience supporting SaaS products, as specific SaaS background is not detailed in your profile?",
+   "Are there any professional certifications or extracurricular activities you have completed that are not listed on your profile?",
+   "Given that you are based in Riyadh, Saudi Arabia, what are your arrangements or availability regarding the location requirements for this role?"
+  ]
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C063",
+  "total": 83.2,
+  "strengths": [
+   {
+    "source": "Ticketing systems (Zendesk)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Zendesk",
+    "score": 1.0
+   },
+   {
+    "source": "troubleshooting",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Troubleshooting",
+    "score": 1.0
+   },
+   {
+    "source": "written communication",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Written communication",
+    "score": 1.0
+   },
+   {
+    "source": "Arabic + English bilingual",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Arabic + English bilingual",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"SaaS product experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects, certifications listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"60 days\" \u2014 not immediately available"
+   }
+  ],
+  "summary": "C063 matches key role requirements with explicit skills in Zendesk ticketing, troubleshooting, written communication, and Arabic and English bilingual capabilities.",
+  "differentiator": "Looks almost identical on paper to C066 in terms of listed skills, but is distinguished by a 60-day notice period and slightly shorter implied tenure (6.63 years).",
+  "questions": [
+   "Could you share details about the specific SaaS products and platforms you have supported, as evidence is missing from your profile?",
+   "Do you have any customer support projects or professional certifications to highlight that were not included on your profile?",
+   "Your profile indicates a 60-day notice period; is there any flexibility to adjust your start date if selected?"
+  ]
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C062",
+  "total": 57.2,
+  "strengths": [
+   {
+    "source": "Ticketing systems (Zendesk)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Ticketing systems",
+    "score": 1.0
+   },
+   {
+    "source": "Arabic + English bilingual",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "Arabic/English",
+    "score": 0.9
+   },
+   {
+    "source": "written communication",
+    "via": "direct",
+    "field": "projects",
+    "phrase": "Created an internal FAQ knowledge base",
+    "score": 0.6
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"troubleshooting\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"SaaS product experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no certifications listed on the profile"
+   }
+  ],
+  "summary": "C062 is a plausible fit holding ticketing systems skills, Arabic/English bilingual proficiency stated in their headline, and written communication demonstrated through their project creating an internal FAQ knowledge base.",
+  "differentiator": "Unlike C066 and C063 who list flat skills, C062 proves written communication through a concrete project (FAQ knowledge base), but lacks explicit troubleshooting evidence.",
+  "questions": [
+   "Could you walk us through a recent technical issue you resolved, given that explicit troubleshooting experience is not detailed in your profile?",
+   "What experience do you have supporting SaaS products or environments, as this is not detailed in your profile?",
+   "Do you hold any professional customer support or technical certifications that are not listed on your profile?"
+  ]
+ },
+ {
+  "role_id": "R007",
+  "candidate_id": "C070",
+  "total": 56.2,
+  "strengths": [
+   {
+    "source": "Ticketing systems (Zendesk)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Ticketing systems",
+    "score": 1.0
+   },
+   {
+    "source": "troubleshooting",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "troubleshooting",
+    "score": 0.9
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"written communication\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Arabic + English bilingual\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"SaaS product experience\" (preferred) \u2014 no evidence in the profile"
+   }
+  ],
+  "summary": "C070 brings troubleshooting capability highlighted in their headline alongside direct skills in ticketing systems and an implied 7.63 years of experience.",
+  "differentiator": "The only finalist who completely lacks recorded evidence for both written communication and Arabic/English bilingual capabilities.",
+  "questions": [
+   "Could you describe your experience with customer-facing written communication and ticket documentation, as this is not documented on your profile?",
+   "What is your level of bilingual proficiency in Arabic and English, given that language skills are not listed in your profile?",
+   "Can you elaborate on any experience you have working with SaaS products and cloud software solutions?"
+  ]
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C077",
+  "total": 90.0,
+  "strengths": [
+   {
+    "source": "CI/CD pipelines",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "CI/CD pipelines",
+    "score": 1.0
+   },
+   {
+    "source": "Docker",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Docker",
+    "score": 1.0
+   },
+   {
+    "source": "Kubernetes",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Kubernetes",
+    "score": 1.0
+   },
+   {
+    "source": "AWS/Azure",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "AWS",
+    "score": 1.0
+   },
+   {
+    "source": "Terraform",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Terraform",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"monitoring tools (Datadog/Prometheus)\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no extra_curriculars, certifications listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Abu Dhabi, UAE \u2014 not the role's location"
+   }
+  ],
+  "summary": "C077 offers comprehensive core coverage with direct skills listed in CI/CD pipelines, Docker, Kubernetes, AWS, and Terraform. Their background reflects over 6.6 years of implied experience in infrastructure automation.",
+  "differentiator": "Shares the exact core skill set as candidates like C075 and C074, but is distinguished by being located in Abu Dhabi with no listed certifications or extracurriculars.",
+  "questions": [
+   "Have you had practical experience with monitoring and observability tools such as Datadog or Prometheus?",
+   "Do you hold any relevant technical certifications or engage in extracurricular engineering activities outside your work history?",
+   "Given your location in Abu Dhabi, UAE, are you open to relocation or the working arrangements required for this position?"
+  ]
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C078",
+  "total": 88.8,
+  "strengths": [
+   {
+    "source": "CI/CD pipelines",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "CI/CD pipelines",
+    "score": 1.0
+   },
+   {
+    "source": "Docker",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Docker",
+    "score": 1.0
+   },
+   {
+    "source": "Kubernetes",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Kubernetes",
+    "score": 1.0
+   },
+   {
+    "source": "AWS/Azure",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "AWS",
+    "score": 1.0
+   },
+   {
+    "source": "Terraform",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Terraform",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"monitoring tools (Datadog/Prometheus)\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"2 weeks notice\" \u2014 not immediately available"
+   }
+  ],
+  "summary": "C078 demonstrates strong alignment with direct skills in CI/CD pipelines, Docker, Kubernetes, AWS, and Terraform across more than 5.6 years of implied experience.",
+  "differentiator": "Technically matches several other AWS/Kubernetes specialists (like C080, C073, and C072) on paper, but differentiates itself with a short 2-week notice period and an absence of listed projects.",
+  "questions": [
+   "What experience do you have setting up and maintaining monitoring systems like Datadog or Prometheus?",
+   "Could you highlight key infrastructure projects you have led that are not listed on your profile?",
+   "Can you confirm your availability to begin after completing your 2-week notice period?"
+  ]
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C075",
+  "total": 87.6,
+  "strengths": [
+   {
+    "source": "CI/CD pipelines",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "CI/CD pipelines",
+    "score": 1.0
+   },
+   {
+    "source": "Docker",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Docker",
+    "score": 1.0
+   },
+   {
+    "source": "Kubernetes",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Kubernetes",
+    "score": 1.0
+   },
+   {
+    "source": "AWS/Azure",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "AWS",
+    "score": 1.0
+   },
+   {
+    "source": "Terraform",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Terraform",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"monitoring tools (Datadog/Prometheus)\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no certifications listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Alexandria, Egypt \u2014 not the role's location"
+   }
+  ],
+  "summary": "C075 is a strong candidate with direct skills in CI/CD pipelines, Docker, Kubernetes, AWS, and Terraform, supported by over 8.6 years of implied experience.",
+  "differentiator": "Brings the highest implied experience (8.63 years) among all finalists possessing direct skills across all five core areas (CI/CD, Docker, Kubernetes, AWS, and Terraform).",
+  "questions": [
+   "Have you worked with monitoring solutions such as Datadog or Prometheus in production environments?",
+   "Do you possess any industry-recognized cloud or DevOps certifications?",
+   "Are you open to relocating from Alexandria, Egypt or working remotely according to the role's schedule?"
+  ]
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C080",
+  "total": 87.6,
+  "strengths": [
+   {
+    "source": "CI/CD pipelines",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "CI/CD pipelines",
+    "score": 1.0
+   },
+   {
+    "source": "Docker",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Docker",
+    "score": 1.0
+   },
+   {
+    "source": "Kubernetes",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Kubernetes",
+    "score": 1.0
+   },
+   {
+    "source": "AWS/Azure",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "AWS",
+    "score": 1.0
+   },
+   {
+    "source": "Terraform",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Terraform",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"monitoring tools (Datadog/Prometheus)\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Alexandria, Egypt \u2014 not the role's location"
+   }
+  ],
+  "summary": "C080 is a strong match for the role, demonstrating direct skills in CI/CD pipelines, Docker, Kubernetes, AWS, and Terraform across ~7.6 years of implied experience.",
+  "differentiator": "Shares an identical headline and skill profile with C078, C073, and C072, differing primarily by being located in Alexandria, Egypt.",
+  "questions": [
+   "Have you utilized monitoring and alerting tools like Prometheus or Datadog in your cloud infrastructure?",
+   "What are your relocation or remote work arrangements given your location in Alexandria, Egypt?"
+  ]
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C074",
+  "total": 87.5,
+  "strengths": [
+   {
+    "source": "CI/CD pipelines",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "CI/CD pipelines",
+    "score": 1.0
+   },
+   {
+    "source": "Docker",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Docker",
+    "score": 1.0
+   },
+   {
+    "source": "Kubernetes",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Kubernetes",
+    "score": 1.0
+   },
+   {
+    "source": "AWS/Azure",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "AWS",
+    "score": 1.0
+   },
+   {
+    "source": "Terraform",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Terraform",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"monitoring tools (Datadog/Prometheus)\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"45 days\" \u2014 not immediately available"
+   }
+  ],
+  "summary": "C074 brings solid infrastructure automation capability with direct skills listed in CI/CD pipelines, Docker, Kubernetes, AWS, and Terraform.",
+  "differentiator": "Shares identical five-skill coverage with several finalists, but is distinguished by a 45-day notice period and no listed standalone projects.",
+  "questions": [
+   "Have you utilized observability platforms like Datadog or Prometheus to monitor infrastructure performance?",
+   "Can you walk us through a major infrastructure automation project you have delivered that was not included in your profile?",
+   "Would you be able to negotiate or adjust your 45-day notice period if necessary?"
+  ]
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C073",
+  "total": 86.2,
+  "strengths": [
+   {
+    "source": "CI/CD pipelines",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "CI/CD pipelines",
+    "score": 1.0
+   },
+   {
+    "source": "Docker",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Docker",
+    "score": 1.0
+   },
+   {
+    "source": "Kubernetes",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Kubernetes",
+    "score": 1.0
+   },
+   {
+    "source": "AWS/Azure",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "AWS",
+    "score": 1.0
+   },
+   {
+    "source": "Terraform",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Terraform",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"monitoring tools (Datadog/Prometheus)\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"2 months\" \u2014 not immediately available"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Beirut, Lebanon \u2014 not the role's location"
+   }
+  ],
+  "summary": "C073 covers core infrastructure requirements with direct skills in CI/CD pipelines, Docker, Kubernetes, AWS, and Terraform.",
+  "differentiator": "Matches the headline and skills of C078, C080, and C072, but stands apart with a 2-month notice period and location in Beirut, Lebanon.",
+  "questions": [
+   "Do you have hands-on experience implementing monitoring tools such as Datadog or Prometheus?",
+   "Is your 2-month notice period flexible depending on company onboarding timelines?",
+   "How do you plan to handle the location requirement given that you are based in Beirut, Lebanon?"
+  ]
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C072",
+  "total": 83.8,
+  "strengths": [
+   {
+    "source": "CI/CD pipelines",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "CI/CD pipelines",
+    "score": 1.0
+   },
+   {
+    "source": "Docker",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Docker",
+    "score": 1.0
+   },
+   {
+    "source": "Kubernetes",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Kubernetes",
+    "score": 1.0
+   },
+   {
+    "source": "AWS/Azure",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "AWS",
+    "score": 1.0
+   },
+   {
+    "source": "Terraform",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Terraform",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"monitoring tools (Datadog/Prometheus)\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no extra_curriculars listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"60 days\" \u2014 not immediately available"
+   }
+  ],
+  "summary": "C072 shows strong fit across infrastructure fundamentals with direct skills in CI/CD pipelines, Docker, Kubernetes, AWS, and Terraform.",
+  "differentiator": "Shares an identical headline and direct skills list with C080, C078, and C073, but is distinguished by a longer 60-day notice period and no listed extracurriculars.",
+  "questions": [
+   "Have you managed or configured monitoring stacks like Datadog or Prometheus?",
+   "Do you participate in any technical extracurriculars or open-source communities outside your day-to-day work?",
+   "Can your 60-day notice period be expedited if an offer is extended?"
+  ]
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C009",
+  "total": 79.8,
+  "strengths": [
+   {
+    "source": "CI/CD pipelines",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "CI/CD",
+    "score": 1.0
+   },
+   {
+    "source": "Docker",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Docker",
+    "score": 1.0
+   },
+   {
+    "source": "AWS/Azure",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "AWS",
+    "score": 1.0
+   },
+   {
+    "source": "Kubernetes",
+    "via": "direct",
+    "field": "certifications",
+    "phrase": "Kubernetes",
+    "score": 0.75
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Terraform\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"monitoring tools (Datadog/Prometheus)\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"1 month\" \u2014 not immediately available"
+   }
+  ],
+  "summary": "C009 brings backend and infrastructure experience with skills in CI/CD, Docker, and AWS, complemented by a Kubernetes certification.",
+  "differentiator": "Unlike candidates who have Kubernetes listed as a general skill, C009's Kubernetes proficiency is backed by a certification, sharing a backend background with C008 while having a shorter 1-month notice period.",
+  "questions": [
+   "Have you worked with Terraform to automate infrastructure provisioning?",
+   "Do you have experience configuring observability or monitoring tools like Datadog or Prometheus?",
+   "Can you confirm your availability to transition within your stated 1-month notice period?"
+  ]
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C126",
+  "total": 77.4,
+  "strengths": [
+   {
+    "source": "CI/CD pipelines",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Jenkins",
+    "score": 1.0
+   },
+   {
+    "source": "AWS/Azure",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Azure",
+    "score": 1.0
+   },
+   {
+    "source": "Terraform",
+    "via": "direct",
+    "field": "projects",
+    "phrase": "Terraform",
+    "score": 1.0
+   },
+   {
+    "source": "monitoring tools (Datadog/Prometheus)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Monitoring (Datadog/Prometheus)",
+    "score": 1.0
+   },
+   {
+    "source": "Kubernetes",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "Kubernetes",
+    "score": 0.9
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"Docker\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no extra_curriculars listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"starts in 2027\" \u2014 not immediately available"
+   }
+  ],
+  "summary": "C126 presents a well-rounded background with skills in Jenkins, Azure, and Datadog/Prometheus monitoring, alongside Terraform verified in projects and Kubernetes in their headline.",
+  "differentiator": "One of the few finalists with explicit monitoring tool skills and Azure experience, but has an unusually distant availability timeline with a notice period starting in 2027.",
+  "questions": [
+   "Do you have hands-on experience working with Docker containers that was omitted from your profile?",
+   "Have you participated in any technical extracurricular projects or community initiatives?",
+   "Can you clarify your availability timeline given the note that your notice period starts in 2027?"
+  ]
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C008",
+  "total": 77.2,
+  "strengths": [
+   {
+    "source": "CI/CD pipelines",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "CI/CD",
+    "score": 1.0
+   },
+   {
+    "source": "Docker",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Docker",
+    "score": 1.0
+   },
+   {
+    "source": "AWS/Azure",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "AWS",
+    "score": 1.0
+   },
+   {
+    "source": "Kubernetes",
+    "via": "direct",
+    "field": "certifications",
+    "phrase": "Kubernetes",
+    "score": 0.75
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Terraform\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"monitoring tools (Datadog/Prometheus)\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"2 months\" \u2014 not immediately available"
+   }
+  ],
+  "summary": "C008 demonstrates core infrastructure proficiency through direct skills in CI/CD, Docker, and AWS, alongside a Kubernetes certification.",
+  "differentiator": "Mirrors C009's skill set and certification-backed Kubernetes evidence, but is distinguished by a longer 2-month notice period.",
+  "questions": [
+   "Have you utilized Terraform for Infrastructure-as-Code deployments?",
+   "What experience do you have with monitoring and alerting tools like Prometheus or Datadog?",
+   "Are you able to negotiate your 2-month notice period for an earlier start date?"
+  ]
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C071",
+  "total": 71.6,
+  "strengths": [
+   {
+    "source": "CI/CD pipelines",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Jenkins",
+    "score": 1.0
+   },
+   {
+    "source": "Kubernetes",
+    "via": "direct",
+    "field": "projects",
+    "phrase": "Kubernetes",
+    "score": 1.0
+   },
+   {
+    "source": "AWS/Azure",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Azure",
+    "score": 1.0
+   },
+   {
+    "source": "monitoring tools (Datadog/Prometheus)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Monitoring (Datadog/Prometheus)",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"Docker\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Terraform\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no extra_curriculars listed on the profile"
+   }
+  ],
+  "summary": "C071 offers relevant reliability experience with skills in Jenkins, Azure, and Datadog/Prometheus monitoring, plus Kubernetes experience demonstrated through projects.",
+  "differentiator": "Combines monitoring tool skills with project-based Kubernetes experience and Azure, but lacks the Terraform and Docker skills present in other DevOps finalists.",
+  "questions": [
+   "Have you worked directly with Docker for container packaging and orchestration workflows?",
+   "Do you have practical experience using Terraform to manage infrastructure?",
+   "Are you involved in any extracurricular technical activities or community groups?"
+  ]
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C002",
+  "total": 69.0,
+  "strengths": [
+   {
+    "source": "CI/CD pipelines",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "CI/CD",
+    "score": 1.0
+   },
+   {
+    "source": "Docker",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Docker",
+    "score": 1.0
+   },
+   {
+    "source": "AWS/Azure",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "AWS",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"Kubernetes\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Terraform\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"monitoring tools (Datadog/Prometheus)\" (preferred) \u2014 no evidence in the profile"
+   }
+  ],
+  "summary": "C002 provides foundational cloud capabilities with direct skills listed in CI/CD, Docker, and AWS across over 5 years of implied experience.",
+  "differentiator": "Unlike the majority of finalists who have Kubernetes via skills, projects, or certifications, C002 shows no Kubernetes evidence anywhere on their profile.",
+  "questions": [
+   "Have you worked with Kubernetes for container orchestration or deployment management?",
+   "Do you have experience using Terraform to provision cloud infrastructure?",
+   "Have you utilized monitoring and observability platforms like Datadog or Prometheus?"
+  ]
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C003",
+  "total": 63.8,
+  "strengths": [
+   {
+    "source": "Docker",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Docker",
+    "score": 1.0
+   },
+   {
+    "source": "AWS/Azure",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "AWS Lambda",
+    "score": 1.0
+   },
+   {
+    "source": "Kubernetes",
+    "via": "direct",
+    "field": "certifications",
+    "phrase": "Kubernetes",
+    "score": 0.75
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"CI/CD pipelines\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Terraform\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"monitoring tools (Datadog/Prometheus)\" (preferred) \u2014 no evidence in the profile"
+   }
+  ],
+  "summary": "C003 brings cloud and container capabilities through skills in Docker and AWS Lambda, supported by a certification in Kubernetes.",
+  "differentiator": "The only finalist in the pool with Docker and Kubernetes certification who lacks any listed CI/CD pipeline skills.",
+  "questions": [
+   "Have you designed or maintained CI/CD pipelines in your previous software or cloud engineering roles?",
+   "Do you have experience defining infrastructure using Terraform?",
+   "Have you worked with monitoring tools such as Datadog or Prometheus?"
+  ]
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C004",
+  "total": 63.8,
+  "strengths": [
+   {
+    "source": "CI/CD pipelines",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Jenkins",
+    "score": 1.0
+   },
+   {
+    "source": "Kubernetes",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Kubernetes",
+    "score": 1.0
+   },
+   {
+    "source": "AWS/Azure",
+    "via": "direct",
+    "field": "certifications",
+    "phrase": "AWS",
+    "score": 0.75
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"Docker\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Terraform\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"monitoring tools (Datadog/Prometheus)\" (preferred) \u2014 no evidence in the profile"
+   }
+  ],
+  "summary": "C004 demonstrates infrastructure alignment with direct skills in Jenkins and Kubernetes, alongside an AWS certification.",
+  "differentiator": "Features a full-stack leaning background with certified AWS and direct Kubernetes skills, mirroring C001's profile structure but with fewer implied years of experience.",
+  "questions": [
+   "Do you have direct experience using Docker for containerization and image development?",
+   "Have you used Terraform or similar tools for Infrastructure-as-Code?",
+   "Have you implemented monitoring solutions using Datadog or Prometheus?"
+  ]
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C079",
+  "total": 59.4,
+  "strengths": [
+   {
+    "source": "CI/CD pipelines",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Jenkins",
+    "score": 1.0
+   },
+   {
+    "source": "AWS/Azure",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Azure",
+    "score": 1.0
+   },
+   {
+    "source": "Terraform",
+    "via": "direct",
+    "field": "projects",
+    "phrase": "Terraform",
+    "score": 1.0
+   },
+   {
+    "source": "monitoring tools (Datadog/Prometheus)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Monitoring (Datadog/Prometheus)",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"Docker\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_required",
+    "detail": "\"Kubernetes\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no extra_curriculars listed on the profile"
+   }
+  ],
+  "summary": "C079 provides site reliability skills in Jenkins, Azure, and Datadog/Prometheus monitoring, with Terraform experience demonstrated in projects.",
+  "differentiator": "Features project-level Terraform combined with monitoring skills and Azure, but is one of the few DevOps-titled finalists lacking both Docker and Kubernetes.",
+  "questions": [
+   "Have you worked with Docker to containerize applications and manage container runtimes?",
+   "Do you have practical experience operating or deploying workloads to Kubernetes clusters?",
+   "Do you engage in any technical extracurricular projects or continuous learning activities?"
+  ]
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C076",
+  "total": 58.1,
+  "strengths": [
+   {
+    "source": "CI/CD pipelines",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Jenkins",
+    "score": 1.0
+   },
+   {
+    "source": "AWS/Azure",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Azure",
+    "score": 1.0
+   },
+   {
+    "source": "monitoring tools (Datadog/Prometheus)",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Monitoring (Datadog/Prometheus)",
+    "score": 1.0
+   },
+   {
+    "source": "Terraform",
+    "via": "direct",
+    "field": "certifications",
+    "phrase": "Terraform",
+    "score": 0.75
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"Docker\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_required",
+    "detail": "\"Kubernetes\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects, extra_curriculars listed on the profile"
+   }
+  ],
+  "summary": "C076 possesses skills in Jenkins, Azure, and Datadog/Prometheus monitoring, alongside a Terraform certification.",
+  "differentiator": "Distinguished from C079 by holding an official Terraform certification rather than project experience, while similarly lacking Docker and Kubernetes.",
+  "questions": [
+   "What experience do you have working with Docker for building and managing containers?",
+   "Have you had exposure to Kubernetes cluster management or container deployments?",
+   "Could you share details about key engineering projects or extracurricular activities you have completed?"
+  ]
+ },
+ {
+  "role_id": "R008",
+  "candidate_id": "C001",
+  "total": 57.6,
+  "strengths": [
+   {
+    "source": "CI/CD pipelines",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Jenkins",
+    "score": 1.0
+   },
+   {
+    "source": "Kubernetes",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Kubernetes",
+    "score": 1.0
+   },
+   {
+    "source": "AWS/Azure",
+    "via": "direct",
+    "field": "certifications",
+    "phrase": "AWS",
+    "score": 0.75
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"Docker\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Terraform\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"monitoring tools (Datadog/Prometheus)\" (preferred) \u2014 no evidence in the profile"
+   }
+  ],
+  "summary": "C001 demonstrates strong backend infrastructure alignment with skills in Jenkins and Kubernetes, backed by an AWS certification and ~7.8 years of implied experience.",
+  "differentiator": "Matches C004's exact skill breakdown (Jenkins, Kubernetes skills, AWS certification) but brings significantly more implied experience (7.83 years versus 4.47 years).",
+  "questions": [
+   "Have you used Docker directly for application containerization and local development?",
+   "Do you have hands-on experience using Terraform for cloud infrastructure management?",
+   "Have you worked with monitoring and alerting tools such as Prometheus or Datadog?"
+  ]
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C088",
+  "total": 89.7,
+  "strengths": [
+   {
+    "source": "Full-cycle recruiting",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Full-cycle recruiting",
+    "score": 1.0
+   },
+   {
+    "source": "ATS tools",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "ATS tools",
+    "score": 1.0
+   },
+   {
+    "source": "sourcing",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Sourcing",
+    "score": 1.0
+   },
+   {
+    "source": "LinkedIn Recruiter",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "LinkedIn Recruiter",
+    "score": 1.0
+   },
+   {
+    "source": "Tech hiring experience",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "Talent acquisition specialist, tech",
+    "score": 0.54
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "empty_field",
+    "detail": "no extra_curriculars, certifications listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Amman, Jordan \u2014 not the role's location"
+   }
+  ],
+  "summary": "C088 matches the role requirements by demonstrating full-cycle recruiting, ATS tools, sourcing, and LinkedIn Recruiter in their skills, with tech hiring experience indicated in their headline.",
+  "differentiator": "Shares an identical headline and skill list with C081 and C082, but is differentiated by having 5.63 years of implied experience, being based in Amman, and having no noted notice period delay.",
+  "questions": [
+   "Your profile does not list any extra-curricular activities or professional certifications; do you hold any recruiting credentials or participate in relevant industry groups?",
+   "Since you are currently based in Amman, Jordan, what is your plan and timeline regarding the location requirements for this role?"
+  ]
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C086",
+  "total": 89.7,
+  "strengths": [
+   {
+    "source": "Full-cycle recruiting",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Full-cycle recruiting",
+    "score": 1.0
+   },
+   {
+    "source": "ATS tools",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "ATS tools",
+    "score": 1.0
+   },
+   {
+    "source": "sourcing",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Sourcing",
+    "score": 1.0
+   },
+   {
+    "source": "LinkedIn Recruiter",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "LinkedIn Recruiter",
+    "score": 1.0
+   },
+   {
+    "source": "Tech hiring experience",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "Technical recruiter",
+    "score": 0.54
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "empty_field",
+    "detail": "no projects, extra_curriculars, certifications listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Riyadh, Saudi Arabia \u2014 not the role's location"
+   }
+  ],
+  "summary": "C086 demonstrates tech hiring experience from their headline and lists full-cycle recruiting, ATS tools, sourcing, and LinkedIn Recruiter directly within their skills.",
+  "differentiator": "Shares an identical headline and skill profile with C083, but brings a longer implied background of 7.63 years and is based in Riyadh without an extended notice period.",
+  "questions": [
+   "Could you highlight any notable recruiting projects, certifications, or extra-curricular activities that are missing from your profile?",
+   "Given that you are located in Riyadh, Saudi Arabia, how do you plan to accommodate the location requirements for this position?"
+  ]
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C084",
+  "total": 89.7,
+  "strengths": [
+   {
+    "source": "Full-cycle recruiting",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Full-cycle recruiting",
+    "score": 1.0
+   },
+   {
+    "source": "ATS tools",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "ATS tools",
+    "score": 1.0
+   },
+   {
+    "source": "sourcing",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Sourcing",
+    "score": 1.0
+   },
+   {
+    "source": "LinkedIn Recruiter",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "LinkedIn Recruiter",
+    "score": 1.0
+   },
+   {
+    "source": "Tech hiring experience",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "Technical recruiter",
+    "score": 0.54
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "empty_field",
+    "detail": "no projects listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Alexandria, Egypt \u2014 not the role's location"
+   }
+  ],
+  "summary": "C084 covers all rubric criteria, possessing tech hiring experience in their headline and full-cycle recruiting, ATS tools, sourcing, and LinkedIn Recruiter in their skills.",
+  "differentiator": "Unlike other finalists with large discrepancies between stated and date-implied tenures, C084's stated 5 years closely aligns with their 5.63 years of implied experience, and they are the only finalist based in Alexandria.",
+  "questions": [
+   "Are there specific talent acquisition projects or process improvements you have driven that are not detailed on your profile?",
+   "As you are currently located in Alexandria, Egypt, what is your availability or plan to align with the location needs of this role?"
+  ]
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C081",
+  "total": 88.5,
+  "strengths": [
+   {
+    "source": "Full-cycle recruiting",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Full-cycle recruiting",
+    "score": 1.0
+   },
+   {
+    "source": "ATS tools",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "ATS tools",
+    "score": 1.0
+   },
+   {
+    "source": "sourcing",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Sourcing",
+    "score": 1.0
+   },
+   {
+    "source": "LinkedIn Recruiter",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "LinkedIn Recruiter",
+    "score": 1.0
+   },
+   {
+    "source": "Tech hiring experience",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "Talent acquisition specialist, tech and startup focus",
+    "score": 0.54
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "empty_field",
+    "detail": "no projects, extra_curriculars, certifications listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"2 weeks notice\" \u2014 not immediately available"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Riyadh, Saudi Arabia \u2014 not the role's location"
+   }
+  ],
+  "summary": "C081 is a strong fit with tech hiring experience reflected in their headline alongside full-cycle recruiting, ATS tools, sourcing, and LinkedIn Recruiter in their skills.",
+  "differentiator": "Shares an identical headline and skills profile with C088 and C082, but has the longest implied experience among them at 8.63 years and specifies a 2-week notice period.",
+  "questions": [
+   "Your profile omits projects, extra-curriculars, and certifications; are there any completed projects or certifications you would like to share?",
+   "You listed a notice period of 2 weeks; could you confirm how quickly you would be able to start upon receiving an offer?",
+   "Because you are based in Riyadh, Saudi Arabia, how do you plan to handle the logistical requirements of this role's location?"
+  ]
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C083",
+  "total": 87.2,
+  "strengths": [
+   {
+    "source": "Full-cycle recruiting",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Full-cycle recruiting",
+    "score": 1.0
+   },
+   {
+    "source": "ATS tools",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "ATS tools",
+    "score": 1.0
+   },
+   {
+    "source": "sourcing",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Sourcing",
+    "score": 1.0
+   },
+   {
+    "source": "LinkedIn Recruiter",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "LinkedIn Recruiter",
+    "score": 1.0
+   },
+   {
+    "source": "Tech hiring experience",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "Technical recruiter",
+    "score": 0.54
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "empty_field",
+    "detail": "no extra_curriculars, certifications listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"45 days\" \u2014 not immediately available"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Jeddah, Saudi Arabia \u2014 not the role's location"
+   }
+  ],
+  "summary": "C083 meets the rubric with tech hiring experience in their headline and full-cycle recruiting, ATS tools, sourcing, and LinkedIn Recruiter explicitly listed in their skills.",
+  "differentiator": "Shares the exact headline and skill set of C086, but is differentiated by being located in Jeddah and having a 45-day notice period.",
+  "questions": [
+   "Do you hold any talent acquisition certifications or participate in industry extra-curricular activities not mentioned on your profile?",
+   "You noted a 45-day notice period; is there any flexibility in negotiating an earlier start date?",
+   "Given your current location in Jeddah, Saudi Arabia, what are your arrangements for meeting the location requirements of this position?"
+  ]
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C082",
+  "total": 86.0,
+  "strengths": [
+   {
+    "source": "Full-cycle recruiting",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Full-cycle recruiting",
+    "score": 1.0
+   },
+   {
+    "source": "ATS tools",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "ATS tools",
+    "score": 1.0
+   },
+   {
+    "source": "sourcing",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Sourcing",
+    "score": 1.0
+   },
+   {
+    "source": "LinkedIn Recruiter",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "LinkedIn Recruiter",
+    "score": 1.0
+   },
+   {
+    "source": "Tech hiring experience",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "Talent acquisition specialist, tech",
+    "score": 0.54
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "empty_field",
+    "detail": "no projects, extra_curriculars, certifications listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"2 months\" \u2014 not immediately available"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Beirut, Lebanon \u2014 not the role's location"
+   }
+  ],
+  "summary": "C082 brings tech hiring experience based on their headline and demonstrates full-cycle recruiting, ATS tools, sourcing, and LinkedIn Recruiter through their skills list.",
+  "differentiator": "Shares the same headline and skills profile as C088 and C081, but is distinct in having the longest notice period among all finalists (2 months) and being based in Beirut.",
+  "questions": [
+   "Can you share any relevant projects, certifications, or extra-curricular engagements that are not documented on your profile?",
+   "Your profile indicates a 2-month notice period; could you clarify whether this timeline is fixed or open to adjustment?",
+   "Since you are located in Beirut, Lebanon, how would you manage the logistics regarding the location requirements for this role?"
+  ]
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C089",
+  "total": 61.5,
+  "strengths": [
+   {
+    "source": "ATS tools",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Greenhouse/Lever",
+    "score": 1.0
+   },
+   {
+    "source": "sourcing",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "sourcing",
+    "score": 0.9
+   },
+   {
+    "source": "Tech hiring experience",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "Technical recruiter",
+    "score": 0.54
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"Full-cycle recruiting\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"LinkedIn Recruiter\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no extra_curriculars, certifications listed on the profile"
+   }
+  ],
+  "summary": "C089 demonstrates sourcing and tech hiring experience in their headline, complemented by ATS tools experience (Greenhouse/Lever) in their skills.",
+  "differentiator": "Tied for the longest implied experience (8.63 years), but is distinguished from the higher-scoring cohort by lacking documented evidence for full-cycle recruiting and LinkedIn Recruiter.",
+  "questions": [
+   "Full-cycle recruiting is not listed on your profile; can you describe your experience managing end-to-end recruitment from initial requisition to offer closing?",
+   "Do you have practical experience using LinkedIn Recruiter for candidate sourcing and talent pipeline management?",
+   "Are there any professional recruiting certifications or extra-curricular activities you have pursued that are absent from your profile?"
+  ]
+ },
+ {
+  "role_id": "R009",
+  "candidate_id": "C087",
+  "total": 61.2,
+  "strengths": [
+   {
+    "source": "ATS tools",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Greenhouse/Lever",
+    "score": 1.0
+   },
+   {
+    "source": "Full-cycle recruiting",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "Full-cycle recruiter",
+    "score": 0.9
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"sourcing\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"Tech hiring experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"LinkedIn Recruiter\" (preferred) \u2014 no evidence in the profile"
+   }
+  ],
+  "summary": "C087 presents full-cycle recruiting capabilities in their headline along with verified ATS tools experience (Greenhouse/Lever) in their skills.",
+  "differentiator": "The only finalist who completely lacks profile evidence for both active sourcing and dedicated tech hiring experience, leaning primarily on full-cycle coordination.",
+  "questions": [
+   "Your profile lacks evidence of direct candidate sourcing; what methods and platforms do you use to proactively source passive talent?",
+   "Do you have prior experience hiring specifically for technical, software, or engineering disciplines?",
+   "Have you used LinkedIn Recruiter as part of your regular recruiting workflow?"
+  ]
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C096",
+  "total": 97.0,
+  "strengths": [
+   {
+    "source": "Contract drafting",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Contract drafting",
+    "score": 1.0
+   },
+   {
+    "source": "UAE commercial law",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "UAE commercial law",
+    "score": 1.0
+   },
+   {
+    "source": "compliance",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Compliance",
+    "score": 1.0
+   },
+   {
+    "source": "bilingual Arabic/English",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Bilingual Arabic/English",
+    "score": 1.0
+   },
+   {
+    "source": "GCC cross-border experience",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "GCC cross-border experience",
+    "score": 0.9
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "empty_field",
+    "detail": "no extra_curriculars, certifications listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Sharjah, UAE \u2014 not the role's location"
+   }
+  ],
+  "summary": "C096 is a strong fit with skills listed in contract drafting, UAE commercial law, compliance, and bilingual Arabic/English proficiency, alongside GCC cross-border experience highlighted in their headline.",
+  "differentiator": "Shares an identical headline and skill profile with C105, but has a longer implied tenure of 7.63 years compared to C105's 5.63 years and does not require a notice period.",
+  "questions": [
+   "Your profile does not mention any certifications or extracurricular activities; do you have any relevant professional credentials or industry involvement to add?",
+   "You are currently based in Sharjah, UAE; are you open and able to commute or relocate to the role's location?"
+  ]
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C105",
+  "total": 94.5,
+  "strengths": [
+   {
+    "source": "Contract drafting",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Contract drafting",
+    "score": 1.0
+   },
+   {
+    "source": "UAE commercial law",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "UAE commercial law",
+    "score": 1.0
+   },
+   {
+    "source": "compliance",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Compliance",
+    "score": 1.0
+   },
+   {
+    "source": "bilingual Arabic/English",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Bilingual Arabic/English",
+    "score": 1.0
+   },
+   {
+    "source": "GCC cross-border experience",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "GCC cross-border experience",
+    "score": 0.9
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "empty_field",
+    "detail": "no projects listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"45 days\" \u2014 not immediately available"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Sharjah, UAE \u2014 not the role's location"
+   }
+  ],
+  "summary": "C105 brings all key qualifications, with contract drafting, UAE commercial law, compliance, and bilingual Arabic/English skills verified, plus GCC cross-border experience evidenced in their headline.",
+  "differentiator": "Profiles identically to C096 in skills and headline, but has a shorter implied experience level (5.63 years) and a 45-day notice period.",
+  "questions": [
+   "There are no specific projects listed on your profile; could you describe a key legal project or matter you have managed?",
+   "Your profile indicates a 45-day notice period; is there any flexibility to start sooner if required?",
+   "Given that you are based in Sharjah, UAE, what is your plan regarding working in the role's designated location?"
+  ]
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C097",
+  "total": 92.5,
+  "strengths": [
+   {
+    "source": "Contract drafting",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Contract drafting",
+    "score": 1.0
+   },
+   {
+    "source": "UAE commercial law",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "UAE commercial law",
+    "score": 1.0
+   },
+   {
+    "source": "compliance",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Compliance",
+    "score": 1.0
+   },
+   {
+    "source": "bilingual Arabic/English",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Bilingual Arabic/English",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"GCC cross-border experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects, certifications listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Sharjah, UAE \u2014 not the role's location"
+   }
+  ],
+  "summary": "C097 covers the core requirements with skills in contract drafting, UAE commercial law, compliance, and bilingual Arabic/English capabilities.",
+  "differentiator": "Shares an identical skill set and headline with C092 and C091, but unlike them, is based in Sharjah and lacks project and certification listings.",
+  "questions": [
+   "Your profile does not provide evidence of GCC cross-border experience; have you handled legal matters across GCC jurisdictions outside the UAE?",
+   "You do not have any projects or certifications listed on your profile; are there any relevant legal certifications or major transactions you can share?",
+   "Since you are located in Sharjah, UAE, would you be willing to relocate or commute to the position's primary location?"
+  ]
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C100",
+  "total": 91.8,
+  "strengths": [
+   {
+    "source": "Contract drafting",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Contract drafting",
+    "score": 1.0
+   },
+   {
+    "source": "UAE commercial law",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "UAE commercial law",
+    "score": 1.0
+   },
+   {
+    "source": "compliance",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Compliance",
+    "score": 1.0
+   },
+   {
+    "source": "bilingual Arabic/English",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Bilingual Arabic/English",
+    "score": 1.0
+   },
+   {
+    "source": "GCC cross-border experience",
+    "via": "direct",
+    "field": "projects",
+    "phrase": "cross-border JV structuring project",
+    "score": 0.6
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "empty_field",
+    "detail": "no extra_curriculars listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"2 weeks notice\" \u2014 not immediately available"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Beirut, Lebanon \u2014 not the role's location"
+   }
+  ],
+  "summary": "C100 demonstrates strong alignment across skills in contract drafting, UAE commercial law, compliance, and bilingual Arabic/English, with GCC cross-border experience demonstrated through a cross-border JV structuring project.",
+  "differentiator": "Unlike C096 and C105 whose cross-border background comes from their headlines, C100 demonstrates GCC cross-border experience directly through a specific JV structuring project, though they are based in Beirut.",
+  "questions": [
+   "Your profile does not list any extracurricular activities or professional community engagements; is there any relevant involvement you would like to mention?",
+   "You have noted a 2-week notice period; can you confirm your timeline and availability to start?",
+   "You are currently located in Beirut, Lebanon; what would your timeline and arrangements be for relocating to the job's location?"
+  ]
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C092",
+  "total": 91.2,
+  "strengths": [
+   {
+    "source": "Contract drafting",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Contract drafting",
+    "score": 1.0
+   },
+   {
+    "source": "UAE commercial law",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "UAE commercial law",
+    "score": 1.0
+   },
+   {
+    "source": "compliance",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Compliance",
+    "score": 1.0
+   },
+   {
+    "source": "bilingual Arabic/English",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Bilingual Arabic/English",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"GCC cross-border experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects, extra_curriculars listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"30 days notice\" \u2014 not immediately available"
+   }
+  ],
+  "summary": "C092 offers verified skills in contract drafting, UAE commercial law, compliance, and bilingual Arabic/English fluency.",
+  "differentiator": "Shares an identical headline and skills profile with C097 and C091, but is distinguished by a 30-day notice period compared to C091's 90-day notice.",
+  "questions": [
+   "We did not see evidence of GCC cross-border experience on your profile; have you advised on legal matters spanning other GCC countries?",
+   "There are no projects or extracurricular activities listed on your profile; could you highlight any significant transactions or professional activities you've undertaken?",
+   "Your profile specifies a 30-day notice period; could you confirm how soon you would be able to transition into this role?"
+  ]
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C091",
+  "total": 90.0,
+  "strengths": [
+   {
+    "source": "Contract drafting",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Contract drafting",
+    "score": 1.0
+   },
+   {
+    "source": "UAE commercial law",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "UAE commercial law",
+    "score": 1.0
+   },
+   {
+    "source": "compliance",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Compliance",
+    "score": 1.0
+   },
+   {
+    "source": "bilingual Arabic/English",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Bilingual Arabic/English",
+    "score": 1.0
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_preferred",
+    "detail": "\"GCC cross-border experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "empty_field",
+    "detail": "no projects listed on the profile"
+   },
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"90 days notice\" \u2014 not immediately available"
+   }
+  ],
+  "summary": "C091 fulfills core needs through explicit skills in contract drafting, UAE commercial law, compliance, and bilingual Arabic/English fluency.",
+  "differentiator": "Has the longest implied tenure (8.63 years) among candidates sharing the 'In-house counsel with contract and compliance expertise' headline, but carries the longest notice period at 90 days.",
+  "questions": [
+   "Your profile lacks evidence of GCC cross-border legal work; what experience do you have dealing with cross-border matters in the GCC?",
+   "No projects are listed on your profile; could you share an example of a major legal initiative or deal you led?",
+   "You have a 90-day notice period listed; is there any possibility of negotiating an earlier release with your current employer?"
+  ]
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C093",
+  "total": 89.2,
+  "strengths": [
+   {
+    "source": "Contract drafting",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Contract drafting",
+    "score": 1.0
+   },
+   {
+    "source": "UAE commercial law",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "UAE commercial law",
+    "score": 1.0
+   },
+   {
+    "source": "compliance",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Compliance",
+    "score": 1.0
+   },
+   {
+    "source": "bilingual Arabic/English",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Bilingual Arabic/English",
+    "score": 1.0
+   },
+   {
+    "source": "GCC cross-border experience",
+    "via": "direct",
+    "field": "projects",
+    "phrase": "cross-border JV structuring project",
+    "score": 0.6
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "logistics",
+    "detail": "notice period: \"60 days\" \u2014 not immediately available"
+   },
+   {
+    "kind": "logistics",
+    "detail": "location: Amman, Jordan \u2014 not the role's location"
+   }
+  ],
+  "summary": "C093 covers all rubric criteria, holding skills in contract drafting, UAE commercial law, compliance, bilingual Arabic/English, and evidence of GCC cross-border experience from a cross-border JV structuring project.",
+  "differentiator": "Shares the same project-based GCC cross-border evidence as C100, but differs by being based in Amman, Jordan with a 60-day notice period.",
+  "questions": [
+   "Your profile indicates a 60-day notice period; how firm is this timeline for starting a new position?",
+   "You are currently based in Amman, Jordan; are you prepared to relocate to the role's location and what is your expected relocation timeline?"
+  ]
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C095",
+  "total": 63.0,
+  "strengths": [
+   {
+    "source": "compliance",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Regulatory compliance",
+    "score": 1.0
+   },
+   {
+    "source": "UAE commercial law",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "UAE commercial law",
+    "score": 0.9
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"Contract drafting\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"GCC cross-border experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"bilingual Arabic/English\" (preferred) \u2014 no evidence in the profile"
+   }
+  ],
+  "summary": "C095 brings regulatory compliance skills and indicates UAE commercial law experience in their headline.",
+  "differentiator": "Profiles nearly identically to C128 with limited rubric coverage (lacking contract drafting, cross-border experience, and bilingual skills), but states 6 years of UAE commercial law in their headline versus C128's stated 15 years.",
+  "questions": [
+   "Contract drafting is not listed on your profile; what is your direct experience drafting and reviewing commercial contracts?",
+   "We did not find evidence of GCC cross-border experience on your profile; have you worked on legal issues spanning multiple GCC jurisdictions?",
+   "Your profile does not indicate bilingual Arabic/English ability; what is your proficiency level in both written and spoken Arabic and English for legal work?"
+  ]
+ },
+ {
+  "role_id": "R010",
+  "candidate_id": "C128",
+  "total": 61.8,
+  "strengths": [
+   {
+    "source": "compliance",
+    "via": "direct",
+    "field": "skills",
+    "phrase": "Regulatory compliance",
+    "score": 1.0
+   },
+   {
+    "source": "UAE commercial law",
+    "via": "direct",
+    "field": "headline",
+    "phrase": "UAE commercial law",
+    "score": 0.9
+   }
+  ],
+  "gaps_asked": [
+   {
+    "kind": "absent_required",
+    "detail": "\"Contract drafting\" (required) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"GCC cross-border experience\" (preferred) \u2014 no evidence in the profile"
+   },
+   {
+    "kind": "absent_preferred",
+    "detail": "\"bilingual Arabic/English\" (preferred) \u2014 no evidence in the profile"
+   }
+  ],
+  "summary": "C128 demonstrates expertise in regulatory compliance via their skills and highlights UAE commercial law within their headline.",
+  "differentiator": "Looks virtually identical on paper to C095 in terms of covered rubric areas and missing requirements, but claims 15 years of UAE commercial law experience in their headline.",
+  "questions": [
+   "There is no mention of contract drafting on your profile; what hands-on experience do you have with drafting commercial agreements?",
+   "Your profile lacks evidence of GCC cross-border experience; have you managed legal matters across other GCC territories?",
+   "Bilingual Arabic/English proficiency is not documented in your profile; are you fluent in drafting and negotiating in both Arabic and English?"
+  ]
+ }
+]
