@@ -78,13 +78,13 @@ def skill_manual_edges() -> list[Edge]:
 # attaches as a full-credit surface — the underlying work is the same.
 
 _NARROWER_ADDITIONS = {
-    "TECHNICAL_RECRUITER": ["Recruiter", "Talent Acquisition Specialist"],
-    "HR_BUSINESS_PARTNER": ["HR Generalist"],
     "SALES_DEVELOPMENT_REPRESENTATIVE": ["Telesales Agent"],
 }
 
 _RELATED_ADDITIONS = {
     "BACKEND_ENGINEER": [("Software Engineer", 0.7)],
+    "TECHNICAL_RECRUITER": [("Talent Acquisition Specialist", 0.7), ("Recruiter", 0.6)],
+    "HR_BUSINESS_PARTNER": [("HR Generalist", 0.7)],
     "SALES_DEVELOPMENT_REPRESENTATIVE": [("Sales Executive", 0.7), ("Account Executive", 0.7)],
     "PRODUCT_MARKETING_MANAGER": [("Marketing Manager", 0.6), ("Growth Marketing Specialist", 0.6)],
     "CUSTOMER_SUPPORT_SPECIALIST": [("Customer Success Associate", 0.7)],
@@ -125,3 +125,15 @@ def build_patched_taxonomy(version: str, skill_raw: dict, occupation_raw: dict) 
     all_terms = tuple(skill_terms) + tuple(occ_terms)
     all_edges = tuple(skill_edges) + tuple(skill_manual_edges()) + tuple(occ_edges)
     return Taxonomy(version=version, terms=all_terms, edges=all_edges)
+
+
+if __name__ == "__main__":
+    import json
+    from engine.taxonomy import build_db, save_taxonomy
+
+    skill_raw = json.load(open("data/taxonomy_skill_raw.json"))
+    occ_raw = json.load(open("data/taxonomy_occupation_raw.json"))
+    tax = build_patched_taxonomy("2026-08-24.1", skill_raw, occ_raw)
+    save_taxonomy(tax, "data/taxonomy.json")
+    build_db(tax, "data/taxonomy.db")
+    print("Rebuilt data/taxonomy.json and data/taxonomy.db successfully!")

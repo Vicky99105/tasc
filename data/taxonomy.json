@@ -1,5 +1,5 @@
 {
-  "version": "v1-2026-08-23",
+  "version": "2026-08-24.1",
   "terms": [
     {
       "id": "PYTHON",
@@ -751,10 +751,11 @@
       "pillar": "occupation",
       "label": "HR Business Partner",
       "surfaces": [
-        "HR Business Partner",
-        "HR Generalist"
+        "HR Business Partner"
       ],
-      "related": {},
+      "related": {
+        "HR Generalist": 0.7
+      },
       "from_requirements": [
         "HR Business Partner"
       ]
@@ -809,11 +810,12 @@
       "pillar": "occupation",
       "label": "Technical Recruiter",
       "surfaces": [
-        "Technical Recruiter",
-        "Recruiter",
-        "Talent Acquisition Specialist"
+        "Technical Recruiter"
       ],
-      "related": {},
+      "related": {
+        "Talent Acquisition Specialist": 0.7,
+        "Recruiter": 0.6
+      },
       "from_requirements": [
         "Technical Recruiter"
       ]

@@ -52,15 +52,21 @@ class TestApplyOccupationPatches:
 
     def test_full_credit_titles_become_narrower_surfaces(self):
         patched = apply_occupation_patches(OCC_RAW)
-        recruiter = next(t for t in patched["terms"] if t["id"] == "TECHNICAL_RECRUITER")
-        assert "Recruiter" in recruiter["narrower"]
-        assert "Talent Acquisition Specialist" in recruiter["narrower"]
+        sdr = next(t for t in patched["terms"] if t["id"] == "SALES_DEVELOPMENT_REPRESENTATIVE")
+        assert "Telesales Agent" in sdr["narrower"]
 
     def test_partial_credit_titles_become_related_not_narrower(self):
         patched = apply_occupation_patches(OCC_RAW)
+        recruiter = next(t for t in patched["terms"] if t["id"] == "TECHNICAL_RECRUITER")
+        phrases = {r["phrase"]: r["weight"] for r in recruiter["related"]}
+        assert phrases["Recruiter"] == 0.6
+        assert phrases["Talent Acquisition Specialist"] == 0.7
+        assert "Recruiter" not in recruiter["narrower"]
+        assert "Talent Acquisition Specialist" not in recruiter["narrower"]
+
         sdr = next(t for t in patched["terms"] if t["id"] == "SALES_DEVELOPMENT_REPRESENTATIVE")
-        phrases = {r["phrase"]: r["weight"] for r in sdr["related"]}
-        assert phrases["Sales Executive"] == 0.7
+        sdr_phrases = {r["phrase"]: r["weight"] for r in sdr["related"]}
+        assert sdr_phrases["Sales Executive"] == 0.7
         assert "Sales Executive" not in sdr["narrower"]
 
     def test_idempotent_on_double_apply(self):
