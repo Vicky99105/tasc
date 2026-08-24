@@ -9,7 +9,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg: #f7f6f2;
+    --bg: #f8f7f4;
     --surface: #ffffff;
     --surface-hover: #faf9f6;
     --ink: #192127;
@@ -25,12 +25,10 @@
     --amber-border: #faeac4;
     --amber-ink: #8a5a1e;
     --amber-tag: #fdf4dc;
-    --tag-bg: #eeece6;
     --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.04);
     --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.05), 0 1px 3px rgba(0, 0, 0, 0.03);
     --radius-sm: 6px;
     --radius-md: 8px;
-    --radius-lg: 12px;
   }
 
   * { box-sizing: border-box; }
@@ -84,12 +82,6 @@
     box-shadow: 0 0 0 2px rgba(16, 185, 129, 0.2);
   }
 
-  .header-actions {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-
   .btn-ghost {
     background: none;
     border: 1px solid var(--border);
@@ -105,7 +97,6 @@
   .btn-ghost:hover {
     background: var(--bg);
     color: var(--ink);
-    border-color: var(--border);
   }
 
   /* Chat Log */
@@ -115,7 +106,7 @@
     padding: 20px;
     display: flex;
     flex-direction: column;
-    gap: 14px;
+    gap: 12px;
     scroll-behavior: smooth;
   }
 
@@ -138,25 +129,30 @@
 
   .msg.assistant {
     align-self: flex-start;
-    background: var(--surface);
+    background: #ffffff;
     border: 1px solid var(--border);
     color: var(--ink);
     border-bottom-left-radius: 2px;
   }
 
-  /* Execution Step Badges */
+  /* Execution Step Badges (Clean White Pill) */
   .tool-node {
     align-self: flex-start;
     display: inline-flex;
     align-items: center;
     gap: 6px;
-    background: var(--tag-bg);
+    background: #ffffff;
     border: 1px solid var(--border);
     color: var(--ink-secondary);
     font-size: 0.76rem;
-    padding: 4px 9px;
-    border-radius: 14px;
-    font-family: "JetBrains Mono", monospace;
+    padding: 4px 10px;
+    border-radius: 16px;
+    box-shadow: var(--shadow-sm);
+    margin: 2px 0;
+  }
+
+  .tool-node .icon {
+    font-size: 0.82rem;
   }
 
   .tool-node strong {
@@ -166,6 +162,8 @@
 
   .tool-node .meta {
     color: var(--ink-muted);
+    font-family: "JetBrains Mono", monospace;
+    font-size: 0.72rem;
   }
 
   /* Approval Gate Cards */
@@ -197,9 +195,6 @@
     font-size: 0.92rem;
     font-weight: 600;
     color: var(--ink);
-    display: flex;
-    align-items: center;
-    gap: 6px;
   }
 
   .gate-cost {
@@ -218,19 +213,18 @@
     color: var(--ink-secondary);
   }
 
-  /* Rubric Weights Grid */
   .rubric-weights-row {
     display: flex;
     flex-wrap: wrap;
     gap: 6px;
-    margin: 8px 0 12px;
+    margin: 8px 0 10px;
   }
 
   .weight-pill {
     font-size: 0.75rem;
     padding: 3px 8px;
     border-radius: var(--radius-sm);
-    background: var(--surface);
+    background: #ffffff;
     border: 1px solid var(--border-light);
     color: var(--ink-secondary);
   }
@@ -239,9 +233,8 @@
     color: var(--ink);
   }
 
-  /* Requirements Checklist */
   .req-list {
-    margin: 10px 0;
+    margin: 8px 0;
     display: flex;
     flex-direction: column;
     gap: 5px;
@@ -267,16 +260,10 @@
   .req-badge.required { background: #fee2e2; color: #991b1b; }
   .req-badge.preferred { background: #e0e7ff; color: #3730a3; }
 
-  /* Candidate Summary Content */
-  .formatted-content {
-    font-size: 0.85rem;
-    line-height: 1.55;
-    color: var(--ink);
-  }
-
+  /* Candidate Cards */
   .formatted-content h1 {
     font-size: 1.05rem;
-    margin: 8px 0 10px;
+    margin: 4px 0 10px;
     color: var(--ink);
     font-weight: 700;
     padding-bottom: 5px;
@@ -284,7 +271,7 @@
   }
 
   .candidate-card {
-    background: var(--surface);
+    background: #ffffff;
     border: 1px solid var(--border);
     border-radius: var(--radius-md);
     padding: 12px 14px;
@@ -323,12 +310,13 @@
   }
 
   .diff-box {
-    background: var(--tag-bg);
+    background: var(--bg);
     border-radius: var(--radius-sm);
     padding: 6px 10px;
     font-size: 0.8rem;
     color: var(--ink);
     margin: 6px 0;
+    border: 1px solid var(--border-light);
   }
 
   .diff-box strong {
@@ -365,7 +353,7 @@
     margin-bottom: 4px;
   }
 
-  /* Action Chips & Buttons */
+  /* Action Buttons / Chips */
   .action-chips {
     margin-top: 12px;
     padding-top: 10px;
@@ -388,7 +376,7 @@
   .action-btn {
     appearance: none;
     border: 1px solid var(--border);
-    background: var(--surface);
+    background: #ffffff;
     color: var(--ink);
     padding: 5px 11px;
     border-radius: var(--radius-sm);
@@ -425,25 +413,26 @@
     border-color: #fca5a5;
   }
 
-  /* Typing & Running Indicator */
+  /* Inline Typing & Running Indicator (Inside Chat Log) */
   .typing-indicator {
     align-self: flex-start;
     display: none;
     align-items: center;
-    gap: 6px;
-    background: var(--surface);
+    gap: 7px;
+    background: #ffffff;
     border: 1px solid var(--border);
     padding: 6px 12px;
     border-radius: 16px;
     box-shadow: var(--shadow-sm);
+    margin: 4px 0;
   }
 
   .typing-indicator.active {
-    display: flex;
+    display: inline-flex;
   }
 
   .typing-text {
-    font-size: 0.75rem;
+    font-size: 0.76rem;
     font-weight: 500;
     color: var(--ink-secondary);
   }
@@ -451,6 +440,7 @@
   .dot-pulse {
     display: flex;
     gap: 3px;
+    align-items: center;
   }
 
   .dot {
@@ -528,20 +518,13 @@
       <span class="status-dot"></span>
       <span>Candidate Match Intelligence</span>
     </div>
-    <div class="header-actions">
+    <div>
       <button class="btn-ghost" onclick="resetSession()">+ New Session</button>
     </div>
   </header>
 
-  <div id="log"></div>
-
-  <div id="typingIndicator" class="typing-indicator">
-    <span class="typing-text" id="typingStatus">Processing request...</span>
-    <div class="dot-pulse">
-      <span class="dot"></span>
-      <span class="dot"></span>
-      <span class="dot"></span>
-    </div>
+  <div id="log">
+    <!-- Messages and execution badges land here -->
   </div>
 
   <div id="inputRow">
@@ -554,12 +537,13 @@
 const log = document.getElementById('log');
 const input = document.getElementById('input');
 const sendBtn = document.getElementById('send');
-const typingIndicator = document.getElementById('typingIndicator');
-const typingStatus = document.getElementById('typingStatus');
-
 let sessionId = localStorage.getItem('tasc_session_id') || null;
 
-// Parse Candidate Dossier Markdown into Structured Cards
+// Create dynamic typing indicator inside log
+let typingEl = document.createElement('div');
+typingEl.className = 'typing-indicator';
+typingEl.innerHTML = '<span class="typing-text" id="typingStatus">Processing...</span><div class="dot-pulse"><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>';
+
 function formatCandidateSummary(md) {
   if (!md) return '';
   const lines = md.trim().split('\n');
@@ -577,7 +561,7 @@ function formatCandidateSummary(md) {
   for (let i = 1; i < parts.length; i++) {
     const section = parts[i];
     const clines = section.trim().split('\n');
-    const headerLine = clines[0]; // e.g. "C088 — 75.3"
+    const headerLine = clines[0];
     const [cid, score] = headerLine.includes('—') ? headerLine.split('—').map(s => s.trim()) : [headerLine, ''];
 
     let headline = '';
@@ -604,7 +588,7 @@ function formatCandidateSummary(md) {
       } else if (line.startsWith('**Questions**')) {
         mode = 'questions';
       } else if (mode === 'strengths' && line.startsWith('- ')) {
-        strengths.append ? strengths.append(line.slice(2)) : strengths.push(line.slice(2));
+        strengths.push(line.slice(2));
       } else if (mode === 'questions' && /^\d+\./.test(line)) {
         questions.push(line.replace(/^\d+\.\s*/, ''));
       } else if (mode === 'body' && !line.startsWith('**') && !line.startsWith('_')) {
@@ -648,13 +632,16 @@ function escapeHtml(str) {
 }
 
 function showTyping(statusText = 'Processing...') {
-  typingStatus.textContent = statusText;
-  typingIndicator.classList.add('active');
+  const label = typingEl.querySelector('.typing-text');
+  if (label) label.textContent = statusText;
+  typingEl.classList.add('active');
+  log.appendChild(typingEl);
   log.scrollTop = log.scrollHeight;
 }
 
 function hideTyping() {
-  typingIndicator.classList.remove('active');
+  typingEl.classList.remove('active');
+  if (typingEl.parentNode) typingEl.parentNode.removeChild(typingEl);
 }
 
 function saveLog() {
@@ -704,6 +691,9 @@ function addTool(node, summary) {
     icon = '⚙️';
     label = 'Compiled rubric';
     if (summary.est_cost !== undefined) detail = ` (est. $${Number(summary.est_cost).toFixed(4)})`;
+  } else if (node === 'approve_rubric') {
+    icon = '✓';
+    label = 'Rubric Approved';
   } else if (node === 'run_match') {
     icon = '🎯';
     label = 'Matched candidates';
@@ -712,6 +702,9 @@ function addTool(node, summary) {
     icon = '📝';
     label = 'Rendered briefs';
     if (summary.candidates_briefed !== undefined) detail = ` (${summary.candidates_briefed} briefs)`;
+  } else if (node === 'approve_summary') {
+    icon = '✓';
+    label = 'Shortlist Approved';
   } else if (node === 'send_to_slack') {
     icon = '🚀';
     label = 'Dispatched to Slack';
@@ -720,7 +713,7 @@ function addTool(node, summary) {
     label = 'Evaluated question';
   }
 
-  el.innerHTML = `<span>${icon}</span><strong>${label}</strong><span class="meta">${detail}</span>`;
+  el.innerHTML = `<span class="icon">${icon}</span><strong>${label}</strong><span class="meta">${detail}</span>`;
   log.appendChild(el);
   log.scrollTop = log.scrollHeight;
   saveLog();
